@@ -56,14 +56,14 @@ divnyformat:
 
 type Zavod struct {
 	cislo       int
-	veteraniada bool
+	attr bool
 	fname       string
 }
 
 func nacti_zavod(dir, fname string) Zavod {
   parts := strings.Split(fname, "|")
-		if len(parts) != 2 && len(parts) != 3 {
-			log.Fatalf("Soubor %v má špatný název\n", fname)
+		if len(parts) != 4 {
+		  log.Fatal("Format is number|attr|dd.mm.yyyy|name.suffix")
 		}
 
 		conv, err := strconv.ParseInt(parts[0], 10, 32)
@@ -72,15 +72,20 @@ func nacti_zavod(dir, fname string) Zavod {
 		}
 		cislo := int(conv)
 
-		veteraniada := false
-		if len(parts) == 3 {
-			if parts[1] != "v" {
-				log.Fatal("format je cislo|[v|]cokoli.xml")
+		attr := false
+		
+			switch(parts[1]) {
+			  case "v":
+			  attr = true
+			  case "":
+			    // do nothing
+			  default:
+				log.Fatal("Attribute must be ")
 			}
-			veteraniada = true
-		}
+			
+		
 
-		z := Zavod{cislo, veteraniada, path.Join(dir, fname)}
+		z := Zavod{cislo, attr, path.Join(dir, fname)}
 		return z
 		
 }
@@ -95,6 +100,10 @@ func nacti_zavody(dir string) []Zavod {
 		if j.IsDir() {
 			continue
 		}
+		if path.Ext(j.Name()) != ".xml" {
+		  continue
+		}
+		
 z := nacti_zavod(dir, j.Name())
 log.Printf("%#v\n", z)
 		zavody = append(zavody, z)
@@ -121,7 +130,7 @@ func nacti_oddily(fname string) map[string]bool {
 func main() {
 	db := sql.NewDb("db.sqlite", true)
 	//db := sql.NewDb(":memory:")
-	naplndb(db, "clubs.txt", "zavody/")
+	naplndb(db, "clubs.txt", "2013/")
 	zpracujdb(db)
 	//celkove, kategorie := vysledky(db)
 	db.Stop()
@@ -201,7 +210,7 @@ func naplndb(db sql.Db, foddily, dzavody string) {
 				//printf
 
 				b := bodovani.Ucast(katno) + bodovani.Umisteni(katno, umisteni, klaszav)
-				if vysledek.veteraniada {
+				if vysledek.attr {
 					b += bodovani.Bonifikace(umisteni)
 				}
 
