@@ -11,8 +11,10 @@ import (
 	"strings"
 
 	"veterani2013/bodovani"
+	"veterani2013/input"
 	"veterani2013/iof"
 	"veterani2013/sql"
+	"veterani2013/types"
 )
 
 type Kategorie struct {
@@ -55,42 +57,40 @@ divnyformat:
 }
 
 type Zavod struct {
-	cislo       int
-	attr bool
-	fname       string
+	cislo int
+	attr  bool
+	fname string
 }
 
 func nacti_zavod(dir, fname string) Zavod {
-  parts := strings.Split(fname, "|")
-		if len(parts) != 4 {
-		  log.Fatal("Format is number|attr|dd.mm.yyyy|name.suffix")
-		}
+	parts := strings.Split(fname, "|")
+	if len(parts) != 4 {
+		log.Fatal("Format is number|attr|dd.mm.yyyy|name.suffix")
+	}
 
-		conv, err := strconv.ParseInt(parts[0], 10, 32)
-		if err != nil {
-			log.Fatal(err)
-		}
-		cislo := int(conv)
+	conv, err := strconv.ParseInt(parts[0], 10, 32)
+	if err != nil {
+		log.Fatal(err)
+	}
+	cislo := int(conv)
 
-		attr := false
-		
-			switch(parts[1]) {
-			  case "v":
-			  attr = true
-			  case "":
-			    // do nothing
-			  default:
-				log.Fatal("Attribute must be ")
-			}
-			
-		
+	attr := false
 
-		z := Zavod{cislo, attr, path.Join(dir, fname)}
-		return z
-		
+	switch parts[1] {
+	case "v":
+		attr = true
+	case "":
+		// do nothing
+	default:
+		log.Fatal("Attribute must be ")
+	}
+
+	z := Zavod{cislo, attr, path.Join(dir, fname)}
+	return z
+
 }
 
-func nacti_zavody(dir string) []Zavod {
+func nacti_zavody(dir, suffix string) []Zavod {
 	zavody := make([]Zavod, 0)
 	fi, err := ioutil.ReadDir(dir)
 	if err != nil {
@@ -100,12 +100,12 @@ func nacti_zavody(dir string) []Zavod {
 		if j.IsDir() {
 			continue
 		}
-		if path.Ext(j.Name()) != ".xml" {
-		  continue
+		if path.Ext(j.Name()) != suffix {
+			continue
 		}
-		
-z := nacti_zavod(dir, j.Name())
-log.Printf("%#v\n", z)
+
+		z := nacti_zavod(dir, j.Name())
+		log.Printf("%#v\n", z)
 		zavody = append(zavody, z)
 	}
 	return zavody
@@ -150,14 +150,14 @@ func naplndb(db sql.Db, foddily, dzavody string) {
 	log.Printf("Oddilu: %d\n", len(oddily))
 	log.Println("-------------")
 	// nacist zavod po zavode
-	vysledky := nacti_zavody(dzavody)
+	vysledky := nacti_zavody(dzavody, ".xml")
 	log.Println("-------------")
 	for _, vysledek := range vysledky {
 		zavod := iof.Nacti_zavod(vysledek.fname)
 
-		kategorie := make(map[Kategorie]bool)
+		kategorie := make(map[types.Class]bool)
 		for _, r := range zavod.Results {
-			kategorie[NewKategorie(r.Category)] = true
+			kategorie[types.NewClass(r.Category)] = true
 		}
 
 		for k, _ := range kategorie {
@@ -172,21 +172,23 @@ func naplndb(db sql.Db, foddily, dzavody string) {
 			log.Println(r.Category)
 
 			kat := NewKategorie(r.Category)
-			if kat.b < 35 {
-				continue
-			}
-			katno := -1
-			for _, k := range []string{"", "A", "B", "C", "D", "E"} {
-				if kategorie[Kategorie{kat.a, kat.b, k}] {
-					katno++
-				}
-				if k == kat.c {
-					break
-				}
-			}
-			if katno == -1 {
-				log.Fatal("!!!BUG: katno!!!")
-			}
+			// 			if kat.b < 35 {
+			// 				continue
+			// 			}
+
+			// 			katno := -1
+			// 			for _, k := range []string{"", "A", "B", "C", "D", "E"} {
+			// 				if kategorie[Kategorie{kat.a, kat.b, k}] {
+			// 					katno++
+			// 				}
+			// 				if k == kat.c {
+			// 					break
+			// 				}
+			// 			}
+			// 			if katno == -1 {
+			// 				log.Fatal("!!!BUG: katno!!!")
+			// 			}
+			katno := bodovani.SubClassRank(kategorie, types.NewClass(r.Category))
 
 			klaszav := len(r.PersonResults)
 
@@ -197,22 +199,29 @@ func naplndb(db sql.Db, foddily, dzavody string) {
 				id := fmt.Sprintf("%s|%s", p.Person.Country, p.Person.Id)
 				umisteni := p.Result.Position
 
-				if umisteni < 1 || p.Result.Status.Value != "OK" {
-					fmt.Printf("vynechavam umisteni: %v status: %v\n", umisteni, p.Result.Status.Value)
-					continue
-				}
-
-				found := oddily[p.Person.Country]
-				if !found {
-					fmt.Printf("vynechavam Country: %v\n", p.Person.Country)
-					continue
-				}
+				// 				if umisteni < 1 || p.Result.Status.Value != "OK" {
+				// 					fmt.Printf("vynechavam umisteni: %v status: %v\n", umisteni, p.Result.Status.Value)
+				// 					continue
+				// 				}
+				//
+				// 				found := oddily[p.Person.Country]
+				// 				if !found {
+				// 					fmt.Printf("vynechavam Country: %v\n", p.Person.Country)
+				// 					continue
+				// 				}
 				//printf
 
-				b := bodovani.Ucast(katno) + bodovani.Umisteni(katno, umisteni, klaszav)
-				if vysledek.attr {
-					b += bodovani.Bonifikace(umisteni)
+				if !input.IsValid(oddily, types.Regno{C: p.Person.Country, N: p.Person.Id}, types.NewClass(r.Category),
+					p.Result.Position, p.Result.Status.Value) {
+					continue
 				}
+
+				// 				b := bodovani.Ucast(katno) + bodovani.Umisteni(katno, umisteni, klaszav)
+				// 				if vysledek.attr {
+				// 					b += bodovani.Bonifikace(umisteni)
+				// 				}
+
+				b := bodovani.Score(katno, umisteni, klaszav, vysledek.attr)
 
 				// 				if umisteni < 1 {
 				// 				  fmt.Printf("umisteni: %v, body: %v\n", umisteni, b)

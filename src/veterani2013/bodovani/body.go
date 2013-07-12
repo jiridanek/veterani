@@ -2,7 +2,9 @@ package bodovani
 
 import (
 	"fmt"
+	"log"
 	"math"
+	"veterani2013/types"
 )
 
 var _ = fmt.Printf
@@ -32,6 +34,16 @@ func max(a, b int) int {
 // 	}
 // 	return whole
 // }
+
+func Score(crank, pos, ncontestants int, veteraniada bool) int {
+	s := Ucast(crank) + Umisteni(crank, pos, ncontestants)
+	if veteraniada {
+		s += Bonifikace(pos)
+	}
+
+	return s
+
+}
 
 func Ucast(kat int) int {
 	switch kat {
@@ -87,4 +99,22 @@ func Umisteni(kat, u, kz int) int {
 		return max(body, 0)
 
 	}
+}
+
+func SubClassRank(cs map[types.Class]bool, c types.Class) int {
+	r := -1
+	for _, j := range []string{"", "A", "B", "C", "D", "E"} {
+		if cs[types.Class{c.A, c.B, j}] {
+			r++
+		}
+		if j == c.C {
+			break
+		}
+	}
+	// FIXME: move this check elsewhere
+	if r == -1 {
+		log.Fatal("!!!BUG: katno!!!")
+	}
+	return r
+
 }

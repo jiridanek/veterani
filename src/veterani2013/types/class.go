@@ -1,24 +1,25 @@
 package types
 
 import (
-  "fmt"
+	"fmt"
+	"strconv"
 )
 
-type Category struct {
-  a string
-  b int
-  c string
+type Class struct {
+	A string
+	B int
+	C string
 }
 
-func (c *Category) String() string {
-  if b == 0 {
-    return a
-  }
-  return fmt.Sprintf("%s%d%s", a,b,c)
+func (c Class) String() string {
+	if c.B == 0 {
+		return c.A
+	}
+	return fmt.Sprintf("%s%d%s", c.A, c.B, c.C)
 }
 
-func NewCategory(s string) *Category {
-if len(s) == 3 || len(s) == 4 {
+func NewClass(s string) Class {
+	if len(s) == 3 || len(s) == 4 {
 		var a, c string
 		var b int
 
@@ -41,9 +42,15 @@ if len(s) == 3 || len(s) == 4 {
 				goto wrongformat
 			}
 		}
-		return &Category{a, b, c}
+		return Class{a, b, c}
 	}
 
 wrongformat:
-	return &Category{s, 0, ""}
+	return Class{s, 0, ""}
+}
+
+type Regno struct {
+	C string
+	N string
+	L string
 }
