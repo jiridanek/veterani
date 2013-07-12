@@ -3,6 +3,7 @@ package types
 import (
 	"fmt"
 	"strconv"
+	"strings"
 )
 
 type Class struct {
@@ -53,4 +54,19 @@ type Regno struct {
 	C string
 	N string
 	L string
+}
+
+func NewRegno(s string) Regno {
+	c := s
+	n := ""
+
+	i := strings.IndexAny(s, "0123456789")
+	if i == -1 && len(s) > 3 {
+		i = 3
+	}
+	if i != -1 {
+		c = s[0:i]
+		n = s[i:]
+	}
+	return Regno{c, n, ""}
 }
