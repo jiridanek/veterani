@@ -51,8 +51,10 @@ func Ucast(kat int) int {
 		return 5
 	case 1:
 		return 3
-	default:
+	case 2:
 		return 1
+	default :
+	  return 0
 	}
 
 }
@@ -87,7 +89,7 @@ func Umisteni(kat, u, kz int) int {
 		body = vitez - (u - 1)
 		return max(body, 0)
 
-	default:
+	case 2:
 		var vitez int
 		var body int
 		vitez = 3
@@ -97,7 +99,8 @@ func Umisteni(kat, u, kz int) int {
 
 		body = vitez - (u - 1)
 		return max(body, 0)
-
+	default:
+	  return 0
 	}
 }
 
