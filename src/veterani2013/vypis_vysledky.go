@@ -45,11 +45,18 @@ func vypis_vysledky(db sql.Db) {
 	//fmt.Println(r[2])
 	//return
 
-	f, err := os.Create("hodnoceni_cpv_2013.txt")
+	f, err := os.Create("hodnoceni_cpv_2013.html")
 	if err != nil {
 		log.Fatal(err)
 	}
-	//defer f.Close()
+	defer f.Close()
+	fmt.Fprintf(f, `<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body><pre>
+`)
 	fmt.Fprintf(f, "\n")
 	for _, k := range []string{"D", "H"} {
 		fmt.Fprintf(f, "%s\n", k)
@@ -70,4 +77,8 @@ func vypis_vysledky(db sql.Db) {
 		}
 		fmt.Fprintf(f, "\n")
 	}
+	fmt.Fprintf(f, `</pre>
+</body>
+</html>
+`)
 }

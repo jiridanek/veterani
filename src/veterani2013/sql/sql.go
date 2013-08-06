@@ -303,7 +303,8 @@ func (db Db) Katporadi() {
 	}
 }
 
-type result struct {
+type Result struct {
+	Kp_poradi int
 	P_poradi   int
 	Ap_poradi  int
 	Z_id       string
@@ -315,9 +316,10 @@ type result struct {
 	Ap_scores  string
 }
 
-func (db Db) Getresults() []result {
+func (db Db) Getresults() []Result {
 	rows, err := db.Query(
 		`SELECT DISTINCT
+  kp.poradi,
   p.poradi,
   ap.poradi,
   z.id,
@@ -336,9 +338,10 @@ ORDER BY ap.poradi ASC`)
 	}
 	defer rows.Close()
 
-	results := make([]result, 0)
+	results := make([]Result, 0)
 
 	for rows.Next() {
+	        var kp_poradi int
 		var p_poradi int
 		var ap_poradi int
 		var z_id string
@@ -352,12 +355,13 @@ ORDER BY ap.poradi ASC`)
 		//cols, _ := rows.Columns()
 		//fmt.Println(cols)
 		//rows.Scan(&kp_poradi)
-		err = rows.Scan(&p_poradi, &ap_poradi, &z_id, &z_prijmeni, &z_jmeno, &nzavodu, &kategorie, &s_body, &ap_scores)
+		err = rows.Scan(&kp_poradi, &p_poradi, &ap_poradi, &z_id, &z_prijmeni, &z_jmeno, &nzavodu, &kategorie, &s_body, &ap_scores)
 		if err != nil {
 			log.Fatal(err)
 		}
 
-		r := result{P_poradi: p_poradi,
+		r := Result{Kp_poradi: kp_poradi,
+		  P_poradi: p_poradi,
 			Ap_poradi:  ap_poradi,
 			Z_id:       z_id,
 			Z_prijmeni: z_prijmeni,
@@ -375,6 +379,71 @@ ORDER BY ap.poradi ASC`)
 		log.Fatal(err)
 	}
 	return results
+}
+
+func (db *Db) Getraceresults(id string) map[int]int {
+  rows, err := db.Query(
+		`SELECT DISTINCT
+  v.zavodnikID,
+  v.zavod,
+  v.body
+FROM vysledek v
+WHERE zavodnikID=?`, id)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer rows.Close()
+
+	res := make(map[int]int, 0)
+
+	for rows.Next() {
+	        var v_zavodnikID string
+		var v_zavod int
+		var v_body int
+
+		//cols, _ := rows.Columns()
+		//fmt.Println(cols)
+		//rows.Scan(&kp_poradi)
+		err = rows.Scan(&v_zavodnikID, &v_zavod, &v_body)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		//fmt.Println(kp_poradi)
+
+		res[v_zavod] = v_body
+	}
+	if err = rows.Err(); err != nil {
+		log.Fatal(err)
+	}
+	return res
+}
+
+func (db *Db) Getkatporadi(id, kat string) int {
+  rows, err := db.Query(
+		`SELECT kp.poradi
+FROM katporadi kp
+WHERE kp.zavodnikID=? AND kp.kat=?`, id, kat)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer rows.Close()
+
+	rows.Next()
+		var kp_poradi int
+
+		err = rows.Scan(&kp_poradi)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		
+	
+	if err = rows.Err(); err != nil || rows.Next() {
+		log.Fatal(err)
+	}
+		
+	return kp_poradi
 }
 
 // kolik lidi bezelo ve vice kategoriich

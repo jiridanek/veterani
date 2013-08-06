@@ -1,19 +1,19 @@
 package main
 
 import (
-	"bufio"
+// 	"bufio"
 	"flag"
 	"fmt"
 	"io/ioutil"
 	"log"
-	"os"
+// 	"os"
 	"path"
 	"strconv"
 	"strings"
 
 	"veterani2013/bodovani"
 	"veterani2013/input"
-	"veterani2013/iof"
+// 	"veterani2013/iof"
 	"veterani2013/sql"
 	"veterani2013/types"
 )
@@ -57,42 +57,8 @@ divnyformat:
 	return Kategorie{s, 0, ""}
 }
 
-type Zavod struct {
-	cislo int
-	attr  bool
-	fname string
-}
-
-func nacti_zavod(dir, fname string) Zavod {
-	parts := strings.Split(fname, "|")
-	if len(parts) != 4 {
-		log.Fatal("Format is number|attr|dd.mm.yyyy|name.suffix")
-	}
-
-	conv, err := strconv.ParseInt(parts[0], 10, 32)
-	if err != nil {
-		log.Fatal(err)
-	}
-	cislo := int(conv)
-
-	attr := false
-
-	switch parts[1] {
-	case "v":
-		attr = true
-	case "":
-		// do nothing
-	default:
-		log.Fatal("Attribute must be ")
-	}
-
-	z := Zavod{cislo, attr, path.Join(dir, fname)}
-	return z
-
-}
-
-func nacti_zavody(dir, suffix string) []Zavod {
-	zavody := make([]Zavod, 0)
+func nacti_zavody(dir, suffix string) []input.Zavod {
+	zavody := make([]input.Zavod, 0)
 	fi, err := ioutil.ReadDir(dir)
 	if err != nil {
 		log.Fatal(err)
@@ -105,27 +71,11 @@ func nacti_zavody(dir, suffix string) []Zavod {
 			continue
 		}
 
-		z := nacti_zavod(dir, j.Name())
+		z := input.Nacti_zavod(dir, j.Name())
 		log.Printf("%#v\n", z)
 		zavody = append(zavody, z)
 	}
 	return zavody
-}
-
-func nacti_oddily(fname string) map[string]bool {
-	oddily := make(map[string]bool)
-	f, err := os.Open(fname)
-	if err != nil {
-		log.Fatal(err)
-	}
-	s := bufio.NewScanner(f)
-	for s.Scan() {
-		oddily[s.Text()] = true
-	}
-	if err := s.Err(); err != nil {
-		log.Fatal(err)
-	}
-	return oddily
 }
 
 var clubs = flag.String("clubs", "", "Seznam platných oddílů")
@@ -152,7 +102,7 @@ func zpracujdb(db sql.Db) {
 func naplndb(db sql.Db, foddily, dzavody, suffix string) {
 	db.Createtables()
 	// nacist oddily
-	oddily := nacti_oddily(foddily)
+	oddily := input.Nacti_oddily(foddily)
 	log.Printf("Oddilu: %d\n", len(oddily))
 	log.Println("-------------")
 	// nacist zavod po zavode
@@ -168,30 +118,48 @@ func naplndb(db sql.Db, foddily, dzavody, suffix string) {
 	}
 }
 
-func FromCsoc(db sql.Db, oddily map[string]bool, vysledek Zavod) {
-	rs := input.ReadCsos(vysledek.fname)
+func FromCsoc(db sql.Db, oddily map[string]bool, vysledek input.Zavod) {
+	csos := input.ReadCsos(vysledek.Fname)
+	
+	cs := make(map[types.Class]bool) // all classes
+	
+	for _,r := range csos {
+	  cs[r.Class] = true
+	}
+	
+	rs := input.GetValid(csos, oddily, vysledek) // valid results
+	  
 
-	cs := make(map[types.Class]bool)
-	nconts := make(map[types.Class]int)
+	nconts := make(map[types.Class]int) // number of classified runners
 	for _, r := range rs {
-		cs[r.Class] = true
 		nconts[r.Class] += 1
 	}
-	for _, r := range rs {
-		// skip out of order
-		if r.License == "M" {
-			continue
-		}
-		// skip disc
-		if r.Result == input.CsocDisc {
-			continue
-		}
-		if !input.IsValid(oddily, r.Regno, r.Class, r.Position, "OK") {
-			continue
-		}
-		rclass := bodovani.SubClassRank(cs, r.Class)
+	
+	//recount positions
+	var prevp int
+	var prevclass types.Class
+	var prevrposition int
+	for _,r := range rs {
+	  // different class
+	  if prevclass != r.Class {
+	    prevp = 0
+	    prevrposition = 0
+	  }
+	  // don't advance on ties
+	  p := prevp
+	  if  r.Position != prevrposition {
+	    p++ // counting from 1
+	  }
+	  
+	  
+		classrank := bodovani.SubClassRank(cs, r.Class)
 
-		b := bodovani.Score(rclass, r.Position, nconts[r.Class], vysledek.attr)
+		if r.FamilyGiven == "Gryc Jan" {
+ 	  log.Println(vysledek.Cislo, r.Class, classrank,  p, nconts[r.Class])
+	  }
+		
+		
+		b := bodovani.Score(classrank, p, nconts[r.Class], vysledek.Veteraniada)
 
 		id := fmt.Sprintf("%s|%s", r.Regno.C, r.Regno.N)
 		pts := strings.SplitN(r.FamilyGiven, " ", 2)
@@ -201,51 +169,55 @@ func FromCsoc(db sql.Db, oddily map[string]bool, vysledek Zavod) {
 			given = pts[1]
 		}
 
-		db.Pridejvysledek(id, given, family, vysledek.cislo, b, r.Class.A, r.Class.B)
+		db.Pridejvysledek(id, given, family, vysledek.Cislo, b, r.Class.A, r.Class.B)
+		prevp = p
+		prevclass = r.Class
+		prevrposition = r.Position
 	}
 	fmt.Println()
 }
 
-func FromXml(db sql.Db, oddily map[string]bool, vysledek Zavod) {
-	zavod := iof.Nacti_zavod(vysledek.fname)
-
-	kategorie := make(map[types.Class]bool)
-	for _, r := range zavod.Results {
-		kategorie[types.NewClass(r.Category)] = true
-	}
-
-	for k, _ := range kategorie {
-		fmt.Printf("%v,", k)
-	}
-	fmt.Printf("\n")
-
-	log.Printf("%#v\n", zavod.Event)
-	log.Printf("Kategorii: %d\n", len(kategorie))
-	log.Println("-------------")
-	for _, r := range zavod.Results {
-		log.Println(r.Category)
-
-		kat := types.NewClass(r.Category)
-		katno := bodovani.SubClassRank(kategorie, types.NewClass(r.Category))
-		klaszav := len(r.PersonResults)
-
-		log.Printf("Kategorie: %+v, Rank: %d, Zavodniku: %d", kat, katno, klaszav)
-		log.Println("-------------")
-
-		for _, p := range r.PersonResults {
-			id := fmt.Sprintf("%s|%s", p.Person.Country, p.Person.Id)
-			umisteni := p.Result.Position
-
-			if !input.IsValid(oddily, types.Regno{C: p.Person.Country, N: p.Person.Id}, types.NewClass(r.Category),
-				p.Result.Position, p.Result.Status.Value) {
-				continue
-			}
-
-			b := bodovani.Score(katno, umisteni, klaszav, vysledek.attr)
-
-			db.Pridejvysledek(id, p.Person.Name.Given, p.Person.Name.Family, vysledek.cislo, b, kat.A, kat.B)
-		}
-	}
+func FromXml(db sql.Db, oddily map[string]bool, vysledek input.Zavod) {
+  panic("broken: cislovani cizincu")
+// 	zavod := iof.Nacti_zavod(vysledek.Fname)
+// 
+// 	kategorie := make(map[types.Class]bool)
+// 	for _, r := range zavod.Results {
+// 		kategorie[types.NewClass(r.Category)] = true
+// 	}
+// 
+// 	for k, _ := range kategorie {
+// 		fmt.Printf("%v,", k)
+// 	}
+// 	fmt.Printf("\n")
+// 
+// 	log.Printf("%#v\n", zavod.Event)
+// 	log.Printf("Kategorii: %d\n", len(kategorie))
+// 	log.Println("-------------")
+// 	for _, r := range zavod.Results {
+// 		log.Println(r.Category)
+// 
+// 		kat := types.NewClass(r.Category)
+// 		katno := bodovani.SubClassRank(kategorie, types.NewClass(r.Category))
+// 		klaszav := len(r.PersonResults)
+// 
+// 		log.Printf("Kategorie: %+v, Rank: %d, Zavodniku: %d", kat, katno, klaszav)
+// 		log.Println("-------------")
+// 
+// 		for _, p := range r.PersonResults {
+// 			id := fmt.Sprintf("%s|%s", p.Person.Country, p.Person.Id)
+// 			umisteni := p.Result.Position
+// 
+// 			if !input.IsValid(oddily, types.Regno{C: p.Person.Country, N: p.Person.Id}, types.NewClass(r.Category),
+// 				p.Result.Position, p.Result.Status.Value) {
+// 				continue
+// 			}
+// 
+// 			b := bodovani.Score(katno, umisteni, klaszav, vysledek.attr)
+// 
+// 			db.Pridejvysledek(id, p.Person.Name.Given, p.Person.Name.Family, vysledek.cislo, b, kat.A, kat.B)
+// 		}
+// 	}
 }
 
 // type vysledky struct {
