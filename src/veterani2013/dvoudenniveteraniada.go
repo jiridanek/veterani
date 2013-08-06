@@ -57,6 +57,8 @@ types.ClassBy(func(c1, c2 *types.Class) bool {
     } else {
       return c1.B < c2.B
     }
+  } else {
+    return c1.A < c2.A
   }
   return false
 }).Sort(keys)
