@@ -11,3 +11,6 @@ Usage:
         go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2013/ -suffix .txt
         go run src/veterani2013/vypis_vysledky.go
         go run src/veterani2013/vypis_v_kategorie.go
+
+        go run src/veterani2013/csv2fw.go 10,25,7,1,6 x.csv >
+        go run src/veterani2013/dvoudenniveteraniada.go clubs.txt klasifikace.txt hlavni.txt >
