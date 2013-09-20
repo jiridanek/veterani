@@ -1,0 +1,733 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+RUMCAJSOVY MÍLE 16.-18.8.2013
+Celkové výsledky
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ísto Jméno                       Id databáz Oddíl                                         E1             E2             E3             E4            Čas    Ztráta 
+
+D10  (5)             
+
+   1 Martanová Lea               VLI0555    VLI VLI - Slavia Liberec orienteer         19:15    1     13:56    3     15:59    3     36:45    2     85:55      0:00 
+   2 Poborská Eliška             EKP0350    EKP EKP - VŠTJ Ekonom Praha                33:51    2     14:31    4     21:17    4     36:01    1    105:40    +19:45 
+   3 Chvátilová Johana           PHK0450    PHK PHK - OK 99 Hradec Králové             37:59    3     11:14    1     12:34    1     46:17    3    108:04    +22:09 
+   4 Nešporová Marie             TTR0351    OOB Třebíč TTR                             44:36    5     12:19    2     13:53    2     50:21    4    121:09    +35:14 
+
+     Malečková Hana              PGP0550    PGP PGP - SK Praga                         42:55    4                                                                  
+
+
+
+D10F  (5)            
+
+   1 Štefanová Markéta           STH0550    STH STH - SK Studenec                      20:18    1     11:49    3     15:01    1     29:27    1     76:35      0:00 
+   2 Šimšová Pavla               MFP0551    MFP MFP - VŠSK MFF UK Praha                45:38    3      9:55    1     16:17    2     33:35    2    105:25    +28:50 
+   3 Benešová Michaela           SJH0651    SJH SJH - SJH Jindřichův Hradec            41:52    2     15:22    5     36:27    3     47:07    5    140:48    +64:13 
+
+     Zemková Pavlína             SLA0551    SLA SLA - SKOB Slaný                        disk          10:57    2     37:30    4     36:44    3                     
+     Šemberová Anděla            SJC0451    SJC SJC - Sportcentrum Jičín                              13:23    4                    40:23    4                     
+
+
+
+D12  (12)            
+
+   1 Kosová Tereza               SRK0151    SRK SRK - SOOB Spartak Rychnov nad         14:53    1      9:22    2     10:09    2     20:00    1     54:24      0:00 
+   2 Kochová Anna                SJC0153    SJC SJC - Sportcentrum Jičín               17:18    2      8:22    1      9:00    1     20:54    2     55:34     +1:10 
+   3 Martanová Elin              VLI0252    VLI VLI - Slavia Liberec orienteer         19:37    4      9:25    3     10:34    3     37:04    5     76:40    +22:16 
+   4 Vejražková Róza             SJC0151    SJC SJC - Sportcentrum Jičín               18:59    3     11:39    4     12:43    5     33:29    3     76:50    +22:26 
+   5 Kuchařová Rozálie           SJC0251    SJC SJC - Sportcentrum Jičín               20:34    5     27:19   11     16:10    9     36:46    4    100:49    +46:25 
+   6 Tumová Adela                SJC0154    SJC SJC - Sportcentrum Jičín               40:14    8     13:41    5     12:09    4     37:49    6    103:53    +49:29 
+   7 Šimšová Barbora             MFP0150    MFP MFP - VŠSK MFF UK Praha                29:52    7     14:21    6     14:47    6     46:45    8    105:45    +51:21 
+   8 Šimonová Klára              SJC0155    SJC SJC - Sportcentrum Jičín               48:13    9     20:40    9     16:36   10     38:19    7    123:48    +69:24 
+   9 Kubíčková Iva               ZAM0151    ZAM ZAM - OB T.J. Sokol Žamberk            24:51    6     26:21   10     15:16    8     64:01   10    130:29    +76:05 
+
+     Bejvlová Karolína           LME0250    LME LME - SK Los Mělník                                   19:37    8     14:47    6                                    
+     Kastnerová Jessica          DOR0250    DOR DOR - OK Dobříš                                       19:08    7     17:54   11                                    
+     Valterová Adéla             KBP0150    KBP KBP - KBP Praha                                                                     63:32    9                     
+
+
+
+D14  (6)             
+
+   1 Vyhnálková Marie            MFP0151    MFP MFP - VŠSK MFF UK Praha                20:05    1     15:35    3     12:23    1     28:14    1     76:17      0:00 
+   2 Jezdinská Natálie           STH9954    STH STH - SK Studenec                      24:00    2     12:58    1     14:37    4     30:10    2     81:45     +5:28 
+   3 Vojtíšková Viktorie         LPU0051    LPU LPU - OK Lokomotiva Pardubice          24:52    3     14:10    2     13:46    2     34:14    3     87:02    +10:45 
+   4 Dubská Veronika             SJC9952    SJC SJC - Sportcentrum Jičín               39:40    5     22:33    4     14:26    3     53:27    5    130:06    +53:49 
+
+     Zahradníková Denisa         SJC0053    SJC SJC - Sportcentrum Jičín               36:17    4     25:08    5     23:49    6      disk                          
+     Ash Kristina                OCB0051    OCB OCB - OC České Budějovice              44:52    6     vzdal          16:55    5     50:15    4                     
+
+
+
+D16  (7)             
+
+   1 Vyhnálková Barbora          MFP9850    MFP MFP - VŠSK MFF UK Praha                27:29    2     14:07    1     14:26    1     32:11    1     88:13      0:00 
+   2 Jansová Doubravka           ZAM9751    ZAM ZAM - OB T.J. Sokol Žamberk            33:02    3     15:05    2     14:49    2     34:33    2     97:29     +9:16 
+   3 Zábranská Kristýna          SLA9852    SLA SLA - SKOB Slaný                       44:54    5     26:43    3     24:58    3     56:14    4    152:49    +64:36 
+
+     Zábranský Luboš             SLA7400    SLA SLA - SKOB Slaný                       35:04   ms     28:29   ms     18:34   ms     46:50   ms                     
+     Zemko Zdeněk                SLA7300    SLA SLA - SKOB Slaný                                                                    55:54    3                     
+     Janovská Kateřina           PGP9850    PGP PGP - SK Praga                         23:54    1                                                                  
+     Kolářová Johana             SLA9950    SLA SLA - SKOB Slaný                       42:03    4                                                                  
+
+
+
+D18  (1)             
+
+   1 Hladíková Gábina            STH9551    STH STH - SK Studenec                     102:23    1     44:16    1     21:20    1    167:38    1    335:37      0:00 
+
+
+
+D21A  (30)           
+
+   1 Kolínová Kristýna           DKP8450    DKP DKP - Oddíl OB Kotlářka                40:21    1     15:52    2     16:20    1     49:46    1    122:19      0:00 
+   2 Hermanová Zuzana            LPU8752    LPU LPU - OK Lokomotiva Pardubice          42:09    2     16:23    4     16:42    3     55:13    5    130:27     +8:08 
+   3 Heczková Bohdana            VLI7750    VLI VLI - Slavia Liberec orienteer         44:40    4     15:59    3     17:13    7     52:55    3    130:47     +8:28 
+   4 Karochová Simona            DKP8853    DKP DKP - Oddíl OB Kotlářka                46:11    5     18:06    9     18:14   14     57:10    6    139:41    +17:22 
+   5 Janatová Lucie              DKP8154    DKP DKP - Oddíl OB Kotlářka                47:46    6     17:38    8     18:13   13     60:43    8    144:20    +22:01 
+   6 Folbrechtová Šárka          BOR9051    BOR BOR - OK Jiskra Nový Bor               49:12    8     17:10    6     16:52    5     61:22   10    144:36    +22:17 
+   7 Kubátová Zuzka              NPA9151    NPA NPA - SK LOB Nová Paka                 49:27    9     17:24    7     17:26    9     60:49    9    145:06    +22:47 
+   8 Plochová Dominika           DKP8651    DKP DKP - Oddíl OB Kotlářka                44:37    3     20:03   12     16:39    2     65:18   11    146:37    +24:18 
+   9 Šmidrkalová Monika          NPA9051    NPA NPA - SK LOB Nová Paka                 51:52   11     21:25   16     17:42   10     57:34    7    148:33    +26:14 
+  10 Píšová Monika               NPA8151    NPA NPA - SK LOB Nová Paka                 51:49   10     21:08   14     20:46   22     68:59   14    162:42    +40:23 
+  11 Pachnerová Dominika         CHA7750    CHA CHA - OK Chrastava                     61:58   15     18:51   11     20:15   19     68:18   13    169:22    +47:03 
+  12 Kopáčková Iva               CHT8851    CHT CHT - OOB SK Chrast                    66:27   18     24:03   19     18:46   15     73:10   17    182:26    +60:07 
+  13 Choutková Magdalena         SOB8851    SOB SOB - SOBSA                            60:57   14     28:02   22     20:42   21     78:47   19    188:28    +66:09 
+  14 Matějková Hana              TBM8954    TBM TBM - KOS TJ Tesla Brno                67:34   19     24:37   21     19:58   17     76:50   18    188:59    +66:40 
+
+     Hrstková Vladěna            PGP8753    PGP PGP - SK Praga                          disk          16:48    5     16:44    4     54:04    4                     
+     Knoblochová Kamila          VRL8353    VRL VRL - OOS TJ Spartak Vrchlabí          65:25   16     22:18   17     20:12   18     vzdal                          
+     Kochová Nikola              TUR9358    TUR TUR - OOB TJ Turnov                    49:09    7     21:08   14     17:14    8     vzdal                          
+     Ducháčková Kateřina         STH9356    STH STH - SK Studenec                                     24:09   20     22:11   24     83:37   21                     
+     Záveská Anna                DOB8851    DOB DOB - KOB Dobruška                                    23:07   18     19:40   16    102:59   22                     
+     Čermáková Kristýna          PGP9154    PGP PGP - SK Praga                                        18:06    9     18:10   12                                    
+     Krafková Lucie              TUR        TUR TUR - OOB TJ Turnov                                   15:35    1     16:52    5                                    
+     Janovská Petra              PGP7355    PGP PGP - SK Praga                         65:29   17                                   70:45   15                     
+     Peterová Alena              DOB8953    DOB DOB - KOB Dobruška                     59:48   13                                   72:31   16                     
+     Horová Magda                VSP5450    VSP VSP - USK Praha                        57:18   12                                   66:07   12                     
+     Setínková Eva               DKP8759    DKP DKP - Oddíl OB Kotlářka                               20:32   13     20:40   20                                    
+     Kolaja Ehlerová Jana        VLI8055    VLI VLI - Slavia Liberec orienteer         79:36   20                                   79:53   20                     
+     Kosová Denisa               PHK9150    PHK PHK - OK 99 Hradec Králové                                           17:45   11                                    
+     Rufferová Iva               TUR8354    TUR TUR - OOB TJ Turnov                                                                 52:26    2                     
+     Chmelíková Tereza           NER        NER                                                       36:03   23                                                   
+     Kazdová Lenka               SJC8484    SJC SJC - Sportcentrum Jičín                                             22:02   23                                    
+
+
+
+D21B  (19)           
+
+   1 Kvapilová Lenka             TUV8151    TUV TUV - SOK TJ Turnov                    53:16    1     23:15    2     18:06    2     26:13    1    120:50      0:00 
+   2 Pokorná Kristýna            EKP8351    EKP EKP - VŠTJ Ekonom Praha                54:56    2     21:43    1     18:51    4     32:10    6    127:40     +6:50 
+   3 Puchernová Zuzana           TAP8453    TAP TAP - KOB TRETRA Praha                 56:11    3     27:12    7     20:04    7     32:06    5    135:33    +14:43 
+   4 Pekárková Monika            RBK9252    RBK RBK - SK Radioklub Blansko             58:21    4     26:05    6     19:53    6     34:55    8    139:14    +18:24 
+   5 Havlíčková Nikola           JIL9352    JIL JIL - OK Jilemnice                     67:21    6     23:31    3     18:50    3     29:58    3    139:40    +18:50 
+   6 Vobořilová Markéta          SJC8854    SJC SJC - Sportcentrum Jičín               72:37    7     35:03   10     20:49    9     38:21   10    166:50    +46:00 
+   7 Pěluchová Daniela           CHC8851    CHC CHC - K.O.B. Choceň                    82:11    9     35:41   11     23:38   12     39:25   11    180:55    +60:05 
+   8 Csakvaryová Lenka           SBK8383    SBK SBK - KOB Start Blansko                75:57    8     34:11    9     24:04   13     50:21   13    184:33    +63:43 
+   9 Zemanová Lenka              KTA8851    KTA KTA - SK Kotnov Tábor                 119:31   11     39:18   13     34:44   16     67:49   14    261:22   +140:32 
+
+     Uhrová Zuzana               VSP8050    VSP VSP - USK Praha                         disk          24:00    5     20:36    8     32:22    7                     
+     Brzáková Kristýna           VLI8650    VLI VLI - Slavia Liberec orienteer          disk          56:39   14     24:08   14     vzdal                          
+     Podlipná Veronika           NPA8152    NPA NPA - SK LOB Nová Paka                 60:23    5      disk          21:05   10     39:36   12                     
+     Myslivečková Zuzana         NER        NER                                         disk          23:59    4     19:40    5                                    
+     Gavendová Hana              2XC8400    2XC CZ - Neregistrovaní - Haven Te                        28:20    8     17:44    1     36:16    9                     
+     Zamrzlová Eva               NER        64C CZ - Ekonom Praha Outdoor             105:18   10     36:23   12     26:11   15                                    
+     Ječná Tereza                11C8650    11C CZ - Atleti v akci                      disk           disk                                                        
+     Novotná Martina             PHK8255    PHK PHK - OK 99 Hradec Králové                                                          30:27    4                     
+     Volfová Julie               VLI8051    VLI VLI - Slavia Liberec orienteer                                                      28:33    2                     
+     Netíková Martina            DOB9350    DOB DOB - KOB Dobruška                                                   23:30   11                                    
+
+
+
+D35  (24)            
+
+   1 Hasmanová Lenka             VPM7551    VPM VPM - KOS Slavia VŠ Plzeň              35:05    1     16:34    1     17:10    3     55:03    3    123:52      0:00 
+   2 Kučerová Marie              VSP7551    VSP VSP - USK Praha                        37:16    2     16:43    2     18:58    4     52:16    1    125:13     +1:21 
+   3 Malá Věra                   JIL7752    JIL JIL - OK Jilemnice                     40:02    3     18:09    4     15:19    1     53:15    2    126:45     +2:53 
+   4 Čivrná Karolína             VRL7355    VRL VRL - OOS TJ Spartak Vrchlabí          48:53    8     19:17    7     19:00    5     66:12    6    153:22    +29:30 
+   5 Mrskočová Dana              LPU7356    LPU LPU - OK Lokomotiva Pardubice          45:11    6     19:26    8     35:53   18     65:19    5    165:49    +41:57 
+   6 Šimšová Jana                MFP7651    MFP MFP - VŠSK MFF UK Praha                69:03   13     21:28    9     17:07    2     59:32    4    167:10    +43:18 
+   7 Šimková Markéta             LME7755    LME LME - SK Los Mělník                    52:39    9     23:57   11     19:41    7     71:48    8    168:05    +44:13 
+   8 Vojtíšková Erika            LPU7651    LPU LPU - OK Lokomotiva Pardubice          48:40    7     17:38    3     20:07    8     97:01   20    183:26    +59:34 
+   9 Pipková Táňa                LPU7156    LPU LPU - OK Lokomotiva Pardubice          67:29   12     25:41   12     24:12   14     76:52   10    194:14    +70:22 
+  10 Krejčiříková Nikol          BBM7850    BBM BBM - BETA URSUS Orienteering          55:01   10     25:44   13     22:28   10     91:34   17    194:47    +70:55 
+  11 Chvátilová Pavlína          PHK7450    PHK PHK - OK 99 Hradec Králové             61:03   11     30:48   15     23:25   11     80:20   12    195:36    +71:44 
+  12 Krpatová Zuzana             LPU7558    LPU LPU - OK Lokomotiva Pardubice          71:10   14     22:43   10     20:51    9     90:43   16    205:27    +81:35 
+  13 Vyhnálková Eva              MFP75      MFP MFP - VŠSK MFF UK Praha                71:23   15     37:24   17     23:27   12     90:24   15    222:38    +98:46 
+  14 Zemková Helena              SLA7450    SLA SLA - SKOB Slaný                       78:04   18     45:03   18     25:45   15     91:58   18    240:50   +116:58 
+  15 Janderová Markéta           DVP7751    DVP DVP - TJ Sokol Praha Spořilov          79:33   19     49:15   19     23:37   13    123:38   21    276:03   +152:11 
+
+     Šedivá Petra                STH7751    STH STH - SK Studenec                      76:10   17     27:16   14     28:16   17      disk                          
+     Martanová Daniela           VLI7452    VLI VLI - Slavia Liberec orienteer         43:30    5      disk          19:17    6     75:43    9                     
+     Ševčíková Pavla             TBM7355    TBM TBM - KOS TJ Tesla Brno                42:16    4     19:04    6                    67:59    7                     
+     Bejvlová Martina            LME7350    LME LME - SK Los Mělník                                   35:44   16     27:22   16                                    
+     Brabencová Alena            SOB7150    SOB SOB - SOBSA                            71:27   16                                   88:01   13                     
+     Zlámalová Zdena             SJC7253    SJC SJC - Sportcentrum Jičín                              18:47    5                    79:04   11                     
+     Asterová Jana               SLA7451    SLA SLA - SKOB Slaný                                                                    88:13   14                     
+     Kolářová Michaela           SLA7351    SLA SLA - SKOB Slaný                                                                    92:47   19                     
+     Weberová Zuzana             PHK6961    PHK PHK - OK 99 Hradec Králové                            vzdal                                                        
+
+
+
+D40  (8)             
+
+   1 Forstová Lenka              MFP6850    MFP MFP - VŠSK MFF UK Praha                41:32    2     18:23    1     17:29    4     57:20    3    134:44      0:00 
+   2 Hudečková Helena            KTA6951    KTA KTA - SK Kotnov Tábor                  41:14    1     21:17    2     17:04    3     57:15    2    136:50     +2:06 
+   3 Nešporová Marie             TTR7251    OOB Třebíč TTR                             41:44    3     25:24    3     18:15    5     60:52    5    146:15    +11:31 
+   4 Votočková Jaroslava         JIL7255    JIL JIL - OK Jilemnice                     43:21    4     34:15    7     16:04    1     53:09    1    146:49    +12:05 
+   5 Kalenská Kateřina           STH7351    STH STH - SK Studenec                      45:15    5     26:52    4     18:52    6     59:22    4    150:21    +15:37 
+   6 Hančová Alice               VRL7052    VRL VRL - OOS TJ Spartak Vrchlabí          52:26    6     33:29    6     16:37    2     64:17    6    166:49    +32:05 
+   7 Kašparová Marie             ZAK7250    ZAK ZAK - SK Netopýr Zákupy                68:33    8     28:20    5     19:12    8     90:40    7    206:45    +72:01 
+
+     Zobaníková Vladimíra        RAD6850    RAD RAD - TJ Sokol Radslavice              59:22    7     35:11    8     18:59    7     vzdal                          
+
+
+
+D45  (13)            
+
+   1 Hrstková Dana               SJI6051    SJI SJI - OK Jihlava                       40:30    3     18:55    1     15:35    1     49:24    1    124:24      0:00 
+   2 Kosová Michaela             SRK6752    SRK SRK - SOOB Spartak Rychnov nad         36:28    1     19:46    2     15:57    2     62:20    5    134:31    +10:07 
+   3 Kavková Dana                SCP6150    SCP SCP - OK Sparta Praha                  41:24    4     22:41    4     17:57    5     57:02    3    139:04    +14:40 
+   4 Klašková Kateřina           DKP6750    DKP DKP - Oddíl OB Kotlářka                42:29    5     27:53    9     19:17    8     66:27    6    156:06    +31:42 
+   5 Fencíková Vladislava        JHB6553    JHB JHB - TJ Jiskra Havlíčkův Brod         54:40    9     26:07    6     18:43    6     57:25    4    156:55    +32:31 
+   6 Procházková Miluše          DCE5450    DCE DCE - KOB Dobřichovice                 47:29    8     22:53    5     19:07    7     69:00    7    158:29    +34:05 
+   7 Mrázová Pavla               DCE5550    DCE DCE - KOB Dobřichovice                 44:54    6     27:49    8     17:46    4     76:31    8    167:00    +42:36 
+   8 Kulová Jana                 VAM6550    VAM VAM - OOB Vamberk                      46:21    7     34:53   11     21:32   11     76:41    9    179:27    +55:03 
+   9 Kašparová Irena             SLA6852    SLA SLA - SKOB Slaný                       63:01   10     27:44    7     20:11    9     85:16   11    196:12    +71:48 
+
+     Pičmanová Jana              JIL6352    JIL JIL - OK Jilemnice                      disk          48:12   12     23:31   12     vzdal                          
+     Bochenková Jana             EKP6150    EKP EKP - VŠTJ Ekonom Praha                 disk          21:01    3     16:27    3     53:33    2                     
+     Peřinková Irena             BBM6550    BBM BBM - BETA URSUS Orienteering                         32:44   10     20:22   10     78:30   10                     
+     Šedivá Miroslava            EKP5750    EKP EKP - VŠTJ Ekonom Praha                37:55    2                                                                  
+
+
+
+D50  (6)             
+
+   1 Krajčová Věra               TZL5856    TZL TZL - SKOB Zlín                        34:06    1     17:12    1     15:37    1     45:50    1    112:45      0:00 
+   2 Gabrielová Šárka            ONO5950    ONO ONO - SKOB Ostrov                      52:41    4     23:25    4     21:20    3     74:47    4    172:13    +59:28 
+   3 Kábrtová Iva                PEN6350    PEN PEN - OK RECO Sport                    51:00    2     27:32    6     23:43    4     70:47    3    173:02    +60:17 
+
+     Jansová Alena               CHT5852    CHT CHT - OOB SK Chrast                     disk          19:44    2     16:55    2     54:12    2                     
+     Nožičková Libuše            LPU5751    LPU LPU - OK Lokomotiva Pardubice          51:56    3     20:48    3      disk          vzdal                          
+     Zemanová Alena              KTA6351    KTA KTA - SK Kotnov Tábor                  86:56    5     26:50    5      disk          vzdal                          
+
+
+
+D55  (12)            
+
+   1 Mrázková Ivana              DKP5650    DKP DKP - Oddíl OB Kotlářka                29:29    3     15:35    3     16:55    1     41:37    1    103:36      0:00 
+   2 Doležalová Vlasta           PGP5550    PGP PGP - SK Praga                         28:34    1     16:03    5     18:41    2     46:07    2    109:25     +5:49 
+   3 Nováková Svatava            SKV5351    TJ Slovan Karlov SKV                       30:43    5     15:11    2     20:05    8     48:59    7    114:58    +11:22 
+   4 Konopáčová Jana             TUR5650    TUR TUR - OOB TJ Turnov                    33:57    8     16:02    4     19:10    5     46:34    3    115:43    +12:07 
+   5 Novotná Jiřina              LPU5654    LPU LPU - OK Lokomotiva Pardubice          28:55    2     21:06    8     20:26    9     47:55    4    118:22    +14:46 
+   6 Hušková Eva                 NPA5754    NPA NPA - SK LOB Nová Paka                 31:24    6     14:26    1     18:57    3     56:20    9    121:07    +17:31 
+   7 Dudová Hana                 DKP5752    DKP DKP - Oddíl OB Kotlářka                34:01    9     21:27    9     19:24    7     48:12    5    123:04    +19:28 
+   8 Štrossová Jiřina            DCE5650    DCE DCE - KOB Dobřichovice                 39:23   10     18:52    7     19:20    6     53:44    8    131:19    +27:43 
+   9 Pokorná Eva                 TCB5751    TCB TCB - SK Technik České Budějov         33:02    7     22:41   10     18:57    3     64:48   10    139:28    +35:52 
+  10 Mrštíková Hana              LPU5552    LPU LPU - OK Lokomotiva Pardubice          42:30   11     24:54   11     22:39   10     75:30   11    165:33    +61:57 
+
+     Opavová Stanislava          MLA5451    MLA MLA - MLOK Mariánské Lázně             29:44    4     18:06    6      disk          48:37    6                     
+     Zavadilová Naďa             SCP5450    SCP SCP - OK Sparta Praha                                 38:02   12     24:42   11     91:28   12                     
+
+
+
+D60  (7)             
+
+   1 Procházková Helena          TBM5351    TBM TBM - KOS TJ Tesla Brno                35:16    1     18:36    4     13:45    1     52:53    3    120:30      0:00 
+   2 Dohnalová Dana              VSP5050    VSP VSP - USK Praha                        39:16    3     15:19    1     16:32    4     50:46    2    121:53     +1:23 
+   3 Zlesáková Vlasta            JIL5362    JIL JIL - OK Jilemnice                     43:20    5     16:47    2     19:20    5     49:10    1    128:37     +8:07 
+   4 Křížová Zdenka              PZR5051    PZR PZR - UNITOP SKP Žďár nad Sáza         38:32    2     17:22    3     15:46    3     57:12    5    128:52     +8:22 
+   5 Oudin Marie Reine           COC        COC CO - Colmar                            39:52    4     26:01    5     14:57    2     55:11    4    136:01    +15:31 
+
+     Pachnerová Jaroslava        VLI5152    VLI VLI - Slavia Liberec orienteer                                                      86:36    6                     
+     Karmazínová Ivana           VLI5150    VLI VLI - Slavia Liberec orienteer         48:14    6                                                                  
+
+
+
+D65  (9)             
+
+   1 Kohoutová Jitřenka          UVP4850    UVP UVP - Slovan Praha                     32:41    1     22:31    4     15:26    1     55:31    3    126:09      0:00 
+   2 Lohrová Jarmila             SCP4650    SCP SCP - OK Sparta Praha                  44:38    4     18:39    1     20:16    2     55:02    2    138:35    +12:26 
+   3 Křtěnská Leontina           BOR4650    BOR BOR - OK Jiskra Nový Bor               40:36    3     22:04    3     22:52    5     79:15    7    164:47    +38:38 
+   4 Nejezchlebová Věra          KAS4551    KAS KAS - KOB Kamenický Šenov              49:50    6     23:43    5     22:13    4     75:21    6    171:07    +44:58 
+   5 Boučková Ludmila            OCB4351    OCB OCB - OC České Budějovice              62:28    8     38:16    7     25:52    6    128:29    8    255:05   +128:56 
+   6 Hudečková Alena             KTA4351    KTA KTA - SK Kotnov Tábor                  48:41    5     73:06    8     21:52    3    128:34    9    272:13   +146:04 
+
+     Urbancová Marcela           EZL4656    EZL EZL - PEV Zlín                         51:53    7     24:58    6      disk          71:45    5                     
+     Suchánková Libuše           SOP4851    SOP SOP - OOB TJ Slezan Opava              38:58    2     20:01    2      disk          51:01    1                     
+     Kopřivová Jitka             38A4850    38A AU - Uringa Sydney                                                                  69:24    4                     
+
+
+
+H10  (8)             
+
+   1 Šimša Martin                MFP0300    MFP MFP - VŠSK MFF UK Praha                18:07    1     11:31    4     11:30    1     18:51    1     59:59      0:00 
+   2 Tkáč Matěj                  TJN0401    TJN TJN - OOB TJ Tatran Jablonec n         19:43    2      9:54    3     13:14    3     22:24    2     65:15     +5:16 
+   3 Dejnožka Vojtěch            TJN0300    TJN TJN - OOB TJ Tatran Jablonec n         22:10    3      8:31    1     12:16    2     24:36    4     67:33     +7:34 
+   4 Sedlak Michal               OKI        OKI OKI Sport                              32:33    5     11:49    5     13:17    4     23:25    3     81:04    +21:05 
+   5 Krpata Michal               LPU0403    LPU LPU - OK Lokomotiva Pardubice          29:33    4     13:40    6     16:23    5     42:20    6    101:56    +41:57 
+
+     Kolář Šimon                 HOR0400    HOR HOR - TJ Jiskra Hořice                 41:03    6      9:27    2      disk          41:35    5                     
+     Bejvl Marek                 LME0400    LME LME - SK Los Mělník                                   24:28    7     43:50    7                                    
+     Nápravník Jiří              LME0401    LME LME - SK Los Mělník                                   34:30    8     41:19    6                                    
+
+
+
+H10F  (9)            
+
+   1 Švestka Jakub               KVS0310    KVS KVS - SKOB Kobra Vsetín                21:48    1     11:24    1     20:57    4     24:46    1     78:55      0:00 
+   2 Hasman Jakub                VPM0501    VPM VPM - KOS Slavia VŠ Plzeň              28:15    2     12:30    2     27:45    5     28:43    2     97:13    +18:18 
+   3 Dejnožka Martin             TJN0600    TJN TJN - OOB TJ Tatran Jablonec n         33:39    3     15:34    3     18:22    3     41:01    6    108:36    +29:41 
+
+     Votoček Michal              JIL0601    JIL JIL - OK Jilemnice                     46:26    6     18:00    4     16:37    2      disk                          
+     Čivrný Jan                  VRL0501    VRL VRL - OOS TJ Spartak Vrchlabí          42:32    5      disk          15:53    1     31:49    3                     
+     Mencl Josef                 VSP0602    VSP VSP - USK Praha                         disk          20:57    6     34:12    6      disk                          
+     Tesař Zdeněk                SJC0401    SJC SJC - Sportcentrum Jičín               34:15    4     20:21    5      disk          52:56    7                     
+     Hora David                  PGP0601    PGP PGP - SK Praga                         48:20    7                                   36:53    5                     
+     Valter Ondřej               KBP0400    KBP KBP - KBP Praha                                                                     36:15    4                     
+
+
+
+H12  (13)            
+
+   1 Tuma Matěj                  SJC0202    SJC SJC - Sportcentrum Jičín               20:09    1     15:45    4     14:25    4     32:23    1     82:42      0:00 
+   2 Nešpor Jan                  TTR0101    OOB Třebíč TTR                             23:44    3     17:39    5     14:16    2     36:17    3     91:56     +9:14 
+   3 Hasman Marek                VPM0201    VPM VPM - KOS Slavia VŠ Plzeň              31:50    6     15:42    3     13:08    1     32:35    2     93:15    +10:33 
+   4 Štefan Vít                  STH0202    STH STH - SK Studenec                      26:00    5     14:41    2     14:21    3     41:28    5     96:30    +13:48 
+   5 Klaška Martin               DKP0100    DKP DKP - Oddíl OB Kotlářka                24:59    4     13:14    1     19:13    7     46:16    6    103:42    +21:00 
+   6 Pipek Ondřej                LPU0203    LPU LPU - OK Lokomotiva Pardubice          40:49   10     19:50    6     19:50    9     59:40    7    140:09    +57:27 
+   7 Břeň Daniel                 SJC0102    SJC SJC - Sportcentrum Jičín               33:26    8     24:17    8     18:21    6     65:39    8    141:43    +59:01 
+   8 Zobaník Radek               RAD0201    RAD RAD - TJ Sokol Radslavice              48:50   11     28:25    9     19:36    8     65:51    9    162:42    +80:00 
+
+     Mrskoč Marek                LPU0205    LPU LPU - OK Lokomotiva Pardubice          49:35   12     30:06   10     15:06    5      disk                          
+     Zalaba Tomáš                SJC0101    SJC SJC - Sportcentrum Jičín               32:22    7     19:52    7                    38:19    4                     
+     Doskočil Vilém              NER        NER                                                                      62:19   10                                    
+     Janovský Tomáš              PGP0101    PGP PGP - SK Praga                         22:26    2                                                                  
+     Kolář Matyáš                SLA0300    SLA SLA - SKOB Slaný                       37:04    9                                                                  
+
+
+
+H14  (6)             
+
+   1 Hajný Vojtěch               JIL9902    JIL JIL - OK Jilemnice                     31:29    1     19:29    1     17:53    2     46:41    1    115:32      0:00 
+   2 Zobaník Michal              RAD9901    RAD RAD - TJ Sokol Radslavice              43:43    3     20:56    2     18:52    4     46:47    2    130:18    +14:46 
+   3 Tryzna Matěj                VRL0004    VRL VRL - OOS TJ Spartak Vrchlabí          43:01    2     30:04    6     18:58    5     54:47    3    146:50    +31:18 
+   4 Urbanec Hugo                EZL9915    EZL EZL - PEV Zlín                         44:19    4     25:51    3     17:17    1     62:39    5    150:06    +34:34 
+   5 Semiginovský Šimon          SJC0005    SJC SJC - Sportcentrum Jičín               48:35    5     27:57    4     23:04    6     74:51    6    174:27    +58:55 
+   6 Dubský Vojtěch              SJC0006    SJC SJC - Sportcentrum Jičín               88:45    6     29:58    5     18:19    3     58:37    4    195:39    +80:07 
+
+
+
+H16  (7)             
+
+   1 Břeň Lukáš                  SJC9805    SJC SJC - Sportcentrum Jičín               52:30    3     23:01    3     16:45    2     54:01    1    146:17      0:00 
+   2 Hlubuček Tomáš              CHA9704    CHA CHA - OK Chrastava                     56:04    5     22:02    2     17:53    3     57:12    2    153:11     +6:54 
+   3 Švestka Vít                 KVS9700    KVS KVS - SKOB Kobra Vsetín                48:23    2     27:11    6     18:08    4     65:21    4    159:03    +12:46 
+   4 Kašpar Ludvík               BOR9805    BOR BOR - OK Jiskra Nový Bor               54:16    4     24:10    4     18:20    5     71:19    5    168:05    +21:48 
+
+     Ash Adam                    OCB9701    OCB OCB - OC České Budějovice               disk          31:14    7     30:01    6    112:51    6                     
+     Peřinka Šimon               BBM9700    BBM BBM - BETA URSUS Orienteering                         25:09    5      disk          60:35    3                     
+     Jíra Tomáš                  KAM9802    KAM KAM - SK Kamenice                      37:09    1     21:39    1     15:41    1                                    
+
+
+
+H18  (4)             
+
+   1 Aster Tomáš                 SLA9602    SLA SLA - SKOB Slaný                       36:37    1     15:48    1     16:39    1     52:47    1    121:51      0:00 
+   2 Dušek Martin                ZAM9602    ZAM ZAM - OB T.J. Sokol Žamberk            62:45    3     38:24    3     18:43    2     70:52    2    190:44    +68:53 
+   3 Hájek Vojtěch               TJN9502    TJN TJN - OOB TJ Tatran Jablonec n         56:33    2     36:39    2     19:58    3     84:30    3    197:40    +75:49 
+   4 Bouček Jakub                OCB9501    OCB OCB - OC České Budějovice              64:49    4     45:36    4     20:17    4     88:28    4    219:10    +97:19 
+
+
+
+H21A  (62)           
+
+   1 Losman Petr                 PHK7901    PHK PHK - OK 99 Hradec Králové             41:28    1     16:52    3     14:31    1     47:59    1    120:50      0:00 
+   2 Janata Martin               DKP8306    DKP DKP - Oddíl OB Kotlářka                43:03    2     16:33    2     15:40    6     49:49    2    125:05     +4:15 
+   3 Škoda Jakub                 VLI8800    VLI VLI - Slavia Liberec orienteer         44:33    3     16:18    1     15:06    3     54:10    4    130:07     +9:17 
+   4 Hanslian David              LCE7835    OOB TJ Slovan Lu LCE                       44:37    4     18:05    8     15:35    5     57:10    8    135:27    +14:37 
+   5 Novák Jiří                  NPA7502    NPA NPA - SK LOB Nová Paka                 49:38    8     18:15   10     18:00   27     56:14    6    142:07    +21:17 
+   6 Kučera Jan                  VSP7302    VSP VSP - USK Praha                        51:49   13     18:13    9     17:20   20     59:25    9    146:47    +25:57 
+   7 Kolín Jan                   DKP7701    DKP DKP - Oddíl OB Kotlářka                51:12   11     18:55   14     17:14   17     62:18   13    149:39    +28:49 
+   8 Váňa Martin                 TUR8401    TUR TUR - OOB TJ Turnov                    50:39   10     19:55   19     16:07    9     64:40   16    151:21    +30:31 
+   9 Kadavý Petr                 CHA7800    CHA CHA - OK Chrastava                     56:14   18     19:11   15     16:03    8     60:36   10    152:04    +31:14 
+  10 Grundman Vojtěch            CHC8801    CHC CHC - K.O.B. Choceň                    51:51   14     18:23   11     17:32   24     64:37   15    152:23    +31:33 
+  11 Janda Martin                DOB8002    DOB DOB - KOB Dobruška                     59:04   25     17:07    4     15:46    7     60:53   12    152:50    +32:00 
+  12 Janovský Tomáš              PGP6401    PGP PGP - SK Praga                         51:37   12     20:49   21     16:44   14     65:43   17    154:53    +34:03 
+  13 Pátek Michal                CHC8603    CHC CHC - K.O.B. Choceň                    55:41   17     22:07   28     16:24   11     60:51   11    155:03    +34:13 
+  14 Martan Jiří                 VLI7300    VLI VLI - Slavia Liberec orienteer         56:22   21     18:41   12     18:07   29     63:23   14    156:33    +35:43 
+  15 Tomeš Jaroslav              DKP8109    DKP DKP - Oddíl OB Kotlářka                58:30   23     22:44   30     17:11   16     65:59   18    164:24    +43:34 
+  16 Mazal Zdeněk                VBM8103    VBM VBM - VSK Mendelu Brno                 60:33   28     19:54   18     17:28   23     67:45   20    165:40    +44:50 
+  17 Pachner Pavel               VLI7503    VLI VLI - Slavia Liberec orienteer         60:31   27     20:51   22     17:21   21     67:54   21    166:37    +45:47 
+  18 Novák Zdeněk                NPA7701    NPA NPA - SK LOB Nová Paka                 56:17   20     20:58   23     20:03   37     74:33   27    171:51    +51:01 
+  19 Sháněl Jan                  CHC9402    CHC CHC - K.O.B. Choceň                    61:58   32     21:59   26     18:54   34     69:46   23    172:37    +51:47 
+  20 Pucherna Jan                TAP7701    TAP TAP - KOB TRETRA Praha                 58:36   24     22:50   31     17:18   18     75:27   28    174:11    +53:21 
+  21 Šístek Daniel               SCP7507    SCP SCP - OK Sparta Praha                  65:30   37     22:29   29     17:44   26     68:59   22    174:42    +53:52 
+  22 Klaška Pavel                DKP9301    DKP DKP - Oddíl OB Kotlářka                63:53   34     20:44   20     17:42   25     72:48   25    175:07    +54:17 
+  23 Semrád Ladislav             CHC9701    CHC CHC - K.O.B. Choceň                    59:17   26     21:59   26     17:23   22     79:36   32    178:15    +57:25 
+  24 Anděl Robert                VPM8001    VPM VPM - KOS Slavia VŠ Plzeň              61:33   31     24:40   37     18:04   28     77:26   31    181:43    +60:53 
+  25 Bejr Zdeněk                 NPA8401    NPA NPA - SK LOB Nová Paka                 64:40   36     24:05   36     19:42   36     77:18   30    185:45    +64:55 
+  26 Fiala Petr                  LPU8701    LPU LPU - OK Lokomotiva Pardubice          74:30   43     21:43   25     18:22   31     73:11   26    187:46    +66:56 
+  27 Kasal Vít                   SBK7540    SBK SBK - KOB Start Blansko                61:16   29     28:11   44     18:49   32     80:18   34    188:34    +67:44 
+  28 Schröter Pavel              CHA7203    CHA CHA - OK Chrastava                     64:27   35     23:41   34     20:31   39     82:19   36    190:58    +70:08 
+  29 Lepšík Petr                 BOR8202    BOR BOR - OK Jiskra Nový Bor               62:04   33     23:52   35     19:02   35     86:07   37    191:05    +70:15 
+  30 Pešek Ondřej                CHC8502    CHC CHC - K.O.B. Choceň                    49:40    9     25:00   38     51:35   52     72:32   24    198:47    +77:57 
+  31 Nývlt Petr                  SNA8004    SNA SNA - TJ START Náchod                  73:39   41     31:50   47     18:13   30     80:05   33    203:47    +82:57 
+  32 Pátek Richard               ZBM7609    ZBM ZBM - SK Žabovřesky Brno               70:24   39     25:47   41     21:24   45     87:11   39    204:46    +83:56 
+  33 Klaška Pavel                DKP6500    DKP DKP - Oddíl OB Kotlářka                73:53   42     25:04   39     20:55   43     86:22   38    206:14    +85:24 
+  34 Sedlák Radek                SNA7501    SNA SNA - TJ START Náchod                  72:32   40     25:42   40     20:43   41     93:18   40    212:15    +91:25 
+  35 Wagner Libor                DKP8511    DKP DKP - Oddíl OB Kotlářka                87:39   44     29:27   45     20:42   40    113:17   44    251:05   +130:15 
+
+     Horák Jan                   NPA8902    NPA NPA - SK LOB Nová Paka                101:11   46     26:22   43     18:49   32      disk                          
+     Jansa Jiří                  CHT8402    CHT CHT - OOB SK Chrast                     disk          18:48   13     15:34    4     vzdal                          
+     Matějka Zbyněk              NER        NER                                         disk          47:18   50     22:19   48    100:00   42                     
+     Kořínek Jindřich            TUR8406    TUR TUR - OOB TJ Turnov                    56:14   18     17:44    6     16:11   10     75:31   ms                     
+     Kamenický Jakub             PHK9104    PHK PHK - OK 99 Hradec Králové             48:30    7     17:56    7     14:32    2     vzdal                          
+     Kovář Miroslav              SCP8103    SCP SCP - OK Sparta Praha                  48:07    6     19:48   17      disk          56:39    7                     
+     Kafka Miloš                 LPU8608    LPU LPU - OK Lokomotiva Pardubice          52:59   16     21:06   24     16:29   12      disk                          
+     Veselý Ondřej               PHK8505    PHK PHK - OK 99 Hradec Králové                            35:17   48     20:07   38     95:07   41                     
+     Fiala Jan                   BBM7205    BBM BBM - BETA URSUS Orienteering          61:27   30     23:05   33     17:18   18                                    
+     Svoboda Jakub               64C8700    64C CZ - Ekonom Praha Outdoor                             37:04   49     21:19   44     vzdal                          
+     Schulhof Jan                TUR8900    TUR TUR - OOB TJ Turnov                                   25:57   42     16:32   13                                    
+     Žemlík Pavel                TZL7135    TZL TZL - SKOB Zlín                                       17:39    5     16:44   14                                    
+     Zelenka Tomáš               PHK9001    PHK PHK - OK 99 Hradec Králové                            23:02   32     22:16   47                                    
+     Valík Ondřej                PHK7801    PHK PHK - OK 99 Hradec Králové                            vzdal          21:37   46                                    
+     Pospíšil Vítek              SCP6800    SCP SCP - OK Sparta Praha                  45:42    5     19:12   16                                                   
+     Větrovský Tomáš             65C7901    65C CZ - Ekonom Praha Outdoor                                            22:24   49    132:19   45                     
+     Lenner Miroslav             LPU8605    LPU LPU - OK Lokomotiva Pardubice          52:31   15                                   55:41    5                     
+     Hora Vladimír               VSP5100    VSP VSP - USK Praha                        99:51   45                                  104:06   43                     
+     Potůček Michal              PHK7903    PHK PHK - OK 99 Hradec Králové                            30:45   46     22:24   49                                    
+     Hora Zbyněk                 PGP8000    PGP PGP - SK Praga                         56:25   22                                   66:41   19                     
+     Jíra Tomáš                  KAM9802    KAM KAM - SK Kamenice                                                                   76:55   29                     
+     Toušek Pavel                NER        NER                                                                      20:50   42                                    
+     Bernášek Jiří               STB8101    STB STB - TJ Stadion Nový Bor                                            23:27   51                                    
+     Baier Martin                TUR7603    TUR TUR - OOB TJ Turnov                                                                 51:59    3                     
+     Blahuta Marek               MFP7301    MFP MFP - VŠSK MFF UK Praha                                                             81:19   35                     
+     Hanák Jan                   SLA8002    SLA SLA - SKOB Slaný                       66:18   38                                                                  
+     Novotný Tomáš               PHK8101    PHK PHK - OK 99 Hradec Králové                                                          vzdal                          
+
+
+
+H21B  (27)           
+
+   1 Novák Petr                  SKV8201    TJ Slovan Karlov SKV                       46:34    1     19:37    5     15:31    1     57:42    1    139:24      0:00 
+   2 Sýkora Bohumil              CHC8601    CHC CHC - K.O.B. Choceň                    49:48    4     20:31    6     17:19    2     61:15    2    148:53     +9:29 
+   3 Havlíček Lukáš              JIL9003    JIL JIL - OK Jilemnice                     49:09    2     16:52    1     19:30   10     63:36    3    149:07     +9:43 
+   4 Srb Tomáš                   BOR8801    BOR BOR - OK Jiskra Nový Bor               49:34    3     17:14    2     17:24    3     68:44    6    152:56    +13:32 
+   5 Andrej Patras               HBB8201    HBB                                        50:47    6     19:03    3     18:42    5     67:32    5    156:04    +16:40 
+   6 Joxeba Agirre               HBB7902    HBB                                        58:07    8     20:58    7     21:19   15     71:31    9    171:55    +32:31 
+   7 Kučera Jiří                 26C8700    26C CZ - Sobotka                           58:56   10     21:36    8     20:33   13     75:50   11    176:55    +37:31 
+   8 Šimša Jaromír               MFP7100    MFP MFP - VŠSK MFF UK Praha                49:48    4     25:00   13     19:32   11     85:03   16    179:23    +39:59 
+   9 Kašpar Ludvík               ZAK7200    ZAK ZAK - SK Netopýr Zákupy                61:52   11     25:16   14     26:24   21     80:22   12    193:54    +54:30 
+  10 Forst Libor                 MFP6301    MFP MFP - VŠSK MFF UK Praha                64:23   12     24:59   12     24:28   19     80:24   13    194:14    +54:50 
+  11 Urbaník Robert              VLI7002    VLI VLI - Slavia Liberec orienteer         75:06   14     23:31    9     24:34   20     84:18   15    207:29    +68:05 
+  12 Havlůj František            DKP8308    DKP DKP - Oddíl OB Kotlářka                75:12   15     26:27   15     22:41   17    109:52   19    234:12    +94:48 
+
+     Zeman Jaroslav              DOB8844    DOB DOB - KOB Dobruška                     81:10   16     31:17   18     24:01   18     vzdal                          
+     Pitra Martin                CHT9204    CHT CHT - OOB SK Chrast                    69:02   13     28:35   16     27:31   22     vzdal                          
+     Vaněk Petr                  ZBP7302    ZBP ZBP - OOB SK Zbraslav                   disk          24:32   11     21:34   16     83:57   14                     
+     Drobník Lukáš               SCP8500    SCP SCP - OK Sparta Praha                                 19:32    4     19:23    8     70:42    7                     
+     Filičko Marek               LPU7102    LPU LPU - OK Lokomotiva Pardubice                         23:53   10     19:26    9     65:43    4                     
+     Hopanyuk Anatoliy           DKP7900    DKP DKP - Oddíl OB Kotlářka                               29:04   17     19:11    6    107:35   17                     
+     Beránek Petr                2XC8100    2XC CZ - Neregistrovaní - Haven Te                        31:19   19     20:40   14    109:25   18                     
+     Hlaváč Ondra                NER        NER                                                       32:16   20     20:31   12                                    
+     Dneboský František          24C8000    24C CZ - OK Vršovice                                                     19:20    7     72:40   10                     
+     Kolaja Jan                  VLI8100    VLI VLI - Slavia Liberec orienteer         86:46   17                                  112:20   20                     
+     Preininger Luděk            DOB        DOB DOB - KOB Dobruška                                                   17:48    4                                    
+     Šimík Daniel                ROZ6900    ROZ ROZ - OK Roztoky                                                                    70:52    8                     
+     Šedivý Jiří                 EKP5500    EKP EKP - VŠTJ Ekonom Praha                52:34    7                                                                  
+     Cupák Jiří                  VRL7201    VRL VRL - OOS TJ Spartak Vrchlabí          58:18    9                                                                  
+     Mokrý Pavel                 NER        NER                                                                                     vzdal                          
+
+
+
+H35  (10)            
+
+   1 Nehasil David               BOR7713    BOR BOR - OK Jiskra Nový Bor               38:40    1     16:41    1     14:48    1     48:18    1    118:27      0:00 
+   2 Pecka Jan                   EKP6800    EKP EKP - VŠTJ Ekonom Praha                49:15    3     17:39    2     17:46    2     63:58    2    148:38    +30:11 
+   3 Poborský Petr               EKP7500    EKP EKP - VŠTJ Ekonom Praha                52:56    4     26:28    6     18:06    3     69:51    3    167:21    +48:54 
+   4 Votoček Tomáš               JIL7041    JIL JIL - OK Jilemnice                     64:33    6     20:04    3     19:18    4     84:26    6    188:21    +69:54 
+   5 Kvapil Petr                 TUV7402    TUV TUV - SOK TJ Turnov                    61:06    5     22:12    4     41:22    9     72:27    4    197:07    +78:40 
+   6 Choutka Jaroslav            SOB6301    SOB SOB - SOBSA                            70:42    8     28:06    8     23:10    7     78:49    5    200:47    +82:20 
+   7 Žitný Tomáš                 SMB6401    SMB SMB - SKOB Sig-Mat Mladá Boles         69:40    7     27:04    7     22:46    6     91:53    7    211:23    +92:56 
+   8 Dejnožka Jiří               TJN7503    TJN TJN - OOB TJ Tatran Jablonec n         72:19    9     22:13    5     21:33    5    100:51    8    216:56    +98:29 
+   9 Zlesák Ondřej               JIL7601    JIL JIL - OK Jilemnice                    122:49   10     50:59    9     32:02    8    133:08    9    338:58   +220:31 
+
+     Pohl Zdeněk                 SRK7606    SRK SRK - SOOB Spartak Rychnov nad         48:14    2                                                                  
+
+
+
+H40  (16)            
+
+   1 Hasman Jan                  VPM6901    VPM VPM - KOS Slavia VŠ Plzeň              37:18    1     19:46    3     15:15    1     57:07    3    129:26      0:00 
+   2 Beneš Jan                   SJH7001    SJH SJH - SJH Jindřichův Hradec            45:25    2     20:10    4     18:33   10     63:26    5    147:34    +18:08 
+   3 Švestka Vítězslav           KVS7301    KVS KVS - SKOB Kobra Vsetín                45:35    3     23:08    6     16:37    4     63:14    4    148:34    +19:08 
+   4 Mencl Miloslav              VSP6505    VSP VSP - USK Praha                        47:32    4     24:00    7     17:03    5     66:51    6    155:26    +26:00 
+   5 Kolář Viktor                HOR7300    HOR HOR - TJ Jiskra Hořice                 47:35    5     25:54    9     18:12    9     76:04    8    167:45    +38:19 
+   6 Kalousek Jiří               DKP6901    DKP DKP - Oddíl OB Kotlářka                50:27    7     25:06    8     16:14    3     78:18    9    170:05    +40:39 
+   7 Chvátil Jiří                PHK7200    PHK PHK - OK 99 Hradec Králové             63:42   10     28:22   13     17:51    7     95:46   12    205:41    +76:15 
+   8 Kolář Tomáš                 SLA7103    SLA SLA - SKOB Slaný                       57:34    8     28:03   12     20:25   11     99:50   13    205:52    +76:26 
+
+     Urbanec Vít                 EZL7010    EZL EZL - PEV Zlín                         49:15    6     19:37    2      disk          67:51    7                     
+     Sedlak Kristian             OKI        OKI OKI Sport                               disk          18:37    1     15:56    2     56:25    2                     
+     Jandera Tomáš               DVP7304    DVP DVP - TJ Sokol Praha Spořilov           disk          20:57    5     17:40    6     81:41   10                     
+     Valter Petr                 KBP4500    KBP KBP - KBP Praha                        63:10    9                                    disk                          
+     Bejvl Jakub                 LME7100    LME LME - SK Los Mělník                                   27:39   11     17:55    8                                    
+     Meier Milan                 VLI7301    VLI VLI - Slavia Liberec orienteer                        26:20   10     27:27   12                                    
+     Sykorka Ivan                NER        NER                                                                                     93:21   11                     
+     Valter Dalibor              KBP6900    KBP KBP - KBP Praha                                                                     50:55    1                     
+
+
+
+H45  (9)             
+
+   1 Vydra Ivan                  PEN6600    PEN PEN - OK RECO Sport                    38:27    1     17:30    1     14:16    1     57:47    1    128:00      0:00 
+   2 Kos Michal                  SRK6802    SRK SRK - SOOB Spartak Rychnov nad         52:48    3     25:03    2     18:52    3     69:34    2    166:17    +38:17 
+   3 Aster Vladimír              SLA6500    SLA SLA - SKOB Slaný                       65:50    7     35:25    6     18:07    2     89:28    4    208:50    +80:50 
+
+     Hostaš Zdeněk               VAM6403    VAM VAM - OOB Vamberk                      53:09    4      disk          21:03    5     vzdal                          
+     Tryzna Pavel                VRL6801    VRL VRL - OOS TJ Spartak Vrchlabí          53:11    5     35:00    5     20:38    4                                    
+     Ježek Ladislav              VLI4900    VLI VLI - Slavia Liberec orienteer         54:02    6     27:30    3                    71:44    3                     
+     Hanč Jaroslav               VRL6702    VRL VRL - OOS TJ Spartak Vrchlabí                         33:53    4                    98:53    5                     
+     Nápravník Jiří              LME6301    LME LME - SK Los Mělník                                   49:24    7     31:44    6                                    
+     Šritr Martin                TUV6802    TUV TUV - SOK TJ Turnov                    41:36    2                                                                  
+
+
+
+H50  (14)            
+
+   1 Krejčí Jaroslav             BOR6302    BOR BOR - OK Jiskra Nový Bor               31:01    1     12:49    1     14:29    1     39:13    1     97:32      0:00 
+   2 Nešpor Jan                  TTR6101    OOB Třebíč TTR                             36:36    2     17:46    2     18:58    5     55:30    4    128:50    +31:18 
+   3 Malý Evžen                  JIL6102    JIL JIL - OK Jilemnice                     42:08    3     21:38    7     18:39    4     57:13    5    139:38    +42:06 
+   4 Vydra Pavel                 PEN6200    PEN PEN - OK RECO Sport                    44:26    5     22:20   10     20:11    7     63:36    7    150:33    +53:01 
+   5 Kavka Jiří                  SCP5900    SCP SCP - OK Sparta Praha                  49:18    8     19:08    3     19:42    6     64:40    9    152:48    +55:16 
+   6 Zeman Jaroslav              CHT5901    CHT CHT - OOB SK Chrast                    52:19    9     19:33    4     18:17    3     64:22    8    154:31    +56:59 
+   7 Novotný Miroslav            LPU5905    LPU LPU - OK Lokomotiva Pardubice          70:33   11     22:06    9     20:38    8     58:14    6    171:31    +73:59 
+   8 Šimek Miroslav              LME6300    LME LME - SK Los Mělník                    45:15    6     24:38   12     21:06    9     84:10   12    175:09    +77:37 
+   9 Čivrný Pavel                VRL6306    VRL VRL - OOS TJ Spartak Vrchlabí          55:08   10     44:06   13     23:17   11     73:01   11    195:32    +98:00 
+
+     Havlíček Libor              JIL6103    JIL JIL - OK Jilemnice                     45:31    7     21:41    8      disk          55:17    3                     
+     Krajča Pavel                TZL5705    TZL TZL - SKOB Zlín                        43:22    4     20:39    5     21:06    9      disk                          
+     Vykysalý Miroslav           PHK5902    PHK PHK - OK 99 Hradec Králové              disk          20:53    6                    54:16    2                     
+     Řehák Pavel                 SJC6001    SJC SJC - Sportcentrum Jičín                disk                                        66:28   10                     
+     Petr Josef                  VLI6300    VLI VLI - Slavia Liberec orienteer                        22:32   11     16:47    2                                    
+
+
+
+H55  (11)            
+
+   1 Uher Petr                   VSP5001    VSP VSP - USK Praha                        33:02    1     14:24    1     16:24    1     44:39    1    108:29      0:00 
+   2 Konopáč Jiří                TUR5803    TUR TUR - OOB TJ Turnov                    35:29    2     17:53    3     18:50    4     49:21    3    121:33    +13:04 
+   3 Bochenek Milan              EKP5601    EKP EKP - VŠTJ Ekonom Praha                48:35    7     16:35    2     18:45    3     48:46    2    132:41    +24:12 
+   4 Jaroš Vladimír              DCE5400    DCE DCE - KOB Dobřichovice                 45:58    6     21:00    5     20:45    6     53:00    4    140:43    +32:14 
+   5 Adrián Petr                 EKP5600    EKP EKP - VŠTJ Ekonom Praha                48:40    8     22:10    7     20:46    7     53:59    5    145:35    +37:06 
+   6 Doležal Miroslav            PGP5501    PGP PGP - SK Praga                         49:46   10     23:03    8     22:04    9     69:46    7    164:39    +56:10 
+   7 Borák Stanislav             EKP5212    EKP EKP - VŠTJ Ekonom Praha                49:56   11     23:34    9     24:08   10     69:10    6    166:48    +58:19 
+
+     Nožička Miroslav            LPU5405    LPU LPU - OK Lokomotiva Pardubice          41:33    3     18:03    4     17:44    2      disk                          
+     Junek Petr                  STH5501    STH STH - SK Studenec                      48:51    9     27:04   10     20:03    5     vzdal                          
+     Hrstka Vladislav            JHB5702    JHB JHB - TJ Jiskra Havlíčkův Brod         43:48    5     21:05    6     20:57    8      disk                          
+     Cedrych Karel               TJP5500    TJP TJP - TJ Sokol Troja                   42:01    4                                                                  
+
+
+
+H60  (11)            
+
+   1 Peterka František           TJP4900    TJP TJP - TJ Sokol Troja                   31:32    2     15:48    1     15:53    2     49:58    2    113:11      0:00 
+   2 Erlebach Josef              JIL5201    JIL JIL - OK Jilemnice                     33:25    3     16:47    2     16:55    3     48:47    1    115:54     +2:43 
+   3 Škoda Přemek                VLI5301    VLI VLI - Slavia Liberec orienteer         34:04    4     28:18    6     15:42    1     53:03    3    131:07    +17:56 
+   4 Oudin Bernard               COC        COC CO - Colmar                            46:24    7     27:34    4     17:58    4     58:40    5    150:36    +37:25 
+   5 Mrštík Václav               LPU5002    LPU LPU - OK Lokomotiva Pardubice          46:01    6     30:20    7     20:33    7     55:17    4    152:11    +39:00 
+   6 Ptáček Ladislav             BBM5300    BBM BBM - BETA URSUS Orienteering          50:45    8     27:36    5     21:43    8     67:03    6    167:07    +53:56 
+   7 Procházka Jan               TBM4907    TBM TBM - KOS TJ Tesla Brno                66:35   10     32:31    8     20:18    6     74:36    7    194:00    +80:49 
+
+     Farář Václav                LPU5201    LPU LPU - OK Lokomotiva Pardubice          64:45    9      disk          33:56    9    105:22    9                     
+     Denemarek Oldřich           BBM5100    BBM BBM - BETA URSUS Orienteering                         26:51    3     20:12    5     87:30    8                     
+     Přinda Oldřich              VLI5101    VLI VLI - Slavia Liberec orienteer         28:51    1                                                                  
+     Karmazín Petr               VLI4901    VLI VLI - Slavia Liberec orienteer         34:42    5                                                                  
+
+
+
+H65  (14)            
+
+   1 Buriánek Jaromír            SCP4700    SCP SCP - OK Sparta Praha                  38:14    5     20:11    4     15:08    1     40:48    1    114:21      0:00 
+   2 Havlík Jaroslav             SJC3601    SJC SJC - Sportcentrum Jičín               30:51    1     23:42    5     17:01    3     46:15    2    117:49     +3:28 
+   3 Novák Miloš                 SCP4600    SCP SCP - OK Sparta Praha                  39:44    6     18:33    1     17:58    5     52:32    4    128:47    +14:26 
+   4 Zlesák Zdeněk               JIL4701    JIL JIL - OK Jilemnice                     36:15    3     19:17    3     18:55    8     59:54    9    134:21    +20:00 
+   5 Kříž Pavel                  PZR4800    PZR PZR - UNITOP SKP Žďár nad Sáza         36:43    4     27:38    9     17:16    4     54:02    5    135:39    +21:18 
+   6 Fišák Jan                   MLA4401    MLA MLA - MLOK Mariánské Lázně             43:19    9     25:12    7     16:40    2     54:45    6    139:56    +25:35 
+   7 Paul Josef                  DCE4401    DCE DCE - KOB Dobřichovice                 42:35    7     31:33   11     18:22    6     56:02    7    148:32    +34:11 
+   8 Nejezchleba Jiří            KAS4600    KAS KAS - KOB Kamenický Šenov              42:40    8     40:09   12     22:59   11     57:39    8    163:27    +49:06 
+   9 Fejk Zbyněk                 HOR4801    HOR HOR - TJ Jiskra Hořice                 56:33   12     26:59    8     26:31   13     61:50   10    171:53    +57:32 
+  10 Čepelka Petr                LPU4701    LPU LPU - OK Lokomotiva Pardubice          59:08   13     25:04    6     21:28    9     69:14   12    174:54    +60:33 
+  11 Rakovec Miloš               SCP4500    SCP SCP - OK Sparta Praha                  51:13   11     27:49   10     22:49   10     82:55   13    184:46    +70:25 
+
+     Nosál Stanislav             LBE4600    LBE LBE - TJ Lokomotiva Beroun             44:23   10      disk          18:34    7     63:04   11                     
+     Pospíšil Jiří               TUV4701    TUV TUV - SOK TJ Turnov                    33:25    2     19:08    2      disk          48:34    3                     
+     Pokorný Karel               TCB4701    TCB TCB - SK Technik České Budějov         61:35   14      disk          24:57   12                                    
+
+
+
+H70  (9)             
+
+   1 Gřunděl Ivan                SJH4201    SJH SJH - SJH Jindřichův Hradec            35:13    1     19:23    3     21:25    2     56:24    2    132:25      0:00 
+   2 Dohnal Josef                VSP4300    VSP VSP - USK Praha                        37:01    2     24:50    4     21:42    3     57:27    3    141:00     +8:35 
+   3 Kohout Tomáš                UVP3700    UVP UVP - Slovan Praha                     50:56    6     17:02    1     19:48    1     60:26    5    148:12    +15:47 
+   4 Bouček Václav               OCB4101    OCB OCB - OC České Budějovice              47:27    3     35:22    6     22:45    5     52:56    1    158:30    +26:05 
+   5 Hlavatý Karel               SJP4200    SJP SJP - KČT Slavoj Praha                 50:28    5     32:24    5     25:58    7     77:53    8    186:43    +54:18 
+   6 Vykysalý František          PHK3002    PHK PHK - OK 99 Hradec Králové             48:48    4     37:28    7     35:22    8     65:40    6    187:18    +54:53 
+   7 Sedlář Vladimír             AOP4201    AOP AOP - Přátelé orientačního běh         61:57    7     42:37    8     24:43    6     76:05    7    205:22    +72:57 
+
+     Zábranský Emil              SLA4200    SLA SLA - SKOB Slaný                        disk          19:03    2     21:43    4     60:06    4                     
+     Hanák Milan                 FSP3400    FSP FSP - VŠTJ Stavební fakulta Pr         67:09    8                                                                  
+
+
+
+HDR  (44)            
+
+   1 Štefan Jan                  STH0500    STH STH - SK Studenec                      25:06    3     10:52    1     11:56    2     25:36    2     73:30      0:00 
+   2 Nešpor Jiří                 TTR0502    OOB Třebíč TTR                             22:01    1     14:27    6     13:20    3     24:19    1     74:07     +0:37 
+   3 Jíra Filip                  ROZ0500    ROZ ROZ - OK Roztoky                       28:28    7     11:30    2     16:05    7     32:09    3     88:12    +14:42 
+   4 Nešporová Terezie           TTR0851    OOB Třebíč TTR                             25:15    4     12:26    3     16:39    9     36:55    9     91:15    +17:45 
+   5 Mrskočová Markéta           LPU0553    LPU LPU - OK Lokomotiva Pardubice          33:46   11     13:14    4     19:31   11     39:11   13    105:42    +32:12 
+   6 Kvapilová Kristýna          TUV0999    TUV TUV - SOK TJ Turnov                    33:27   10     24:49   18     14:48    5     34:02    5    107:06    +33:36 
+   7 Šedivý Josef                STH0802    STH STH - SK Studenec                      33:57   12     21:34   14     16:22    8     44:18   18    116:11    +42:41 
+   8 Čivrná Eliška               VRL0851    VRL VRL - OOS TJ Spartak Vrchlabí          49:25   20     29:16   24     24:41   15     36:16    7    139:38    +66:08 
+   9 Ševčíková Magdalena         NER        NER                                        57:34   24     24:11   17     25:57   17     62:58   29    170:40    +97:10 
+
+     Urbanec Bruno               EZL        EZL EZL - PEV Zlín                         29:13    8     25:40   21     31:55   20      disk                          
+     Vařeková  Anna              TUV0651    TUV TUV - SOK TJ Turnov                    41:49   17     13:44    5                    38:01   11                     
+     Pipková Karolína            NER        NER                                                       19:49   11     19:35   12     59:34   28                     
+     Ševčík Daniel               TBM0508    TBM TBM - KOS TJ Tesla Brno                24:08    2     15:59    7                    43:17   17                     
+     Uhlířová Marie              LBE0950    LBE LBE - TJ Lokomotiva Beroun             37:37   13     19:57   12                    36:25    8                     
+     Zimová Veronika             DCE0650    DCE DCE - KOB Dobřichovice                                18:41   10     13:35    4     39:00   12                     
+     Janatová Violka             DKP0950    DKP DKP - Oddíl OB Kotlářka                               23:40   16     31:12   19     53:16   23                     
+     Kučerová Kateřina           VSP0950    VSP VSP - USK Praha                                       26:39   22     17:46   10     53:46   24                     
+     Žemlík Leonard              TZL1301    TZL TZL - SKOB Zlín                                       17:04    8     20:17   13                                    
+     Žemlík Eduard               TZL0901    TZL TZL - SKOB Zlín                                       20:57   13     15:55    6                                    
+     Zobaník Tomáš               NER        NER                                                       31:10   25                    56:16   27                     
+     Heczková Anna               NER        NER                                        49:19   19     25:24   20                                                   
+     Kučera Jakub                VSP0900    VSP VSP - USK Praha                                       26:45   23                    53:48   25                     
+     Brabencová Anna             SOB0450    SOB SOB - SOBSA                            56:55   23                                   53:51   26                     
+     Hora Jan                    PGP0901    PGP PGP - SK Praga                         53:06   21                                   50:14   21                     
+     Albert Vojtíšek             NER        NER                                                                      11:49    1     35:29    6                     
+     Forst Albert                MFP0901    MFP MFP - VŠSK MFF UK Praha                47:07   18                    23:20   14                                    
+     Hyxa Jan                    NER        NER                                        27:07    6     22:13   15                                                   
+     Meier David                 VSP0606    VSP VSP - USK Praha                                       17:42    9     25:24   16                                    
+     Votočková Amélie            JIL        JIL JIL - OK Jilemnice                                    25:20   19     26:49   18                                    
+     Kazdová Rozárie             SJC1350    SJC SJC - Sportcentrum Jičín                                                            40:25   14                     
+     Novotná Vendulka            NER        NER                                                                                     33:40    4                     
+     Ritschel Adam               NER        NER                                                                                     53:01   22                     
+     Kubátová Marie              NER        NER                                                                                     42:14   15                     
+     Stránská Eliška             NER        NER                                                                                     44:29   19                     
+     Stauch Daniel               3LC0600    NER                                                                                     42:49   16                     
+     Hyxa Jan                    VLI        VLI VLI - Slavia Liberec orienteer                                                      37:08   10                     
+     Alblová Zuzana              LME0660    LME LME - SK Los Mělník                                                                 47:54   20                     
+     Malečková Pavlína           PGP0850    PGP PGP - SK Praga                         39:46   14                                                                  
+     Pohl Lukáš                  SRK        SRK SRK - SOOB Spartak Rychnov nad         54:18   22                                                                  
+     Hančová Karolína            VRL0952    VRL VRL - OOS TJ Spartak Vrchlabí                                         disk                                         
+     Rázková Helena              NER        NER                                        25:59    5                                                                  
+     Koubová Apolenka            NER        NER                                        41:12   16                                                                  
+     Koubová Johana              NER        NER                                        41:09   15                                                                  
+     Týfa Daniel                 NER        NER                                        33:10    9                                                                  
+
+
+
+P  (39)              
+
+   1 Švestka Jiří                KVS6802    KVS KVS - SKOB Kobra Vsetín                26:18    2     13:16    2     15:22    2     30:58    4     85:54      0:00 
+   2 Tkáč Jan                    TJN        TJN TJN - OOB TJ Tatran Jablonec n         29:34    4     13:52    3     14:21    1     38:42    8     96:29    +10:35 
+   3 Sedlak Eva                  OKI        OKI OKI Sport                              31:41    5     18:44    9     20:51    4     45:55   14    117:11    +31:17 
+   4 Dejnožková Blanka           TJN7651    TJN TJN - OOB TJ Tatran Jablonec n         33:07    6     15:03    4     25:36   12     44:35   11    118:21    +32:27 
+   5 Švestková Jana              KVS7051    KVS KVS - SKOB Kobra Vsetín                36:00    8     24:03   13     21:08    5     68:11   25    149:22    +63:28 
+   6 Klašková Josefina           DKP9651    DKP DKP - Oddíl OB Kotlářka                55:11   16     24:24   14     29:52   15     46:27   15    155:54    +70:00 
+   7 Veselá Kateřina             NNN9250    NNN CZ - Neregistrovaní                    50:32   14     26:49   16     34:01   17     67:54   23    179:16    +93:22 
+   8 Pekárek Michal              RBK9015    RBK RBK - SK Radioklub Blansko             50:34   15     26:51   17     34:01   17     67:57   24    179:23    +93:29 
+   9 Kovářová Milena             TJH5351    TJ OK Tolar Jind TJH                       48:52   13     35:20   18     30:00   16     68:50   26    183:02    +97:08 
+  10 Novotná Barbora             NER        NER                                        75:59   17     39:03   19     26:44   13     91:33   28    233:19   +147:25 
+
+     Jílková Radka               ZBP7751    ZBP ZBP - OOB SK Zbraslav                   disk          22:18   10     24:25    9     82:12   27                     
+     Ševčík Robert               TBM7010    TBM TBM - KOS TJ Tesla Brno                28:34    3     22:31   11                    46:39   16                     
+     Zítková Michaela            TUV8551    TUV TUV - SOK TJ Turnov                    40:34   10     15:49    8                    35:28    5                     
+     Štrossová Veronika          DCE8250    DCE DCE - KOB Dobřichovice                                15:36    6     22:43    7     43:48   10                     
+     Novák Jan                   NER        NER                                        44:44   12                                   45:24   12                     
+     Švarc Tomáš                 NER        NER                                        36:07    9                                   63:00   21                     
+     Ječná Tereza                NER        NER                                                                      21:24    6      disk                          
+     Švarcová Lenka              NER        NER                                        42:29   11                                   48:43   17                     
+     Kalošová Terka              NER        NER                                                       45:13   20                    37:22    6                     
+     Kazdová Dana                24C8150    24C CZ - OK Vršovice                                                     23:25    8     57:20   20                     
+     Drobník Michal              SJC8709    SJC SJC - Sportcentrum Jičín                              15:26    5                    45:24   12                     
+     Arnold Jindřich             HOR4701    HOR HOR - TJ Jiskra Hořice                                26:25   15     27:16   14                                    
+     Kučerová Bára               DOR7851    DOR DOR - OK Dobříš                                       22:55   12     25:24   11                                    
+     Stauchová Iva               3LC7450    NER                                                                                     49:32   18                     
+     Pachner Jan                 NER        NER                                                                                     39:44    9                     
+     Melicharová Kateřina st.    NER        NER                                                                                     vzdal                          
+     Červenka Jiří               MLA5804    MLA MLA - MLOK Mariánské Lázně                                                          52:19   19                     
+     Bartoň Zdeněk               NPA        NPA NPA - SK LOB Nová Paka                                                              28:42    1                     
+     Tesař Zdeněk                SJC7401    SJC SJC - Sportcentrum Jičín                                                            29:58    3                     
+     Hyxová Radka                VLI7755    VLI VLI - Slavia Liberec orienteer                                                      29:15    2                     
+     Peteráč Zdeněk              VLI        VLI VLI - Slavia Liberec orienteer                                                      38:04    7                     
+     Hanušová Jitka              LTU6352    OOB TJ Lokomotiv LTU                       35:40    7                                                                  
+     Paulová Mirka               DCE5250    DCE DCE - KOB Dobřichovice                                               25:20   10                                    
+     Hyxová Radka                NER        NER                                                       10:24    1                                                   
+     Lukš Bohuslav               NER        NER                                                                      20:50    3                                    
+     Skochová Jitka              NER        NER                                                       15:46    7                                                   
+     Melicharová Kateřina ml.    NER        NER                                                                                     vzdal                          
+     Rücker Petr                 HOR6500    HOR HOR - TJ Jiskra Hořice                 22:24    1                                                                  
+     Krakorová Iva               NER        NER                                                                                     64:59   22                     
+
+
+
+T  (49)              
+
+   1 Hladík František            STH9203    STH STH - SK Studenec                      45:38    2     14:53    2     17:47    3     48:08    3    126:26      0:00 
+   2 Kovář Jaroslav              TJH8901    TJ OK Tolar Jind TJH                       59:28    5     15:43    3     17:42    2     67:50    9    160:43    +34:17 
+   3 Menclová Silvie             VSP7050    VSP VSP - USK Praha                        63:10    6     24:13    6     22:29   10     61:59    8    171:51    +45:25 
+   4 Trýzna Aleš                 STH        STH STH - SK Studenec                      87:25   14     24:44    7     19:03    7     70:04   12    201:16    +74:50 
+   5 Uhlíř Patrik                LBE7000    LBE LBE - TJ Lokomotiva Beroun             75:49   11     24:55    8     25:25   14     81:35   19    207:44    +81:18 
+   6 Kovářová Lenka              TJH8652    TJ OK Tolar Jind TJH                       76:36   12     29:43   12     24:44   13     79:24   17    210:27    +84:01 
+   7 Jirásková Dora              NER        NER                                       113:14   20     43:10   19     27:26   16    106:03   20    289:53   +163:27 
+   8 Viková Vendula              STH8951    STH STH - SK Studenec                      91:18   15     28:50   11     24:28   11    167:38   24    312:14   +185:48 
+
+     Oma Jakub                   TUR8002    TUR TUR - OOB TJ Turnov                    33:46    1     12:23    1                    32:32    1                     
+     Píša Pavel                  NNN7101    NNN CZ - Neregistrovaní                                   32:10   16     24:38   12     79:44   18                     
+     Nymsa Zdeněk                TYN8502    TYN TYN - OOB SK Týniště nad Orlic                        29:55   13     18:08    4     58:20    7                     
+     Drobníková Markéta          TAP8463    TAP TAP - KOB TRETRA Praha                                20:03    4     27:49   17    133:47   23                     
+     Neckař Jan                  NER        NER                                                       35:02   18     26:10   15     72:47   13                     
+     Ledvina Tomáš               66C6300    66C CZ - Amateri                                          32:57   17     30:56   20     75:44   15                     
+     Pavlů Jaroslav              DCE6100    DCE DCE - KOB Dobřichovice                                30:31   14     19:48    8                                    
+     Švarc Jiří                  NER        NER                                        99:03   19                                   78:59   16                     
+     Francke Karel               NER        NER                                        72:04    9                                   75:03   14                     
+     Vrátil Tomáš                NER        NER                                                       46:21   20     37:23   22                                    
+     Ledvinová Jana              66C6350    66C CZ - Amateri                                          46:27   21     35:00   21                                    
+     Straka Lukáš                SLA7002    SLA SLA - SKOB Slaný                                                     18:51    6     50:54    5                     
+     Rennét Jiří                 NER        NER                                                       46:46   22                                                   
+     Kalošová Terka              NER        NER                                                                      28:48   18                                    
+     Vinopal Vilém               NER        NER                                                       56:49   24                                                   
+     Matoušek Daniel             NER        NER                                                       48:22   23                                                   
+     Hančová Petra               VRL9652    VRL VRL - OOS TJ Spartak Vrchlabí                                                       40:30    2                     
+     Albl Slávek                 LME7600    LME LME - SK Los Mělník                                                                 49:17    4                     
+     Kaňka Vladimír              NER        NER                                                                                    112:41   21                     
+     Francke Jan                 NER        NER                                                                                     57:40    6                     
+     Kubát Petr                  NER        NER                                                                                     68:07   11                     
+     Kavanová Tereza             NER        NER                                                                      30:52   19                                    
+     Rücker Petr                 HOR6500    HOR HOR - TJ Jiskra Hořice                                28:20    9                                                   
+     Hvězdář                     NER        NER                                                                      20:46    9                                    
+     Alblová Lucie               LME7555    LME LME - SK Los Mělník                                                                 67:58   10                     
+     Koťátko Zdeněk              SJC7701    SJC SJC - Sportcentrum Jičín                                             16:07    1                                    
+     Procházková Soňa            LPU        LPU LPU - OK Lokomotiva Pardubice                         31:36   15                                                   
+     Rückerová Šárka             HOR0050    HOR HOR - TJ Jiskra Hořice                                21:01    5                                                   
+     Rücker Jan                  HOR0201    HOR HOR - TJ Jiskra Hořice                                28:49   10                                                   
+     Ševčík Milan                CHA5003    CHA CHA - OK Chrastava                     63:58    8                                                                  
+     Souček Tomáš                PHK        PHK PHK - OK 99 Hradec Králové             47:52    4                                                                  
+     Kronika Miroslav            22C7100    22C CZ - SPORTeM                           63:33    7                                                                  
+     Karlachová Jana             66C6850    66C CZ - Amateri                                          64:09   25                                                   
+     Souček Pavel                PHK5503    PHK PHK - OK 99 Hradec Králové             91:39   16                                                                  
+     Vik Martin                  STH9206    STH STH - SK Studenec                      46:08    3                                                                  
+     Šubrt Jiří                  TEP6100    Tempo Praha TEP                            93:39   18                                                                  
+     Tesař Zdeněk                SJC7401    SJC SJC - Sportcentrum Jičín               83:09   13                                                                  
+     Hanuš Pavel                 LTU6501    OOB TJ Lokomotiv LTU                       75:34   10                                                                  
+     Ševčíková Alena             CHA5351    CHA CHA - OK Chrastava                     93:36   17                                                                  
+     Jirků Martina               TUR8750    TUR TUR - OOB TJ Turnov                                                                115:22   22                     
+     Uvizlová Radka              STH8451    STH STH - SK Studenec                                                    18:20    5                                    
+
+
