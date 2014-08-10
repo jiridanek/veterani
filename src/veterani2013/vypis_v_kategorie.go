@@ -44,7 +44,8 @@ func main() {
 }
 
 var HIGHLIGHT int = 10
-var COLS int = 35
+var COLS int = 31
+var YEAR string = "2014"
 
 func vypis_vysledky(db sql.Db) {
 	r := db.Getresults()
@@ -76,7 +77,7 @@ func vypis_vysledky(db sql.Db) {
 <meta charset="utf-8">
 </head>
 <body><pre>`)
-	fmt.Fprintf(f, "Pořadí Českého Poháru Veteránů 2013 dle kategorií\n\n")
+	fmt.Fprintf(f, "Pořadí Českého Poháru Veteránů %v dle kategorií\n\n", YEAR)
 	for _, k := range sclasses { // over all categories
 		fmt.Fprintf(f, "          KATEGORIE %s\n", k)
 		fmt.Fprintf(f, "poř.kat.  poř.ČPV abs.poř.  Reč         Jmeno             počet  body     body dle závodů\n")

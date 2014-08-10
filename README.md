@@ -6,9 +6,14 @@ There is nothing really useful for the "general public." In `src/veterani2013/io
 
 The code uses SQLite. I had fun times choosing from the three available bindings for Go, at the end I went with what seemed the most popular.
 
+
+        for i in 2282 2328 2283 2329; do wget http://oris.orientacnisporty.cz/ExportVysledkuCSOS?id=${i}; done
+        
+        for f in *; do iconv -f WINDOWS-1250 -t UTF-8 $f > $f.txt; done
+
 Usage:
 
-        go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2013/ -suffix .txt
+        go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2014/ -suffix .txt
         go run src/veterani2013/vypis_vysledky.go
         go run src/veterani2013/vypis_v_kategorie.go
 

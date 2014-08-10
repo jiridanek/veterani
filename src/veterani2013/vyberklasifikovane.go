@@ -7,7 +7,7 @@ import (
   "veterani2013/input"
   "veterani2013/types"
   "veterani2013/output"
-  "io"
+//  "io"
   "os"
 //   "unicode/utf8"
 )
@@ -47,7 +47,7 @@ for _,v := range rshlavni {
       v.Regno.String(),
       v.License,
       v.Result}
-    output.fprintfw(os.Stdout, l, []int{10,25,7,1,6})
+    output.Fprintfw(os.Stdout, l, []int{10,25,7,1,6})
   }
 }
 

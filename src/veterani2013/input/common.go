@@ -88,12 +88,12 @@ func Nacti_zavod(dir, fname string) Zavod {
 	switch parts[1] {
 	case "v":
 		veteraniada = true
-	case "j":
+	case "b":
 	  jednorazovy = true
 	case "":
 		// do nothing
 	default:
-		log.Fatal("Attribute must be ")
+		log.Fatalf("File %v: Attribute must be 'v', 'j' or '', was %v", fname, parts[1])
 	}
 
 	z := Zavod{cislo, veteraniada, jednorazovy, path.Join(dir, fname)}
