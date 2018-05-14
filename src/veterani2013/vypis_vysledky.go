@@ -45,7 +45,7 @@ func vypis_vysledky(db sql.Db) {
 	//fmt.Println(r[2])
 	//return
 
-	f, err := os.Create("hodnoceni_cpv_2013.html")
+	f, err := os.Create("hodnoceni_cpv_2018.html")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -66,7 +66,7 @@ func vypis_vysledky(db sql.Db) {
 			if l.Kategorie[0:1] != k {
 				continue
 			}
-			fmt.Fprintf(f, "%7d %6d %10s %-24s %2d %7d    %s\n",
+			fmt.Fprintf(f, "%7d %6d %10s %-25s %2d %7d    %s\n",
 				l.P_poradi,
 				l.Ap_poradi,
 				strings.Replace(l.Z_id, "|", "", -1),

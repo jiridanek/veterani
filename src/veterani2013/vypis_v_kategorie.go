@@ -44,8 +44,8 @@ func main() {
 }
 
 var HIGHLIGHT int = 10
-var COLS int = 31
-var YEAR string = "2014"
+var COLS int = 35
+var YEAR string = "2018"
 
 func vypis_vysledky(db sql.Db) {
 	r := db.Getresults()
@@ -66,7 +66,7 @@ func vypis_vysledky(db sql.Db) {
 	}
 	sort.Strings(sclasses)
 
-	f, err := os.Create("cpv2012kateg.html")
+	f, err := os.Create(fmt.Sprintf("hodnoceni_cpv_%s_dle_kategorii.html", YEAR))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -79,7 +79,7 @@ func vypis_vysledky(db sql.Db) {
 <body><pre>`)
 	fmt.Fprintf(f, "Pořadí Českého Poháru Veteránů %v dle kategorií\n\n", YEAR)
 	for _, k := range sclasses { // over all categories
-		fmt.Fprintf(f, "          KATEGORIE %s\n", k)
+		fmt.Fprintf(f, "     KATEGORIE %s\n", k)
 		fmt.Fprintf(f, "poř.kat.  poř.ČPV abs.poř.  Reč         Jmeno             počet  body     body dle závodů\n")
 		fmt.Fprintf(f, "                                                         závodů celkem  ")
 		for i := 1; i <= COLS; i++ {
@@ -125,7 +125,7 @@ func vypis_vysledky(db sql.Db) {
 			races := db.Getraceresults(l.Z_id) // map[int]int
 			sraces := racesTable(l, races)
 
-			fmt.Fprintf(f, "%7d %6d %6d %10s %-24s %2d %7d    %s\n",
+			fmt.Fprintf(f, "%7d %6d %6d %10s %-25s %2d %7d    %s\n",
 				katporadi,//db.Getkatporadi(l.Z_id, k), //l.Kp_poradi,
 				l.P_poradi,
 				l.Ap_poradi,
