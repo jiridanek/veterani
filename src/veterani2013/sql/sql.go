@@ -311,7 +311,7 @@ type Result struct {
 	Z_prijmeni string
 	Z_jmeno    string
 	Nzavodu    int
-	Kategorie  string
+	Kategorie  string  // multiple comma separated categories in here
 	S_body     int
 	Ap_scores  string
 }

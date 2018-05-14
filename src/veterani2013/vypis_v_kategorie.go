@@ -52,14 +52,11 @@ func vypis_vysledky(db sql.Db) {
 
 	classes := make(map[string]bool)
 	for _, v := range r {
-		cls := strings.Split(v.Kategorie, ",")
-		for _, c := range cls {
-			classes[c] = true
-		}
+		cls := categoryFromIDAge(v.Kategorie, v.Z_id)
+		classes[cls] = true
 	}
 
 	// only classes someone competed in
-	// this is a little bit wrong, should iterate over runners
 	sclasses := make([]string, 0)
 	for c, _ := range classes {
 		sclasses = append(sclasses, c)
@@ -91,42 +88,22 @@ func vypis_vysledky(db sql.Db) {
 		prevporadi := 0
 		prevkatporadi := 0
 		for _, l := range r { // over all runners
-			
- 			cs := make(map[string]bool) // categories the person competed in
- 			for _, c := range strings.Split(l.Kategorie, ",") {
- 				cs[c] = true
- 			}
-
- 			classstr := strings.Split(l.Kategorie, ",")[0][:1] // pohlavi
-			class, err := types.NewRegno(strings.Replace(l.Z_id, "|", "", -1)).ClassB()
-			if err != nil {
-			  
-			  // max class
-			  classstr = strings.Split(l.Kategorie, ",")[0]
-			  for v,_ := range cs {
-			    if types.ClassLess(types.NewClass(classstr), types.NewClass(v)) {
-			      classstr = v
-			    }
-			  }
-			  log.Println(l.Z_prijmeni, l.Z_jmeno, l.Z_id, err, classstr)
-			} else {
-			  classstr += fmt.Sprintf("%d", class)
-			}
+			classstr := categoryFromIDAge(l.Kategorie, l.Z_id)
 			//fmt.Println(classstr, k)
 			if classstr != k {
-			  continue // skip the runner
+				continue // skip the runner
 			}
-			
+
 			katporadi := prevkatporadi
 			if l.Ap_poradi != prevporadi {
-			  katporadi = cntr
+				katporadi = cntr
 			}
-		  
+
 			races := db.Getraceresults(l.Z_id) // map[int]int
 			sraces := racesTable(l, races)
 
 			fmt.Fprintf(f, "%7d %6d %6d %10s %-25s %2d %7d    %s\n",
-				katporadi,//db.Getkatporadi(l.Z_id, k), //l.Kp_poradi,
+				katporadi, //db.Getkatporadi(l.Z_id, k), //l.Kp_poradi,
 				l.P_poradi,
 				l.Ap_poradi,
 				strings.Replace(l.Z_id, "|", "", -1),
@@ -141,8 +118,18 @@ func vypis_vysledky(db sql.Db) {
 		fmt.Fprintf(f, "\n")
 	}
 	fmt.Fprintf(f, `</pre>
-</body>
-</html>`)
+			</body>
+			</html>`)
+}
+
+func categoryFromIDAge(Kategorie, Z_id string) string {
+	classB, err := types.NewRegno(strings.Replace(Z_id, "|", "", -1)).ClassB()
+	if err != nil {
+		log.Fatal(err)
+	}
+	return fmt.Sprintf("%s%d",
+		strings.Split(Kategorie, ",")[0][:1], // pohlavi
+		classB)
 }
 
 func racesTable(l sql.Result, races map[int]int) *bytes.Buffer {

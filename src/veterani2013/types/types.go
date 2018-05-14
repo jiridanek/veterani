@@ -116,7 +116,7 @@ func NewRegno(s string) Regno {
 }
 
 //FIXME separate config package?
-var current = 100 + 14 // for 2014
+var current = 100 + 18 // for 2018
 
 func (n Regno) ClassB() (int, error) {
   if len(n.N) != 4 {
