@@ -106,7 +106,7 @@ func Umisteni(kat, u, kz int) int {
 
 func SubClassRank(cs map[types.Class]bool, c types.Class) int {
 	r := -1
-	for _, j := range []string{"", "A", "B", "C", "D", "E"} {
+	for _, j := range []string{"A", "B", "C", "D", "E", ""} {
 		if cs[types.Class{c.A, c.B, j}] {
 			r++
 		}
