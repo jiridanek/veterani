@@ -1,0 +1,1193 @@
+Kod zavodu         : 2282
+Nazev zavodu       : Český pohár, INOV-8 CUP - žebříček A, Žebříček B-Morava, Oblastní žebříček
+Zarazeni do soutezi: 
+Datum konani       : 07.06.2014
+Misto konani       : Věcov, Odranec
+Poradatel          : TBM - KOS TJ Tesla Brno
+Mapa               : Kopeček 822 (H/D 16-40, 1:15 000, e=5 m)<br>Kopeček 822 – Sever (ostatní kategorie 1:10 000)
+Reditel zavodu     : Strejček Petr - R3
+Hlavni rozhodci    : Krtička Luděk - R1
+Stavitel trati     : Kozáková Zdenka - R2, Kozák Osvald - R3
+JURY               : Turczer Petr, Jedlička Michal, Venhoda Milan
+Protokol           : Závodu se zúčastnilo 1179 závodníků. Závod proběhl bez problémů, za pěkného slunného počasí. U několika závodníků byly ošetřeny drobné oděrky.
+Vklady v rozpise závodu byly stanoveny ve výši 40/80/90/120/170/190 Kč, na základě výsledků činí odvod pořadatele závodu ČSOS  15.672 Kč.
+----------------------------------------------------------------------------
+D12C      Dittrichová Michaela     SKM0251B 18.13
+D12C      Vedrová Ela              TBM0357C 23.08
+D12C      Mulíčková Markéta        ABM0362C 24.15
+D12C      Nešporová Marie          TTR0351C 25.10
+D12C      Kůstková Barbora         VIC0259B 25.41
+D12C      Sobotková Klára          PZR0351B 27.21
+D12C      Mrozek Teresa            TRI0251B 28.08
+D12C      Slámová Taťána           OSN0250C 28.44
+D12C      Binarová Adéla           UOL0452C 29.28
+D12C      Kočová Halina            TZL0255B 29.47
+D12C      Tichá Marie              TZL0253B 30.52
+D12C      Tichá Julie              TZL0252C 33.32
+D12C      Panovcová Anita          OTK0351C 34.16
+D12C      Mudráková Eliška         LCE0352C 36.45
+D12C      Hartmannová Anna         PLU0354C 37.04
+D12C      Králová Jolana           TBM0360C 38.46
+D12C      Bednaříková Emma         VLI0359C 41.00
+D12C      Černochová Michaela      PLU0351C 43.29
+D12C      Brabbing Noa             OOL0357C888.88
+D14B      Grycová Kateřina         TBM0058A 30.02
+D14B      Nešporová Alžběta        TZL0051B 34.07
+D14B      Kundratová Lucie         TZL0058B 34.12
+D14B      Hájková Lenka            AOP0050B 34.52
+D14B      Bruková Magda            TRI0054A 35.16
+D14B      Plhalová Šárka           ASU0097A 39.15
+D14B      Hrabošová Magdalena      ASU0099A 40.12
+D14B      Opálková Martina         BBM0050B 42.21
+D14B      Auermüllerová Anna       ZBM0060B 44.24
+D14B      Radová Kateřina          ABM0199B 44.31
+D14B      Poláková Lenka           SOP0151A 45.13
+D14B      Hájková Lucie            AOP0350B 45.20
+D14B      Novotná Tereza           ZLH0051B 45.39
+D14B      Špendlíková Kamila       LCE0051B 48.08
+D14B      Paterová Klára           TZL0093C 48.10
+D14B      Hlaváčová Anežka         TBM0199B 48.49
+D14B      Macíková Barbora         TZL0053C 49.14
+D14B      Stoklasová Daniela       OSN0055C 49.56
+D14B      Plášková Anna            LCE0152B 50.07
+D14B      Marková Ema              STE0252B 53.11
+D14B      Svobodová Anna           KTA0151B 53.25
+D14B      Ressová Tereza           LCE0052B 53.49
+D14B      Skoupá Vendula           STE0152B 54.33
+D14B      Korpasová Lucie          LBM0151B 57.01
+D14B      Golová Tereza            VIC0162B 58.02
+D14B      Malotová Kamila          LCE0055C 63.29
+D14B      Müllerová Erika          OTK0050C 73.45
+D16A      Čechová Tereza           SJI9852A 39.01
+D16A      Vyhnálková Barbora       RIC9850A 40.09
+D16A      Chaloupská Barbora       PHK9951A 42.08
+D16A      Sieglová Eliška          PGP9954A 42.12
+D16A      Staňová Karolína         BOR9853A 42.41
+D16A      Janošíkova Tereza        UOL9950A 43.49
+D16A      Kopecká Anna             LPU9958A 44.43
+D16A      Nováková Lucie           BOR9854A 45.07
+D16A      Janoušková Lucie         BOR9954A 45.11
+D16A      Janovská Kateřina        PGP9850A 45.37
+D16A      Šmelíková Tereza         LCE9952A 45.52
+D16A      Waňková Martina          VRL9951A 47.04
+D16A      Chaloupková Veronika     CHC9852A 47.56
+D16A      Kůstková Daniela         VIC9898A 48.07
+D16A      Odehnalová Klára         ABM9956A 48.36
+D16A      Soldánová Tereza         JPV9899A 49.37
+D16A      Kubecová Kateřina        BOR9959A 49.47
+D16A      Hudská Ludmila           TUR9851A 50.13
+D16A      Szarzecová Lucie         TRI9850A 50.48
+D16A      Vývodová Jana            MOV9852A 51.11
+D16A      Fukalová Hana            AOV9850A 52.49
+D16A      Kohoutová Barbora        BOR9850A 53.27
+D16A      Poláková Tereza          SOP9951A 55.07
+D16A      Grycová Veronika         TBM9859A 55.15
+D16A      Semrádová Jana           CHC9951A 55.46
+D16A      Čechová Klára            AOP9951A 55.51
+D16A      Jezdinská Natálie        STH9954A 56.55
+D16A      Kalenská Dominika        STH9958A 57.33
+D16A      Pilcová Sabina           JPV9898A 57.57
+D16B      Švancárová Veronika      KSU9853B 51.51
+D16B      Hanousková Renata        LCE9852B 53.06
+D16B      Tichá Veronika           TZL9951C 53.25
+D16B      Korpasová Tereza         LBM9898B 53.30
+D16B      Zatloukalová Romana      SSU9950B 54.39
+D16B      Malivánková Eva          ZBM9952B 55.15
+D16B      Švidrnochová Lenka       MOV9951B 58.12
+D16B      Vlachová Kateřina        KON9898B 61.15
+D16B      Chroustová Šárka         ZBM9862C 62.11
+D16B      Slovenčíková Eliška      VIC9959B 62.19
+D16B      Pukyšová Anežka          KSU9999B 63.04
+D16B      Svobodová Jana           KTA9951B 66.04
+D16B      Křečková Jana            ZPV9999B 66.48
+D16B      Novotná Klára            ZLH9851B 69.44
+D16B      Hauerlandová Natálie     LCE9851C 83.47
+D18A      Štičková Anna            LLI9651A 52.38
+D18A      Kulhavá Eliška           LPU9657A 53.01
+D18A      Šiková Barbora           LPM9650A 53.28
+D18A      Hiršová Gabriela         VBM9651A 53.36
+D18A      Novotná Klára            PHK9751A 54.13
+D18A      Chládková Simona         LPU9658A 54.59
+D18A      Hančová Petra            VRL9652A 55.42
+D18A      Šiková Karolína          LPM9651A 56.16
+D18A      Vališová Martina         OSN9696A 56.20
+D18A      Nováková Tereza          DKP9751A 56.37
+D18A      Chovancová Zuzana        TZL9754A 59.07
+D18A      Odehnalová Tereza        ABM9757A 61.34
+D18A      Šňupárková Anna          DKP9652A 61.51
+D18A      Argalášová Kateřina      TRI9750A 61.52
+D18A      Hanáková Magda           KRL9651A 62.01
+D18A      Tesařová Jana            TRI9751A 62.18
+D18A      Papugová Andrea          LCE9752B 63.25
+D18A      Petrasová Zuzana         ASU9695A 63.49
+D18A      Kameníková Andrea        BOR9751A 64.02
+D18A      Kožinová Zuzana          PGP9650A 65.30
+D18A      Červená Adéla            SHK9755A 65.43
+D18A      Sabelová Markéta         TRI9656A 66.03
+D18A      Šádková Martina          PHK9653A 66.26
+D18A      Slavíková Silvie         PGP9751A 66.45
+D18A      Hrabánková Klára         PGP9654A 68.25
+D18A      Horvátová Hana           ASU9797A 69.03
+D18A      Fenclová Tereza          LPU9752A 69.34
+D18A      Peňázová Veronika        SJH9752A 69.53
+D18A      Veljačiková Hana         SCP9750A 69.53
+D18A      Kovářová Lenka           LTP9750A 70.47
+D18A      Machačová Michaela       PHK9656A 71.13
+D18A      Koderičová Tereza        LTU9651A 72.30
+D18A      Kosutova Katarina        42S9751C 73.35
+D18A      Jansová Doubravka        LPU9750A 76.19
+D18A      Linková Alena            TUR9751A 76.45
+D18A      Nedbálková Hana          ZBM9755A 78.32
+D18B      Kašparová Zuzana         SSU9661B 56.59
+D18B      Machusová Karolína       SSU9666B 60.06
+D18B      Kaufmanová Ivana         TRI9761B 63.13
+D18B      Zentrichová Daniela      OTK9751B 67.31
+D18B      Čížková Markéta          ADA9652B 76.49
+D18B      Kovářová Tereza          TRI9756B 80.12
+D18B      Svěchotová Natálie       MOV9751B 81.51
+D20A      Novotná Markéta          PHK9451R 57.31
+D20A      Chromá Kateřina          ZBM9451E 57.43
+D20A      Horová Pavla             LPU9457R 58.09
+D20A      Tužilová Magdaléna       ZBM9452R 59.57
+D20A      Tesařová Markéta         ZBM9456E 60.02
+D20A      Kosová Štěpánka          LPU9460R 62.50
+D20A      Svobodová Lenka          PHK9551R 63.28
+D20A      Procházková Marie        KAM9554A 64.43
+D20A      Hlubučková Kristýna      KAM9551R 66.36
+D20A      Procházková Klára        LPU9451R 66.43
+D20A      Doleželová Kateřina      LPU9558R 68.27
+D20A      Končáková Klára          LCE9555A 68.54
+D20A      Chvalová Věra            LPM9452R 70.49
+D20A      Tesařová Marcela         AOP9450R 71.45
+D20A      Benešová Jana            SJH9451R 72.24
+D20A      Koláriková Lucie         TZL9451A 73.21
+D20A      Jeřábková Jitka          TZL9453A 74.11
+D20A      Dlouhá Hana              DKP9450R 76.53
+D20A      Chroustová Lenka         ZBM9457A 77.34
+D20A      Voborníková Alena        LPU9458R 77.36
+D20A      Papugová Martina         LCE9551A 78.02
+D20A      Kamererová Valerie       KAM9452A 78.33
+D20A      Hoidekrová Lucie         LLI9552A 81.26
+D20A      Otrusinová Jana          ABM9560A 84.46
+D20B      Jančová Jana             VRB9450B 60.53
+D20B      Galatíková Lucie         SBR9550B 63.59
+D20B      Vlachová Eliška          KON9572B 79.23
+D20B      Franková Dominika        72S9553C 96.13
+D21A      Jedličková Zuzana        SHK8150E 66.54
+D21A      Hepnerová Martina        SHK8152E 69.32
+D21A      Gebauerová Jana          ZBM7951C 69.51
+D21A      Myslivcová Pavla         SHK9352R 72.16
+D21A      Dittrichová Petra        KON8787R 75.25
+D21A      Holinková Hana           ZPV6777C 76.33
+D21A      Šímová Jana              PHK8569C 76.57
+D21A      Šarmanová Alena          AOP9352C 77.28
+D21A      Horčičková Eva           UOL7051C 78.00
+D21A      Kolešová Helena          LPU8857C 79.19
+D21A      Azebová Nina             PHK8855C 81.06
+D21A      Mádlová Věra             ZBM8951R 81.38
+D21A      Mašláňová Hana           TZL7979C 83.00
+D21A      Kulhavá Šárka            LPU9357C 83.36
+D21A      Palasová Petra           ZBM8658C 84.16
+D21A      Fundová Eliška           SHK9351C 84.31
+D21A      Chromá Adéla             ZBM8870C 84.46
+D21A      Králová Michaela         MFP7959C 85.03
+D21A      Petráčková Klára         LPU9261R 85.34
+D21A      Sůvová Barbora           LPU8751C 85.38
+D21A      Otrubová Johana          KON7852C 86.58
+D21A      Šrámková Michaela        SJH9352C 87.22
+D21A      Slováčková Věra          TZL8181C 88.44
+D21A      Svobodná Madla           DKP9154C 88.45
+D21A      Papugová Katarína        LCE9255C 89.46
+D21A      Balcarová Jana           PHK8753C 90.14
+D21A      Foglarová Kamila         DKP8655C 90.36
+D21A      Klíchová Jana            SSU8151C 93.38
+D21A      Dittrichová Andrea       SKM7750C 93.49
+D21A      Tvarůžková Petra         ZBM8459C 94.14
+D21A      Staňková Lucie           ASU8756C 94.17
+D21A      Petrželová Tereza        LTU8950C 96.16
+D21A      Adamová Eva              VBM8772C 97.21
+D21A      Hnilicová Šárka          KSU9493B 98.32
+D21A      Hendrychová Zuzana       ZBM8954C 98.53
+D21A      Vildmonová Pavla         LBE7451C102.02
+D21A      Petrová Tereza           AOV8750C102.51
+D21A      Novotná Tereza           PHK9255E888.88
+D21A      Vodrážková Kateřina      VPM7995C888.88
+D21B      Jirčáková Martina        LCE8951C 59.04
+D21B      Uhnavá Markéta           ZBM8485C 60.05
+D21B      Macková Petra            LCE8560C 60.43
+D21B      Širůčková Daniela        73C7650C 68.08
+D21B      Mezníková Lucie          ZBM9150C 69.43
+D21B      Petrová Daniela          LPU8454C 70.39
+D21B      Bohunská Jana            KRN8651C 72.49
+D21B      Stehlíková Jana          ZBM8659C 72.54
+D21B      Teplá Hana               SHK6561C 74.25
+D21B      Michálková Renata        LCE8151C 74.26
+D21B      Otrubová Ivona           PLU7677C 75.21
+D21B      Daňková Veronika         SBK8151C 75.38
+D21B      Mudráková Tereza         LCE7252C 75.52
+D21B      Mesiarkinová Kamila      MBM8282C 76.10
+D21B      Kozumplíková Alice       RBK8151C 77.42
+D21B      Rábová Zuzana            RBK8556C 77.44
+D21B      Kukolová Šárka           LCE9251C 77.57
+D21B      Matrasová Kateřina       CHT8353C 78.25
+D21B      Boháčová Lucie           PTI8771C 78.28
+D21B      Chmelíková Zuzana        VBM9353C 82.03
+D21B      Ondřejová Dita Terezie   SHK8550C 82.10
+D21B      Stoszková Jana           AOP8850C 85.58
+D21B      Fencíková Vladislava     JHB6553C 89.02
+D21B      Kašparová Šárka          AOP7251C 90.20
+D21B      Bouzková Katka           SVS8151C 99.12
+D21C      Bolechová Anežka         LPU9051C 61.17
+D21C      Skyvová Kristýna         STE7054C 64.44
+D21C      Venclová Veronika        ZAM8251C 69.25
+D21C      Zavadilová Simona        PTI8485C 69.54
+D21C      Štrajtová Štěpánka       UOL9151C 71.42
+D21C      Štěpánková Petra         LBM8651C 71.45
+D21C      Grundmannová Hana        LTU9251C 81.41
+D21C      Rajnošková Lea           BZR8451C 85.40
+D21C      Černíková Barbora        DOB7878C 85.54
+D21C      Kočová Lenka             ZBM8160C 87.08
+D21C      Pěluchová Daniela        CHC8851C 88.32
+D21C      Kurfürstová Magdalena    FSP7852C 90.28
+D21C      Csakvaryová Lenka        SBK8383C 97.51
+D21E      Knapová Jana             LPU9053E 71.40
+D21E      Zvěřinová Martina        LPU8357E 74.09
+D21E      Spurná Martina           PGP8556E 74.30
+D21E      Gregorová Kamila         CTB8151E 74.55
+D21E      Omová Michaela           TUR8153E 76.04
+D21E      Kabáthová Eva            ZBM8966E 76.11
+D21E      Kosová Denisa            PHK9150R 76.23
+D21E      Hlavová Hana             ZBM8888E 76.54
+D21E      Poklopová Lenka          UOL8951R 77.20
+D21E      Knapová Lenka            LPU9351E 78.16
+D21E      Hermanová Zuzana         LPU8752E 79.19
+D21E      Horčičková Vendula       UOL9353E 81.09
+D21E      Doležalová Monika        KAM8851C 81.53
+D21E      Dlouhá Marie             DKP8756R 84.22
+D21E      Čepová Daniela           PHK8951R 86.21
+D21E      Karochová Simona         DKP8853R 86.49
+D21E      Košárková Iva            AOP8152R 87.03
+D21E      Plochová Dominika        DKP8651R 89.00
+D21E      Przyczková Michaela      LPU8499E 92.55
+D21E      Kociánová Lenka          VBM8553C 93.12
+D21E      Krejčíková Marie         TZL9252C 98.05
+D21E      Svobodná Šárka           DKP8850E103.09
+D21E      Sklenářová Radka         LCE9250C104.39
+D21E      Koporová Petra           ZBM9353C107.06
+D21E      Wurzelová Hana           OSN8972C115.49
+D21E      Kopcová Michaela         KRN8456C118.14
+D21E      Jakobová Adélka          UOL9052R888.88
+D35B      Hulcová Pavla            KSH7753C 52.23
+D35B      Mulíčková Eva            ABM7469C 61.53
+D35B      Jemelíková Lada          VBM6555C 64.25
+D35B      Kameníková Kateřina      BOR7758C 66.47
+D35B      Vyškovská Radka          ZVS7450C 69.11
+D35B      Binarová Jitka           UOL7751C 71.20
+D35B      Marečková Kateřina       OSN7550C 73.39
+D35B      Sedláčková Jana          ZBP7654C 74.51
+D35B      Tomanková Martina        KSU7552C 78.05
+D35B      Vyhnálková Eva           RIC7552C 80.42
+D35B      Dvořáčková Jana          OSN7850C 81.24
+D35B      Rydlová Jana             VIC7752C 82.49
+D35B      Chvátilová Pavlína       PHK7450C 98.06
+D35B      Vandasová Markéta        VAM7250C888.88
+D40B      Kovaříková Mária         TRI6950C 43.00
+D40B      Kamenická Lenka          OSN6955C 46.36
+D40B      Pilcová Petra            ZPV6666C 46.40
+D40B      Hiršová Marcela          VBM7079C 51.53
+D40B      Chaloupková Lenka        CHC6951C 51.55
+D40B      Sedlářová Pavla          AOP7052C 51.56
+D40B      Kašparová Ivana          SSU6951C 52.07
+D40B      Švecová Iva              CHT7151C 52.26
+D40B      Jirková Renata           ZPV6553C 53.06
+D40B      Benešová Iva             SJH7051C 55.07
+D40B      Švadlenová Ivana         CHC7151C 56.17
+D40B      Kostková Jana            AOP7151C 57.49
+D40B      Tichá Dagmar             DKP7250C 58.58
+D40B      Valíková Petra           AOP7351C 60.19
+D40B      Korpasová Ivana          LBM7362C 61.10
+D40B      Křečková Petra           ZPV7076C 61.13
+D40B      Hájková Jitka            AOP7150C 61.22
+D40B      Karásková Marcela        ZPV6970C 62.02
+D40B      Hulenková Martina        MOV7352C 62.11
+D40B      Sedláčková Jana          HLV7060C 64.29
+D40B      Kundratová Jana          JZL7351C 66.21
+D40B      Nešporová Marie          TTR7251C 71.33
+D40B      Samarin Janna            OOL7157C 74.14
+D40B      Procházková Martina      SOP7351C 78.44
+D40B      Waňková Dita             VRL7151C 79.07
+D40B      Meir Anat                OOL7457C 97.13
+D40B      Chovancová Jana          TZL7352C888.88
+D45B      Knapová Iva              LPU6052C 44.57
+D45B      Ferdusová Eva            LCE6461C 49.05
+D45B      Ostřanská Iveta          SSU6591C 49.16
+D45B      Hlavová Miroslava        KON6389C 49.42
+D45B      Králová Zdenka           SSU6091C 51.12
+D45B      Čechová Zuzana           SJI6951C 51.42
+D45B      Janásová Jitka           SKM6551C 52.22
+D45B      Poklopová Ivana          UOL6451C 54.29
+D45B      Argalášová Gabriela      TRI6850C 54.42
+D45B      Barcíková Renáta         AOP6753C 54.58
+D45B      Wurzelová Dana           CHT6654C 55.42
+D45B      Šmelíková Hana           ASU6999C 59.20
+D45B      Eschlböck Gudrun         46A6851C 59.24
+D45B      Dittrichová Lenka        KON6285C 59.31
+D45B      Kociánová Eva            OOP6750C 60.24
+D45B      Veverková Yveta          VAM6452C 61.13
+D45B      Koláriková Irena         TZL6351C 63.32
+D45B      Lázničková Marcela       TZL6751C 70.16
+D45B      Jelínková Jana           TZL6556C 74.14
+D45B      Peřinková Irena          BBM6550C 78.01
+D45B      Končáková Kateřina       HLV6856C 93.38
+D45B      Kukolová Alena           LCE6651C 98.59
+D45B      Noiman Anat              OOL6757C121.35
+D50B      Hrstková Dana            SJI6051C 40.22
+D50B      Rosecká Alena            PZR5654C 47.54
+D50B      Jastrzembská Jarmila     TRI6450C 53.36
+D50B      Vlažná Mirka             LCE5852C 54.01
+D50B      Štrajtová Zuzana         UOL6452C 55.10
+D50B      Cahlová Slávka           LCE5451C 58.53
+D50B      Sochorová Hana           HAV6250C 59.07
+D50B      Denysenko Tamara         38S6150C 59.20
+D50B      Kovářová Alena           LTP6151C 62.43
+D50B      Krejčíková Monika        TZL6262C 63.12
+D50B      Rajnošková Marie         BZR6051C 72.37
+D50B      Lipman Yael              OOL6257C 78.36
+D55B      Dokoupilová Zuzana       VBM5754C 54.02
+D55B      Janošíková Jaroslava     UOL5858C 58.40
+D55B      Kabáthová Jitka          ZBM5582C 63.17
+D55B      Jansová Alena            CHT5852C 72.48
+D55B      Špacírová Danuše         UOL5852C 73.18
+D55B      Řezníková Renáta         AOP5451C 92.51
+D55B      Regev Yael               OOL5057C102.13
+D55B      Raz Bilha                OOL5557C156.34
+D55B      Flašarová Marie          KCK5756C888.88
+D60B      Horynová Eva             TZL5254C 51.33
+D60B      Ravid Dalia              OOL5058C101.16
+D65B      Sikorová Marie           BOV4852C 47.23
+D65B      Gavendová Anna           TRI4650C 52.56
+D65B      Novotná Ludmila          OOP4850C 57.28
+D70B      Stará Pavla              BOV4251C 45.45
+D70B      Liščinská Eva            TBM4451C 50.42
+D70B      Boučková Ludmila         OCB4351C 84.37
+H12C      Mareček Šimon            OSN0201B 18.10
+H12C      Chovanec Václav          TZL0201B 20.08
+H12C      Coufal Jáchym            ZBM0200B 20.58
+H12C      Valík Adam               AOP0301C 20.58
+H12C      Milán Jakub              TBM0411B 21.53
+H12C      Čech Vít                 AOP0302C 22.16
+H12C      Venhoda Matěj            SJI0301C 25.13
+H12C      Kundrata Jan             JZL0201B 25.38
+H12C      Gryc Ondřej              TBM0406C 25.48
+H12C      Palát Tomáš              ABM0307C 26.09
+H12C      Bartík Filip             TZL0202B 26.40
+H12C      Urbánek Adam             ZBM0302C 27.10
+H12C      Soška Petr               ZBM0211B 27.28
+H12C      Waněk Hubert             VRL0302B 27.43
+H12C      Ruda Miroslav            UBM0203C 31.54
+H12C      Vébr Tomáš               HAV0200B 32.37
+H12C      Blank Noah               SKM0201C 38.12
+H12C      Dvořáček Jakub           OSN0303C 46.50
+H12C      Lukáš Martin             TBM0222C 56.03
+H12C      Vemola Jiří              UBM0301C 73.10
+H12C      Přibyl Jan               OSN0300C888.88
+H12C      Tachovský Matyáš         ZBM0208C888.88
+H14B      Jirka Mikuláš            ZPV0000A 39.49
+H14B      Matoušek Matěj           KSU0005B 43.39
+H14B      Panovec Kryštof          OTK0001B 43.49
+H14B      Filipek Sebastian        TRI0002A 44.00
+H14B      Bořánek Michal           STE0007A 44.28
+H14B      Kroul Josef              KSU0044B 44.53
+H14B      Šafář Martin             KSU0105B 49.27
+H14B      Podmolík Jonáš           TZL0001B 50.02
+H14B      Valík Tomáš              AOP0001B 50.51
+H14B      Milán Tomáš              TBM0111B 51.20
+H14B      Kovařík Martin           TRI0101B 51.48
+H14B      Sedlář Jan               TBM0010B 52.00
+H14B      Zentrich Dušan           OTK0002B 54.27
+H14B      Karásek Adam             ZPV0001B 55.03
+H14B      Gryc Vojtěch             TBM0106B 55.25
+H14B      Šimek Štěpán             UOL0104B 55.38
+H14B      Kaprál Jan               SSU0000C 58.47
+H14B      Poláček Tomáš            PZR0102B 59.26
+H14B      Kostka Jiří              AOP0201B 60.17
+H14B      Pelánek Ondřej           TBM0107B 60.28
+H14B      Hartmann Matouš          PLU0101B 62.14
+H14B      Krč Matěj                KSU0101B 63.06
+H14B      Adámek Filip             ABM0101B 66.37
+H14B      Nešpor Jan               TTR0101B 67.14
+H14B      Bitto Max                LCE0103B 69.25
+H14B      Neumann David            STE0101B 77.20
+H14B      Valenta Mikuláš          KSU0107B 79.37
+H14B      Janík Patrik             LCE0101B888.88
+H14B      Sikora Jakub             TRI0003B888.88
+H16A      Vandas Daniel            PHK9805A 42.20
+H16A      Sýkora Vojtěch           LCE9801A 45.07
+H16A      Hirš Otakar              ZBM9801A 45.45
+H16A      Gebrt Jan                SHK9801A 47.37
+H16A      Chvátil Šimon            PHK9908A 49.14
+H16A      Hausenblas Šimon         KAM9803A 49.55
+H16A      Křivda Tomáš             CHC9901A 51.02
+H16A      Bendák Jan               LTU9801A 51.11
+H16A      Hlaváč Ondřej            TBM9901A 51.57
+H16A      Černocký Libor           LCE9803A 52.05
+H16A      Lanc Vojtěch             TRI9807A 53.03
+H16A      Melichar Vojtěch         LLI9802A 53.47
+H16A      Semerád Antonín          DKP9801A 54.00
+H16A      Koštejn Vít              DOK9800A 54.49
+H16A      Chupek Jakub             JPV9911A 55.25
+H16A      Vystavěl Ondřej          JPV9807A 56.16
+H16A      Horčička Vít             UOL9919A 56.26
+H16A      Sláma Dušan              ASU9843A 56.30
+H16A      Hájek Jakub              SHK9802A 57.47
+H16A      Ullrich Jakub            BOR9900A 58.56
+H16A      Vopařil Jan              LCE9911A 58.57
+H16A      Starý Ondra              VRL9802A 59.13
+H16A      Jílek Ondřej             KSU9908A 61.42
+H16A      Cienciala Jan            TRI9801A 61.57
+H16A      Šiška Petr               TZL9801A 63.13
+H16A      Ptáček Patrik            BBM9800A 63.51
+H16A      Müller Jonáš             KSU9906A 64.09
+H16A      Šebek Petr               DKP9903A 66.02
+H16A      Franko Stanislav         72S9802C 66.39
+H16A      Mašata Metoděj           PHK9905A 66.54
+H16A      Fencl Jonáš              LPU9902A 67.05
+H16A      Kašpar Petr              SSU9911A 69.49
+H16A      Švec Martin              CHT9902B 77.31
+H16A      Švec Petr                CHT9901B131.40
+H16B      Dostál Pavel             KSU9910B 54.12
+H16B      Holesz Sebastian         TRI9902B 56.31
+H16B      Gedeon Dominik           KSU9900B 61.15
+H16B      Říčný Vojta              ZBM9903B 63.12
+H16B      Tesař Vojtěch            AOP9900B 64.12
+H16B      Florián Vojtěch          ABM9901B 65.31
+H16B      Procházka Zdeněk         SOP9901B 67.26
+H16B      Král Jan                 ZBM9904C 70.54
+H16B      Kún Josef                BBM9802B 71.29
+H16B      Láznička Václav          TZL9901B 74.53
+H16B      Ondráček Radek           KSU9933B 75.39
+H16B      Zvoníček Jan             SKM9801B 78.02
+H16B      Ingršt Matěj             ABM9907B 79.26
+H16B      Komenda Jan              ZBM9902B 80.47
+H16B      Plášek Pavel             LCE9907B 81.45
+H16B      Müller Tomáš             OTK9901C 94.00
+H16B      Turza Tomáš              LCE9912B 95.46
+H18A      Fürst Matouš             LLI9603A 62.06
+H18A      Čech Jan                 SJI9601A 63.01
+H18A      Šmelík Martin            ASU9644A 63.34
+H18A      Kettner Vojtěch          KAM9601A 65.14
+H18A      Netuka Vojtěch           SHK9701A 65.19
+H18A      Mašata Matěj             PHK9601A 68.29
+H18A      Bořil Jan                SJI9700A 69.44
+H18A      Mudrák Štěpán            LCE9601A 69.47
+H18A      Illner Vojtěch           DKP9600A 69.55
+H18A      Glonek Jakub             AOP9602A 70.16
+H18A      Ptáček Pavel             BBM9600A 70.35
+H18A      Kanta Martin             LPU9705A 72.47
+H18A      Slíva Jan                LCE9602A 73.41
+H18A      Semrád Ladislav          CHC9701A 73.44
+H18A      Navrátil Šimon           PGP9702A 73.57
+H18A      Mielec Jaromír           AOP9701A 78.07
+H18A      Wolf Filip               TUR9701A 78.38
+H18A      Štál Jan                 SJC9601A 78.56
+H18A      Vlášek Jakub             TAP9702A 79.01
+H18A      Vacek Vojtěch            SJI9602A 79.40
+H18A      Valášek Jiří             KAM9700A 80.54
+H18A      Zikmund Zdeněk           SJC9703A 81.15
+H18A      Takáč Teodor             TUR9604C 81.30
+H18A      Frýba Dominik            SJI9702A 81.37
+H18A      Jonáš Martin             39S9601C 81.58
+H18A      Picek Štěpán             TJN9601A 82.07
+H18A      Burda Matěj              BOR9608A 82.10
+H18A      Mikula Jan               SSU9609A 85.26
+H18A      Matuš Vojtěch            VRB9606A 87.07
+H18A      Klabouch Martin          LPU9615B 87.34
+H18A      Mikel David              TZL9703A 87.53
+H18A      Ježek Ondřej             PGP9706A 88.32
+H18A      Aster Tomáš              PGP9604A 88.48
+H18A      Brázdil Petr             ODV9700A 89.37
+H18A      Podmolík Josef           TZL9701A 96.14
+H18A      Šmaus Jan                TJN9700A 96.35
+H18A      Sedláček Ondřej          HLV9732A 99.29
+H18A      Růžička Adam             PHK9704A888.88
+H18A      Janeba Vladimír          CHC9602A888.88
+H18B      Kašpar Jakub             ASU9747B 63.24
+H18B      Walach Ondřej            TRI9601B 67.34
+H18B      Otruba Vojtěch           JPV9717B 68.24
+H18B      Skalický Matyáš          KUO9605B 70.11
+H18B      Kelbl Vladimír           ZBM9711B 73.44
+H18B      Drozd Michal             BBM9701B 79.46
+H18B      Dušek Martin             ZAM9602B 81.21
+H18B      Peřinka Šimon            BBM9700B 92.52
+H18B      Svoboda František        SOP9601B 92.57
+H18B      Růta Vojtěch             KTA9701B107.20
+H20A      Semík Ondřej             KAM9401R 69.27
+H20A      Grundmann Jan            LPU9410R 71.35
+H20A      Hubáček Jonáš            LCE9501R 73.29
+H20A      Horvát Petr              ASU9447E 78.10
+H20A      Pavlovec Jan             BOR9503R 79.40
+H20A      Horák Patrik             TUR9502R 80.06
+H20A      Záděra Pavel             BBM9500R 80.34
+H20A      Kettner Lukáš            KAM9403R 81.01
+H20A      Valeš Jiří               LPM9502A 82.28
+H20A      Kamenický Jeroným        OSN9549A 82.51
+H20A      Mokrý Ondřej             ABM9410A 85.22
+H20A      Sklenář Martin           SBR9501A 87.54
+H20A      Hruška Jakub             ZBM9515A 90.22
+H20A      Waněk Adam               LPU9505A 93.09
+H20A      Křivda Martin            CHC9501A 93.53
+H20A      Hraboš Matěj             ASU9547R 96.06
+H20A      Řada Jakub               DKP9401A103.06
+H20A      Dvořáček Radek           ASU9445A103.40
+H20A      Skoupý Jan               STE9411A108.05
+H20A      Zvoníček Josef           SKM9404A112.32
+H20A      Fajkus Radim             JPV9509A888.88
+H20A      Veselý Jakub             PGP9503R888.88
+H20B      Obrátil Štěpán           ABM9409A 87.25
+H20B      Krajcar Ivo              SKM9501B103.35
+H21A      Jedlička Michal          SHK7309R 85.52
+H21A      Vavrys Johan             LCE9302R 87.11
+H21A      Prášil Marek             TTR7301R 87.19
+H21A      Mokrý Stanislav          ABM9202R 90.30
+H21A      Hepner David             SHK7601C 90.37
+H21A      Palát Petr               ABM7415C 91.03
+H21A      Hovorka Lukáš            LPU9001C 91.25
+H21A      Bořil Tomáš              ZBM8833C 92.32
+H21A      Hubáček Josef            LCE6127C 93.13
+H21A      Dlabaja Štěpán           TZL8508C 93.20
+H21A      Kadeřávek Petr           PHK7605C 93.30
+H21A      Panchártek Jan           PHK8802C 94.32
+H21A      Bravený Adam             VBM8801C 95.19
+H21A      Šurgan Štefan            TUR7900C 95.36
+H21A      Čermák Jan               LPU9301C 95.49
+H21A      Lenner Miroslav          LPU8605C 96.17
+H21A      Argaláš Michal           TRI9301C 96.43
+H21A      Holas Tomáš              AOP7802C 97.24
+H21A      Kafka Miloš              LPU8608C 98.22
+H21A      Černý Michal             PHK8005C 98.32
+H21A      Klech Richard            VRB7201C 98.36
+H21A      Švirák Ondřej            ZBM9103C 98.59
+H21A      Slováček Tomáš           TZL8002C100.08
+H21A      Nývlt Martin             DKP8200C100.25
+H21A      Jirka Michal             PTI8403C100.41
+H21A      Vítek Tomáš              PHK7702C101.22
+H21A      Dittrich Pavel           SKM7501C101.45
+H21A      Přikryl Petr             ZBM6708C102.34
+H21A      Otrusina Jiří            JPV8201C102.47
+H21A      Šabatka Zdeněk           PHK8900C102.55
+H21A      Janů Zdeněk              KSU9045C103.03
+H21A      Khýn Vítězslav           ASU8304C103.15
+H21A      Šrámek Jaromír           KSU5801C104.14
+H21A      Petras Tomáš             VAM8801C104.25
+H21A      Zelenka Tomáš            PHK9001C106.49
+H21A      Vlach Jiří               AOV7900C106.53
+H21A      Peths Jan                KRN8101C107.35
+H21A      Johanovský Tomáš         DKP8500C107.52
+H21A      Novotný Jiří             TZL8001C107.52
+H21A      Drábek Jan               ZBM8511C108.02
+H21A      Skřivanek Marcel         JPV7713C109.13
+H21A      Matras Tomáš             CHT8001C109.23
+H21A      Fiala Petr               LPU8701C109.58
+H21A      Vlažný Jan               LCE8901C110.27
+H21A      Skyva Petr               STE6501C110.31
+H21A      Václavek Tomáš           STE5809C110.54
+H21A      Janovský Tomáš           PGP6401C111.57
+H21A      Hadač Miroslav           AOP6501C113.19
+H21A      Turczer Petr             KSU7945C113.42
+H21A      Mazal Zdeněk             VBM8103C113.57
+H21A      Zelinka Jiří             MBM8740C115.05
+H21A      Fiala Jan                BBM7205C115.08
+H21A      Pospíšil Ondřej          DKP8717C115.28
+H21A      Tesař Pavel              PGP7708C116.42
+H21A      Fendrych Michal          STE7607C117.09
+H21A      Šrubař Michal            MBM8606C117.57
+H21A      Rusý Tomáš               KAM9301C120.52
+H21A      Kamenický Tobiáš         OSN9339C121.01
+H21A      Fiala Martin             TTR8801C121.33
+H21A      Polášek Jan              TZL8601C122.23
+H21A      Kasal Vít                ZBM7540C123.02
+H21A      Rossmanith Vojta         AOP9302C123.55
+H21A      Stehlík Martin           ZBM8503C124.30
+H21A      Suchomel Vít             MBM8448C137.42
+H21A      Jílek Jakub              KSU9202C140.30
+H21A      Fátor Jan                DOB7907C178.55
+H21A      Vodrážka Ondřej          VPM7702C888.88
+H21A      Henek Vladan             VBM8002C888.88
+H21A      Kolek Petr               ASU7501C888.88
+H21B      Avner Asaf               OOL9200C 81.48
+H21B      Pekárek Evžen            TZL7007C 86.01
+H21B      Henek Michal             RBK8605C 87.20
+H21B      Pýcha Lukáš              SNA8402C 91.55
+H21B      Gregor Martin            CTB7701C 95.55
+H21B      Koblížek Kamil           KUO8001C 97.51
+H21B      Kozumplík Aleš           VBM8403C 98.58
+H21B      Ráb Martin               RBK8307C 99.51
+H21B      Weiner Jakub             SHK7911C101.04
+H21B      Panovec Jan              VIC8931C102.35
+H21B      Pudel Jarda              STE7505C103.55
+H21B      Jirásek Aleš             LPU7601C103.57
+H21B      Navrátil Marek           KYL7100C104.32
+H21B      Justa Pavel              PHK8701C104.45
+H21B      Špacír Jan               UOL8805C105.32
+H21B      Macka Radek              LCE8110C105.45
+H21B      Vávra Jaroslav           LPU7308C108.11
+H21B      Hulec Jakub              KSH8401C113.10
+H21B      Stoszek Jakub            AOP8300C115.28
+H21B      Walaski Antonín          TRI8006C126.45
+H21B      Pitra Martin             CHT9204C127.34
+H21B      Kořan Pavel              VBM7401C131.53
+H21B      Korthauer Marius         DKP8402C142.48
+H21B      Pátek Richard            ZBM7609C152.20
+H21B      Kurfürst Pavel           FSP7400C888.88
+H21C      Štěrba Zbyněk            LPU8304C 62.20
+H21C      Navrátil Tomáš           ASU8817C 70.11
+H21C      Pražák Jiří              ZBP7800C 70.41
+H21C      Ostřanský Filip          ASU9243C 71.05
+H21C      Věžník Roman             TTR7901C 76.52
+H21C      Oujeský Tomáš            ADA7433C 87.53
+H21C      Kheil Radim              PBM7301C 87.54
+H21C      Sýkora Bohumil           CHC8601C 88.08
+H21C      Štěpánek Milan           KUO8301C 93.39
+H21C      Kůr Jiří                 NNN0012C 96.34
+H21C      Vaněk Petr               ZBP7302C 99.04
+H21C      Kutílek Jakub            LPU8609C102.02
+H21C      Burdilák Radek           MBM8533C103.06
+H21C      Bouzek Petr              SVS7901C109.15
+H21C      Kavan Tomáš              TBM8603C142.56
+H21C      Kočí Martin              VBM8702C888.88
+H21E      Chromý Adam              ZBM8841E 90.32
+H21E      Hájek Daniel             ZBM8919E 91.51
+H21E      Lučan Vladimír           LPU7710C 98.42
+H21E      Bouchal Jiří             VPM8449C 98.49
+H21E      Kubelka Tomáš            LPU9307R 99.11
+H21E      Chloupek Adam            ZBM9300E 99.46
+H21E      Poklop Martin            SSU8802E100.45
+H21E      Matějů Luboš             PGP7601R102.18
+H21E      Losman Petr              PHK7901E103.10
+H21E      Nykodým Miloš            ZBM9005E103.56
+H21E      Kolovský František       LPM9202C104.12
+H21E      Flašar Jan               PGP8610R105.19
+H21E      Hadač Filip              AOP9301E105.20
+H21E      Král Václav              SSU8243C106.17
+H21E      Procházka David          LPU9113E106.23
+H21E      Zimmermann Jakub         ZBM8928C108.19
+H21E      Pešek Ondřej             CHC8502C108.35
+H21E      Tomanek Daniel           STE7401R108.50
+H21E      Hrobař Štěpán            ASU9106R109.21
+H21E      Horyna Roman             LCE7602R109.29
+H21E      Navrátil Boris           AOP9202R109.41
+H21E      Tomta Trygve             18N8201C110.28
+H21E      Bravený Vít              ZBM9102R110.37
+H21E      Kamenický Matěj          LPU9036R111.07
+H21E      Balcar Aleš              PHK8602C112.04
+H21E      Zimmermann Štěpán        ZBM9101C112.24
+H21E      Kopec Tomáš              KRN8203C112.47
+H21E      Kamenický Jakub          PHK9104E112.52
+H21E      Klusáček Matěj           ZBM8923R114.00
+H21E      Procházka Pavel          PGP9002C114.18
+H21E      Kantor Ondřej            TRI9103C115.53
+H21E      Košárek Pavel            AOP7102C116.10
+H21E      Paclík Roman             SHK7801C118.41
+H21E      Perůtka Jan              LCE8801R119.50
+H21E      Klusáček Jan             ZBM9301R122.27
+H21E      Zvěřina Petr             LPU8208E124.14
+H21E      Melecký Martin           AOP9001C125.21
+H21E      Novotný Ondřej           ABM9211C131.27
+H21E      Slezák Zdeněk            LCE8902R131.56
+H21E      Petržela Jan             PHK9200E888.88
+H21E      Klapal Jan               LPU9006C888.88
+H35B      Král Aleš                MFP7808C 79.13
+H35B      Rigó Marek               ODR7101C 81.19
+H35B      Mašata Roman             PHK7107C 82.10
+H35B      Mudrák Stanislav         LCE6701C 85.14
+H35B      Berger Tomáš             MOV6901C 89.02
+H35B      Kunčar Vít               LCE6602C 90.00
+H35B      Borunský Tomáš           AOP7402C 90.32
+H35B      Binar Robert             UOL7500C 93.53
+H35B      Kopecký David            UOL7800C100.07
+H35B      Mielec Jaromír           AOV6901C103.00
+H35B      Svěchota Milan           MOV7202C103.45
+H35B      Valenta Jiří             SSU6301C109.26
+H35B      Smékal David             UOL7503C115.11
+H35B      Komárek Arnošt           TJH7701C115.15
+H35B      Mareček Jiří             ADA5901C117.15
+H35B      Silnoušek Jiří           STE7200C118.56
+H35B      Šarman Radim             MOV6201C124.48
+H35B      Peřinka Jan              AOP6301C124.53
+H35B      Coufal Svatoš            ZBM6700C130.49
+H35B      Zelený Pavel             ZBM7302C131.42
+H35B      Dušek Václav             PTI7619C135.14
+H35B      Holec Honza              MOV6701C146.59
+H35B      Šafek Jiří               ZBM7606C147.14
+H40B      Venhoda Milan            SJI7104C 60.59
+H40B      Kovalčík Tomáš           AOP7301C 66.00
+H40B      Valík Luděk              AOP7101C 68.47
+H40B      Drbal Jan                PGP7101C 70.36
+H40B      Novotný Tomáš            ZLH7001C 73.56
+H40B      Beneš Jan                SJH7001C 75.14
+H40B      Otruba Marek             PLU7417C 76.06
+H40B      Matoušek Milan           KSU6701C 80.27
+H40B      Čech Tomáš               AOP7001C 81.26
+H40B      Orany Tomáš              SJI7311C 84.22
+H40B      Holinka Martin           ZPV6712C 87.00
+H40B      Kašpar Jaroslav          SSU7004C 87.52
+H40B      Vlček Roman              SKM7000C 88.38
+H40B      Vébr Radek               HAV7103C 91.45
+H40B      Netuka Jan               SHK7001C 92.45
+H40B      Zentrich David           OTK7101C 95.45
+H40B      Kůstka Marek             VIC6403C101.55
+H40B      Mokrý Pavel              ABM6801C103.31
+H40B      Hošťálek Dan             KRN6808C107.52
+H40B      Štětínský Pavel          MOV7104C108.18
+H40B      Chvátil Jiří             PHK7200C108.54
+H40B      Müller Libor             OTK7201C888.88
+H45B      Hrouda Petr              VBM6900C 58.27
+H45B      Pavlík Radek             ASU6849C 60.06
+H45B      Barcík Peter             AOP6601C 60.16
+H45B      Grepl Ladislav           KON6111C 66.33
+H45B      Král Jan                 XBM6903C 68.01
+H45B      Tesař Jiří               AOP6702C 69.07
+H45B      Láznička Robert          TZL6309C 69.28
+H45B      Šimek Roman              UOL6503C 70.33
+H45B      Křeček Miroslav          ZPV6213C 71.36
+H45B      Soldán Vladimír          JPV6526C 73.40
+H45B      Karvánek Petr            BOR6600C 73.49
+H45B      Adámek Libor             ABM6707C 73.50
+H45B      Siegl Roman              MFP6700C 74.42
+H45B      Noiman Ziv               OOL6607C 75.07
+H45B      Sochor Tomáš             HAV6301C 75.09
+H45B      Eschlböck Rainer         46A6501C 76.02
+H45B      Odehnal Roman            ABM6909C 76.20
+H45B      Schuster Martin          AOP6502C 76.49
+H45B      Sedláček Jaroslav        HLV6404C 78.09
+H45B      Šmelík Juraj             LCE6603C 79.37
+H45B      Lanc Marian              TZL5806C 79.46
+H45B      Mokrý Jan                ABM6611C 79.47
+H45B      Láznička Libor           TZL6701C 80.19
+H45B      Procházka Tomáš          LPU6503C 80.57
+H45B      Noiman Omer              OOL6507C 81.16
+H45B      Procházka Radek          LPU6504C 82.31
+H45B      Levý Tomáš               ZAM6801C 85.06
+H45B      Galík Svatopluk          TZL6301C 85.48
+H45B      Sklenář Josef            SBR6601C 87.43
+H45B      Maceček Otakar           MOV6102C 94.18
+H45B      Zvoníček Josef           SKM6901C 94.23
+H45B      Šamánek Petr             ZVS6901C 97.28
+H45B      Krejčík Zbyněk           TZL5704C106.26
+H45B      Gola Miroslav            VIC6808C107.04
+H45B      Levavi Shay              OOL6407C110.49
+H50B      Řeháček Petr             SBR6302C 57.03
+H50B      Ryšavý Jiří              MOV5803C 60.30
+H50B      Kaplan Jan               LPU6401C 61.38
+H50B      Nešpor Jan               TTR6101C 62.50
+H50B      Rajnošek Zdeněk          BZR6301C 63.47
+H50B      Hirš Libor               VBM6000C 65.13
+H50B      Sklenář Miroslav         AOP6302C 66.40
+H50B      Slováček Rudolf          TZL5402C 66.49
+H50B      Rychlý Miloš             OOP5302C 68.48
+H50B      Chmelař Miroslav         JPV6217C 69.30
+H50B      Jirka Jiří               ZPV5501C 70.27
+H50B      Pulec Pavel              VBM6201C 70.33
+H50B      Kovář Karel              LTP6102C 70.36
+H50B      Wurzel Břetislav         OSN6005C 70.53
+H50B      Vodička Luděk            SBR5501C 72.52
+H50B      Končák Jaroslav          HLV6321C 72.59
+H50B      Plášek Martin            LCE6118C 74.10
+H50B      Jeřábek Luboš            JPV6112C 74.36
+H50B      Kubeš Jaromír            PLU6219C 76.35
+H50B      Ioffe Pavel              OOL6207C 78.59
+H50B      Jaroš Vojtěch            ZPV5706C 79.32
+H50B      Bořil Petr               SJI6207C 81.35
+H50B      Glazer Ilan              OOL6107C 84.37
+H50B      Janeba Petr              CHC6001C 87.15
+H50B      Bar Yehuda Jonathan      OOL6007C136.26
+H50B      Panovec Vladan           OTK6201C888.88
+H55B      Zdráhal Robert           OOL5707C 50.59
+H55B      Hones Sepp               26A    C 54.17
+H55B      Hanzl Vlastimil          VBM5329C 58.50
+H55B      Gurka Jiří               TUV4601C 59.00
+H55B      Navrátil Antonín         UOL5301C 59.55
+H55B      Klusáček Martin          TTR5601C 60.41
+H55B      Višňa Milan              OOL5904C 62.17
+H55B      Flašar Jan               KCK5701C 62.19
+H55B      Štěrba Pavel             LPU5408C 62.54
+H55B      Knap Jan                 LPU5101C 63.11
+H55B      Tomášek Pavel            OTK5800C 70.07
+H55B      Janů Zdeněk              KSU5749C 72.33
+H55B      Amiaz Eytan              OOL5908C 81.19
+H55B      Avner Uzi                OOL5907C 84.49
+H55B      Albert František         OOL5804C 85.04
+H55B      Goll Ofek                OOL5807C 95.56
+H55B      Ben Shitrit Meir         OOL5508C101.17
+H55B      Lipman Rami              OOL5507C107.50
+H55B      Jelínek Roman            ADA5506C111.58
+H55B      Regev Shmuel             OOL5708C118.10
+H60B      Zabloudil Pavel          TBM5003C 58.05
+H60B      Jelínek Petr             TZL4902C 58.30
+H60B      Robotka Libor            PBM5303C 59.06
+H60B      Orálek Miroslav          TTR5201C 61.05
+H60B      Peška Antonín            HLV4801C 64.21
+H60B      Ševčík Břetislav         OOP5001C 66.11
+H60B      Kaynar Doron             OOL5310C 69.15
+H60B      Jurčák Karel             SOP5101C 71.41
+H60B      Parishplass Jim          OOL5309C 71.53
+H60B      Koudelný Jiří            TTR5401C 74.26
+H60B      Raz Shlomo               OOL5411C 79.39
+H60B      Avital Ofer              OOL5107C 95.32
+H60B      Mishli Yuval             OOL5308C102.48
+H60B      Shmueli Asher            OOL5307C113.00
+H65B      Pospíšil Jaromír         PZR4417C 43.30
+H65B      Sikora Miroslav          BOV4802C 50.47
+H65B      Novotný Stanisl          OOP4800C 51.35
+H65B      Pěček Vítězslav          SKM4903C 56.53
+H65B      Toman Stanislav          SBR4801C 58.54
+H65B      Paulíček Jiří            SJI4911C 59.45
+H65B      Šidla Antonín            OTK4601C 59.53
+H65B      Fiala Miloš              KSH4801C 60.42
+H65B      Babák Jiří               ZLH4801C 60.57
+H65B      Dokoupil Vladimír        VBM4806C 61.40
+H65B      Sklenář Antonín          STE4801C 67.07
+H65B      Chmelík Milan            ABM4501C 68.26
+H65B      Blažek Václav            SBR4701C 68.29
+H65B      Šmakal Pavel             TZL4801C 76.20
+H65B      Dvořák Vlastimil         BOV4901C 84.00
+H65B      Schweizer Usi            OOL4508C 86.55
+H65B      Shefi Shaul              OOL4507C 89.00
+H65B      Levin Oded               OOL4608C 91.13
+H65B      Ravid Moshe              OOL4607C 94.02
+H70B      Láznička Alois           TZL3613C 50.05
+H70B      Ostřanský Josef          SSU4302C 50.32
+H70B      Dufek Jan                TBM4231C 54.02
+H70B      Vyškovský Ivan           ZVS4301C 59.47
+H70B      Ptáček Jiří              BOV4401C 70.32
+H70B      Šidla Jiří               OTK4001C 85.42
+H70B      Sedlář Vladimír          AOP4201C 97.26
+H70B      Kroupa Jaroslav          ZPV4012C102.19
+H70B      Minski Menahem           OOL4107C120.25
+H75B      Valla Stanislav          TZL3125C128.41
+D10C      Dittrichová Lucie        SKM0551C 12.30
+D10C      Chvátilová Johana        PHK0450C 14.10
+D10C      Stoklasová Zuzana        OSN0454C 15.56
+D10C      Švidrnochová Eliška      MOV0451C 17.40
+D10C      Kovalčíková Anna         AOP0453C 17.46
+D10C      Doleželová Anna          PZR0651C 18.08
+D10C      Miková Lenka             TBM0460C 19.00
+D10C      Komárková Jindra         SJH0453C 19.04
+D10C      Marečková Ema            OSN0450C 19.10
+D10C      Otrubová Anna            PLU0577C 20.11
+D10C      Chroustová Michaela      VBM0451C 20.59
+D10C      Kurečková Klára          ABM0657C 23.45
+D10C      Klechová Karolína        AOP0452C 30.13
+D14C      Mulíčková Zuzana         ABM0157C 51.11
+D14C      Polanská Nelly           PZR0152C 58.39
+D14C      Bastlová Pavla           ABM0061C 71.13
+D14C      Králová Lucie            ABM0159B 71.49
+D21D      Tršová Daniela           PBM7375C 37.00
+D21D      Otrusinová Helena        ABM7054C 42.33
+D21D      Daňková Tereza           KON8686C 57.18
+D21D      Zedníková Michaela       NNN8351C 59.52
+D21D      Melichárková Kristýna    NNN    C 60.45
+D21D      Suková Renata            PZR7352C 62.47
+D35C      Procházková Lucie        ADA7651C 48.28
+D35C      Mokrá Regina             ABM6854C 54.58
+D35C      Němečková Věra           PLU7777C 58.42
+D35C      Vemolová Barbora         UBM7751C 60.12
+D35C      Odehnalová Kamila        ABM7052C 62.59
+D35C      Švidrnochová Hana        MOV7751C 64.25
+D35C      Svobodová Martina        KTA7151C 65.51
+D35C      Poláčková Bohuslava      PZR7070C 66.21
+D35C      Cicvárková Lucie         ZBM7651C 76.25
+D35C      Tomanová Elena           ABM6666C 86.23
+D35C      Suchá Helena             ABM6664C108.08
+D45C      Syslová Iva              TTR6151C 52.01
+D45C      Starčuková Jana          TBM6451C 62.18
+D45C      Schusterová Martina      AOP6551C 66.12
+D45C      Jalová Marie             RBK5761C 82.22
+D45C      Kulová Jana              VAM6550M 38.04
+D55C      Kolaříková Věra          SBK5251C 38.37
+D55C      Seifertová Marie         SBK5555C 50.19
+D55C      Salajková Věra           LBM5558C 54.58
+D55C      Bogdálková Věra          LBM4858C 60.26
+D55C      Skoumalová Marie         KON4589C 71.15
+D55C      Slámová Hana             TBM4951C 79.15
+D55C      Chromčáková Ivana        JZL5450C888.88
+H10C      Doušek Tomáš             TBM0401C 11.55
+H10C      Prášil Tomáš             TTR0501C 12.51
+H10C      Urbánek Tomáš            ZBM0604C 13.25
+H10C      Orany Vojtěch            SJI0401C 13.31
+H10C      Beneš Jindřich           KON0404C 13.40
+H10C      Ehl Ondřej               TBM0404C 14.46
+H10C      Odehnal Tomáš            ADA0500C 15.13
+H10C      Mrozek Pawel             TRI0401C 15.56
+H10C      Král Adam                MFP0507C 17.28
+H10C      Cicvárek Radim           ZBM0601C 19.11
+H10C      Kovařík Tomáš            TRI0400C 19.33
+H10C      Černoch Martin           PLU0500C 20.19
+H10C      Dvořáček Tomáš           OSN0505C 22.44
+H10C      Tachovský Jáchym         ZBM0502C 24.21
+H10C      Tomanek Lukáš            KSU0502C 26.12
+H10C      Ditrich Antonín          ABM0410C 30.53
+H10C      Ondráček Viktor          KSU0600C 37.29
+H10C      Koča Vojtěch             ZBM0602C 38.54
+H10C      Hrouda Šimon             UBM0504C 42.24
+H14C      Rajnoha David            UBM0003C 44.48
+H14C      Dadák Petr               JPV0101C 72.04
+H14C      Zvoníček Jiří            SKM0101C 82.40
+H14C      Hrouda Jakub             UBM0106C 86.41
+H14C      Fučík Kryštof            ABM0103C888.88
+H16C      Beneš Miroslav           KON9915B 59.26
+H16C      Šnyrch Jakub             ABM9906B 64.39
+H16C      Šnyrch Tomáš             ABM9919B 65.59
+H16C      Starčuk Zenon            TBM9905C 75.45
+H18C      Konečný Daniel           BBM9702C 63.17
+H18C      Vosáhlo Jan              SSU9701C 82.43
+H18C      Ash Adam                 OCB9701C110.14
+H21D      Zikmund Zdeněk           NPA6705C 34.30
+H21D      Cahel Marek              LCE8803C 35.58
+H21D      Strachota Petr           TJN8700C 41.39
+H21D      Jordanov Alexandr        ZBM9503C 46.35
+H21D      Bolech Filip             LPU8602C 47.10
+H21D      Otrusina Jan             ABM9210C 47.59
+H21D      Trš Lubomír              PBM7302C 50.26
+H21D      Červinka Jan             OSN8002C 50.34
+H21D      Choutka Jaroslav         BZR8000C 51.37
+H21D      Konfršt Josef            6HC8100C 53.08
+H21D      Přibyl Jan               OSN7801C 54.07
+H21D      Dressler Jan             SBK7911C 54.15
+H21D      Kurečka Robert           ABM7210C 57.24
+H21D      Sita Vratislav           SSU7341C 60.09
+H21D      Bednařík Aleš            VLI7309C 63.26
+H21D      Sýkora Lukáš             NNN8002C 71.42
+H21D      Bařina Jiří              SBK8101C 87.16
+H21D      Thiemel Jiří             ASU8948C888.88
+H35C      Odehnal Luděk            ADA7400C 57.55
+H35C      Procházka Jiří           ADA7512C 58.44
+H35C      Milán Radek              TBM    C 61.34
+H35C      Cicvárek Ivo             ZBM7504C 69.18
+H35C      Pospíšil Jiří            PBM7401C 72.50
+H35C      Dvořáček Jan             TTR7701C 73.58
+H35C      Mulíček Ondřej           ABM7405C 74.26
+H35C      Čížek Petr               ADA7101C 74.58
+H35C      Mašláň Jakub             TZL7801C 78.54
+H35C      Musil Radek              1DC7600C 78.56
+H35C      Marek Antonín            STE7501C 98.59
+H45C      Ptáček Pavel             BBM6508C 45.41
+H45C      Korpas Jaroslav          LBM6113C 49.07
+H45C      Ditrich David            ABM6902C 53.00
+H45C      Jordanov Nikolaj         VBM6501C 56.50
+H45C      Baďura Jan               BBM6800C 62.20
+H45C      Suk Marek                PZR6701C 63.07
+H45C      Hlava Miroslav           KON6515C 64.09
+H45C      Procházka Pavel          KUO6901C 67.19
+H45C      Zatloukal Tomáš          SSU6700C 67.55
+H45C      Patočka Petr             BBM6300C 67.56
+H45C      Starčuk Zenon            TBM6202C 80.04
+H45C      Vývoda Zdeněk            MOV6702C 87.32
+H55C      Kolařík Zdeněk           SBK5406C 42.40
+H55C      Kršák Karel              VIC5902C 46.21
+H55C      Truhlář Karel            ADA5111C 46.34
+H55C      Klimpl Petr              LPU5401C 50.39
+H55C      Maliňák Josef            SVS5501C 51.25
+H55C      Štěpánek Jiří            LBM5401C 52.29
+H55C      Henek Milan              RBK5307C 55.36
+H55C      Věžník Antonín           ADA5505C 56.14
+H55C      Sláma Dušan              TBM4730C 57.20
+H55C      Šnyrch František         ABM4902C 59.43
+H55C      Denemarek Oldřich        BBM5100C 61.51
+H55C      Ptáček Ladislav          BBM5300C 69.38
+H55C      Jalový Jaroslav          RBK5719C 72.19
+H55C      Chromčák František       JZL5201C 83.12
+H65C      Kříž Pavel               PZR4800C 45.02
+H65C      Bouček Václav            OCB4101C 52.36
+HDR       Kučera Tomáš             ZBM0605C 14.29
+HDR       Mudrák Šimon             NNN    C 14.50
+HDR       Bednářová Anna           NNN    C 14.55
+HDR       Chmelík Albert           GBM    C 15.04
+HDR       Ditrich Josef            ABM0701C 15.36
+HDR       Ondrová Anna             ZBM0553C 15.44
+HDR       Prášil Šimon             TTR0901C 17.03
+HDR       Kroutil Jošt             ZBM0701C 17.10
+HDR       Navrátil Sam             KYL0500C 17.37
+HDR       MIchálková Sabina        NNN    C 17.58
+HDR       Urválek Jan              TBM0707C 18.30
+HDR       Salajka Michal           LBM0701C 18.49
+HDR       Vodrážka Štěpán          VPM0802C 18.57
+HDR       Čech Radan               TBM0611C 18.59
+HDR       Lázničková Alžběta       NNN    C 19.01
+HDR       Chmelík Robert           NNN    C 19.15
+HDR       Odehnalová Tereza        ADA0851C 19.50
+HDR       Červinková Veronika      NNN    C 19.53
+HDR       Fuchsová Ema             TBM0653C 19.55
+HDR       Volkov Maksym            38S0700C 20.19
+HDR       Stříteský Tomáš          ZVS0801C 20.42
+HDR       Fuchs Marek              TBM0603C 21.11
+HDR       Pekárek Martin           RBK0501C 21.43
+HDR       Oujeský Lukáš            ADA    C 22.21
+HDR       Ryglová Adéla            NNN    C 22.34
+HDR       Kamenická Tereza Ester   OSN0888C 22.37
+HDR       Nešporová Terezie        TTR0852C 22.46
+HDR       Polanský Adam            PZR    C 22.49
+HDR       Slováčkek Ondra          TZL0909C 22.59
+HDR       Dittrich Matouš          NNN    C 23.02
+HDR       Sobotková Gabriela       PZR0850C 23.25
+HDR       Volkova Maja             38S0950C 23.39
+HDR       Venhoda Lukáš            SJI0801C 23.46
+HDR       Kroutil Tadeáš           ZBM0901C 24.08
+HDR       Mašláňová Ema            TZL0969C 24.10
+HDR       Černá Denisa             NNN    C 24.29
+HDR       Doušek Vilém             TBM0904C 24.44
+HDR       Salajka Viktor           LBM10  C 25.15
+HDR       Dvořáčková Jana          OSN0757C 25.19
+HDR       Čermák Adam              NNN    C 25.41
+HDR       Ditrich František        ABM0901C 26.43
+HDR       Vemola Matěj             UBM0951C 27.26
+HDR       Otrubová Karolína        KON0888C 27.28
+HDR       Dvořáček Jan             TTR0701C 27.31
+HDR       Milánová Viktorie        TBM    C 27.49
+HDR       Procházka Ferdinand      ADA    C 28.25
+HDR       Berger Tomáš             MOV    C 29.45
+HDR       Cicvárek Martin          ZBM0801C 30.16
+HDR       Sedláček Martin          ZBP    C 30.24
+HDR       Dobrovolná Anna          TBM0758C 30.59
+HDR       Kučerová Tereza          NNN    C 31.12
+HDR       Poul Josef               PZR    C 31.23
+HDR       Bednář Antonín           NNN    C 32.08
+HDR       Coufalová Rea            ZBM0900C 33.51
+HDR       Tomanková Alice          KSU0959C 34.00
+HDR       Coufalová Thea           ZBM1000C 34.20
+HDR       Lučan Matěj              LPU    C 34.38
+HDR       Šika Matěj               NNN    C 35.28
+HDR       Šichová Zuzana           NNN    C 35.32
+HDR       Kočová Klára             ZBM0850C 35.49
+HDR       Pospíšil Jan             PBM    C 35.56
+HDR       Pospíšil Martin          PBM    C 36.14
+HDR       Šímová Julie             NNN    C 38.11
+HDR       Aleš Mikuláš             ASU1017C 38.13
+HDR       Alešová Anna             ASU1077C 38.36
+HDR       Pekárek David            NNN    C 40.12
+HDR       Komárková Radka          TJH1151C 40.16
+HDR       Vodrážková Barbora       VPM1050C 40.35
+HDR       Věžníková Veronika       NNN    C 42.46
+HDR       Hulec František          KSH1101C 45.40
+HDR       Zvěřinová Nina           NNN    C 53.29
+HDR       Kurečková Aneta          ABM1054C 61.03
+HDR       Komárek Jonáš            NNN    C 64.24
+HDR       Čechová Johana           TBM0888C888.88
+P3        Koporová Lenka           ZBM9753A 30.22
+P3        Kovařík Martin           TRI7700C 30.50
+P3        Procházková Michaela     LPU8960C 33.05
+P3        Fučík Radek              ABM6512C 34.05
+P3        Šichová Radka            ABM8151C 35.31
+P3        Broschová Lucie          RBK7451C 38.20
+P3        Melichar Jaromír         LLI6301C 38.34
+P3        Pekárek Aleš             RBK6602C 39.58
+P3        Fukalová Martina         AOV9550B 42.48
+P3        Ruda Miroslav            VBM7106C 44.17
+P3        Zahradníček Petr         DKP8747C 45.06
+P3        Prášilová Mirka          TTR7451C 45.39
+P3        Chmelík Petr             NNN    C 46.22
+P3        Jurčák David             SOP7808C 46.37
+P3        Urbánek Petr             NNN0002C 47.41
+P3        Bednář Tomáš             NNN    C 48.00
+P3        Tachovský Vít            NNN    C 48.01
+P3        Kroutil Petr             NNN    C 48.31
+P3        Novotný Petr             NNN0004C 48.52
+P3        Klusáčková Jitka         TTR6152C 49.29
+P3        Vlčková Lenka            NNN    C 49.32
+P3        Balcar Vít               CET8103C 50.59
+P3        Urbánková Lenka          NNN0003C 52.17
+P3        Kianičková Petra         NNN    C 53.46
+P3        Doušková Vlasta          NNN    C 55.21
+P3        Vítková Miroslava        PTI6952C 55.36
+P3        Mrozková Olga            TRI7350C 56.37
+P3        Kříž Martin              PZR7801C 57.48
+P3        Doušek Ivo...            NNN    C 58.03
+P3        Šarmanová Jarmila        7SC6750C 58.38
+P3        Pethsová Andrea          KRN8355C 58.57
+P3        Kršáková Olga            VIC6758C 59.02
+P3        Balcarová Kateřina       CET8252C 60.00
+P3        Šnyrchová Jitka          ABM7653C 60.36
+P3        Svěchotová Hana          MOV7150C 60.49
+P3        Šrámek Ondřej            KSU9909A 61.05
+P3        Jílková Radka            ZBP7751C 61.12
+P3        Kopecká Jitka            UOL7750C 61.21
+P3        Vývodová Zuzana          MOV6952C 61.45
+P3        Hájková Lenka            NNN    C 62.08
+P3        Bednaříková Daniela      VLI7759C 62.55
+P3        Kostičová Anamarija      NNN0008C 65.36
+P3        Sedláček Otakar          ZBP0099C 66.31
+P3        Pejšková Eva             NNN    C 68.22
+P3        Sýkora Jan               NNN1301C 68.54
+P3        Fučík Štěpán             NNN    C 69.31
+P3        Bednařík Libor           VLI5200C 70.19
+P3        Pinterová Kateřina       VBM6651C 71.53
+P3        Jakubková Vendula        ABM9262C 72.01
+P3        Bednaříková Olga Marie   VLI5151C 72.40
+P3        Kůstková Tamara          VIC6854C 72.44
+P3        Svoboda Jan              NNN    C 82.55
+P3        Doušková Klára           TBM7761C 86.38
+P3        Tachovská Kamila         NNN    C 86.38
+P3        Hájková Bára             NNN    C 86.51
+P3        Králová Dana             XBM    C137.19
+P3        Margini Nikola           SBR    C888.88
+D10N      Procházková Doubravka    ADA0651C 17.32
+D10N      Benešová Michaela        SJH0651C 20.09
+D10N      Hlaváčová Lucie          TBM0660C 21.25
+D10N      Doušková Kateřina        TBM0679C 21.36
+D10N      Ehlová Martina           TBM0655C 21.55
+D10N      Mácalová Soňa            ZBM0550C 23.14
+D10N      Kopecká Nela             UOL0650C 23.47
+D10N      Nádeníčková Anna         ABM0556C 24.27
+D10N      Komárková Zbyňka         SJH0751C 28.10
+D10N      Přibylová Anežka         OSN0551C 34.34
+D10N      Králová Denisa           TBM0559C 36.33
+D10N      Oranyová Sylva           SJI0751C 38.20
+P6        Papuga Miroslav          NNN    C 47.46
+P6        König Lukáš              ZBM8001C 58.34
+P6        Pekárková Eva            TZL7653C 58.53
+P6        Čelenka                  TBM    C 64.07
+P6        Neckař Jan               NNN0007C 64.37
+P6        Volkov Alexander         38S8000C 64.43
+P6        Kožoušek Adam            NNN    C 66.00
+P6        Kříž Pavel               TBM8012C 67.39
+P6        Vítek Zbyněk             PTI6622C 67.51
+P6        Klusáčková Zuzana        TTR9151C 67.58
+P6        Kučera Viktor            NNN    C 75.13
+P6        Fajkusová Jitka          JPV6773C 78.11
+P6        Fuchs Jan                TBM0091C 80.35
+P6        Chládková Zuzana         NNN    C 80.58
+P6        Chládek Josef            NNN    C 81.13
+P6        Švec Jiří                CHT7201C 81.43
+P6        Tesařová Jitka           RBK6451C 82.47
+P6        Ondráček Martin          KSU7222C 85.44
+P6        Nechuta Milan            PZR7007C 86.55
+P6        Jirásková Dora           NNN0006C 91.00
+P6        Korvas Pavel             NNN0009C 93.39
+P6        Korvasová Veronika       NNN0010C 93.41
+P6        Ondráčková Adéla         KSU7676C 94.39
+P6        Sobotka Petr             PZR7008C 94.56
+P6        Patočka Aleš             NNN    C 95.26
+P6        Pospíšilová Iva          PBM7750C 96.37
+P6        Nechutová Alena          PZR6969C100.48
+P6        Chládkov Eva             NNN    C102.04
+P6        Fukalová Radmila         AOV7051C105.26
+P6        Stříteský Tomáš          ZVS7401C113.24
+P6        Krajíček Martin          NNN    C118.39
+P6        Marečková Iva            GBM6551C121.33
+P6        Valenta Jiří             LCE9201R124.06
+P6        Touš Michal              RBK8228C129.12
+P6        Burian Petr              NNN    C130.34
+P6        Miloň Marek              NNN    C132.53
+P6        Novotný Ondřej           OSN    C132.57
+P6        ŠKORPIL JAROíR           NNN    C147.38
+P6        Giaprimo Cremanchini     TBM    C888.88
+P6        Chmelař Martin           ASU9505A888.88
+H10N      Otruba František         PLU0501C 15.09
+H10N      Bednařík Vilém           VLI0509C 16.56
+H10N      Vedra Tobiáš             TBM0621C 16.59
+H10N      Nešpor Jiří              TTR0502C 17.14
+H10N      Brosch Ondřej            RBK0606C 17.36
+H10N      Pekárek Tobias           TZL0502C 18.29
+H10N      Kundrata Vít             JZL0700C 23.29
+H10N      Zelený Vladan            ZBM0405C 25.15
+H10N      Červinka Adam            OSN0707C 27.37
