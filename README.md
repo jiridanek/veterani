@@ -13,7 +13,9 @@ The code uses SQLite. I had fun times choosing from the three available bindings
 
 Usage:
 
-        go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2014/ -suffix .txt
+        export GOPATH=`pwd`
+
+        go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2018/ -suffix .txt
         go run src/veterani2013/vypis_vysledky.go
         go run src/veterani2013/vypis_v_kategorie.go
 
