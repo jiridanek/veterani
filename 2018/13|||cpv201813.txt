@@ -318,4 +318,3 @@ H75B      Sklenář Jan              MLA4201  71.50
 H75B      Novotný František        PUL4200  74.12
 H75B      Beránek Miroslav         BOR3900  98.36
 H80B      Attl Vladimír            PGP3800  51.02
-H80B      Kropáč Filip             KRL0503  60.07
