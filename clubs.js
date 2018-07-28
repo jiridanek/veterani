@@ -11,7 +11,7 @@ page.open('http://oris.orientacnisporty.cz/Adresar', function () {
 
         while (true) {
             var list = document.querySelectorAll("tr");
-            for (var i = 1; i < list.length; i++) { // skip table header
+            for (var i = 2; i < list.length; i++) { // skip table header
                 var name = list[i].children[0].children[0].text;
                 clubs.push(name);
             }
@@ -23,12 +23,12 @@ page.open('http://oris.orientacnisporty.cz/Adresar', function () {
             } else {
                 break;
             }
-            //console.log(clubs.length);
-
         }
+        console.log(clubs.length);
         for (var i = 0; i < clubs.length; i++) {
             console.log(clubs[i]);
         }
+
     });
     phantom.exit();
 });

@@ -15,7 +15,7 @@ Usage:
 
         export GOPATH=`pwd`
 
-        go run src/veterani2013/zpracuj_data.go -clubs clubs.txt -results 2018/ -suffix .txt
+        go run src/veterani2013/zpracuj_data.go -clubs clubs2018.txt -results 2018/ -suffix .txt
         go run src/veterani2013/vypis_vysledky.go
         go run src/veterani2013/vypis_v_kategorie.go
 
