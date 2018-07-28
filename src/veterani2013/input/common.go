@@ -1,12 +1,12 @@
 package input
 
 import (
-  "os"
-"log"
-"bufio"
-"strings"
-"strconv"
-"path"
+	"bufio"
+	"log"
+	"os"
+	"path"
+	"strconv"
+	"strings"
 	"veterani2013/types"
 )
 
@@ -30,9 +30,9 @@ func IsValid(clubs map[string]bool, r types.Regno, c types.Class, p int, s strin
 }
 
 func GetValid(csos []Csos, oddily map[string]bool, vysledek Zavod) []Csos {
-  rs := make([]Csos,0)
-  for _,r := range csos {
-  // skip out of order
+	rs := make([]Csos, 0)
+	for _, r := range csos {
+		// skip out of order
 		if r.License == "M" {
 			continue
 		}
@@ -46,9 +46,9 @@ func GetValid(csos []Csos, oddily map[string]bool, vysledek Zavod) []Csos {
 		}
 		// TODO? pokud jednorazovy zavod, preskoc vse krome kategorie B
 		if vysledek.Jednorazovy {
-		  if r.Class.C != "B" {
-		    continue
-		  }
+			if r.Class.C != "B" {
+				continue
+			}
 		}
 		rs = append(rs, r)
 	}
@@ -89,7 +89,7 @@ func Nacti_zavod(dir, fname string) Zavod {
 	case "v":
 		veteraniada = true
 	case "b":
-	  jednorazovy = true
+		jednorazovy = true
 	case "":
 		// do nothing
 	default:
@@ -102,8 +102,8 @@ func Nacti_zavod(dir, fname string) Zavod {
 }
 
 type Zavod struct {
-	Cislo int
-	Veteraniada  bool
+	Cislo       int
+	Veteraniada bool
 	Jednorazovy bool
-	Fname string
+	Fname       string
 }

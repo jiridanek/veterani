@@ -1,21 +1,21 @@
 package types
 
 import (
+	"errors"
 	"fmt"
 	"log"
+	"sort"
 	"strconv"
 	"strings"
-	"errors"
-	"sort"
 )
 
 // type Count struct {
 //   D map[interface{}]interface{}
-//   Updatefn func 
+//   Updatefn func
 // }
-// 
+//
 // func (c *Count) Update() {
-//   
+//
 //   i++
 // }
 
@@ -27,6 +27,7 @@ type Class struct {
 
 //sorting
 type ClassBy func(p1, p2 *Class) bool
+
 func (by ClassBy) Sort(classes []Class) {
 	cs := &classSorter{
 		classes: classes,
@@ -34,10 +35,12 @@ func (by ClassBy) Sort(classes []Class) {
 	}
 	sort.Sort(cs)
 }
+
 type classSorter struct {
 	classes []Class
 	by      ClassBy
 }
+
 func (s *classSorter) Len() int {
 	return len(s.classes)
 }
@@ -87,7 +90,7 @@ wrongformat:
 }
 
 func ClassLess(c, d Class) bool {
-  return c.A == d.A && c.B < d.B
+	return c.A == d.A && c.B < d.B
 }
 
 type Regno struct {
@@ -97,7 +100,7 @@ type Regno struct {
 }
 
 func (s Regno) String() string {
-  return fmt.Sprintf("%s%s%s", s.C, s.N, s.L)
+	return fmt.Sprintf("%s%s%s", s.C, s.N, s.L)
 }
 
 func NewRegno(s string) Regno {
@@ -119,18 +122,18 @@ func NewRegno(s string) Regno {
 var current = 100 + 18 // for 2018
 
 func (n Regno) ClassB() (int, error) {
-  if len(n.N) != 4 {
-    log.Println(n)
-    return 0, errors.New("Wrong numerical part")
-  }
-  byear, err := strconv.ParseInt(n.N[:2], 10, 32)
-  if err != nil {
-    log.Fatal(err)
-  }
-  
-  // 35, 40, 45, ..., 75, +++
-  // FIXME this breaks for people born after 2000
-  // < 35, does not matter
-  c := ((current - int(byear)) / 5) * 5
-  return c, nil
+	if len(n.N) != 4 {
+		log.Println(n)
+		return 0, errors.New("wrong numerical part")
+	}
+	byear, err := strconv.ParseInt(n.N[:2], 10, 32)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	// 35, 40, 45, ..., 75, +++
+	// FIXME this breaks for people born after 2000
+	// < 35, does not matter
+	c := ((current - int(byear)) / 5) * 5
+	return c, nil
 }

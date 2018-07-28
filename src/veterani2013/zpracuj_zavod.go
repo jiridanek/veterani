@@ -3,7 +3,7 @@ package main
 import (
    "fmt"
   "os"
-  "veterani2013/input
+  "veterani2013/input"
 )
 
 func main() {

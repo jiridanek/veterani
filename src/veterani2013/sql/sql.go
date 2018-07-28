@@ -304,14 +304,14 @@ func (db Db) Katporadi() {
 }
 
 type Result struct {
-	Kp_poradi int
+	Kp_poradi  int
 	P_poradi   int
 	Ap_poradi  int
 	Z_id       string
 	Z_prijmeni string
 	Z_jmeno    string
 	Nzavodu    int
-	Kategorie  string  // multiple comma separated categories in here
+	Kategorie  string // multiple comma separated categories in here
 	S_body     int
 	Ap_scores  string
 }
@@ -341,7 +341,7 @@ ORDER BY ap.poradi ASC`)
 	results := make([]Result, 0)
 
 	for rows.Next() {
-	        var kp_poradi int
+		var kp_poradi int
 		var p_poradi int
 		var ap_poradi int
 		var z_id string
@@ -361,7 +361,7 @@ ORDER BY ap.poradi ASC`)
 		}
 
 		r := Result{Kp_poradi: kp_poradi,
-		  P_poradi: p_poradi,
+			P_poradi:   p_poradi,
 			Ap_poradi:  ap_poradi,
 			Z_id:       z_id,
 			Z_prijmeni: z_prijmeni,
@@ -382,7 +382,7 @@ ORDER BY ap.poradi ASC`)
 }
 
 func (db *Db) Getraceresults(id string) map[int]int {
-  rows, err := db.Query(
+	rows, err := db.Query(
 		`SELECT DISTINCT
   v.zavodnikID,
   v.zavod,
@@ -397,7 +397,7 @@ WHERE zavodnikID=?`, id)
 	res := make(map[int]int, 0)
 
 	for rows.Next() {
-	        var v_zavodnikID string
+		var v_zavodnikID string
 		var v_zavod int
 		var v_body int
 
@@ -420,7 +420,7 @@ WHERE zavodnikID=?`, id)
 }
 
 func (db *Db) Getkatporadi(id, kat string) int {
-  rows, err := db.Query(
+	rows, err := db.Query(
 		`SELECT kp.poradi
 FROM katporadi kp
 WHERE kp.zavodnikID=? AND kp.kat=?`, id, kat)
@@ -430,19 +430,17 @@ WHERE kp.zavodnikID=? AND kp.kat=?`, id, kat)
 	defer rows.Close()
 
 	rows.Next()
-		var kp_poradi int
+	var kp_poradi int
 
-		err = rows.Scan(&kp_poradi)
-		if err != nil {
-			log.Fatal(err)
-		}
+	err = rows.Scan(&kp_poradi)
+	if err != nil {
+		log.Fatal(err)
+	}
 
-		
-	
 	if err = rows.Err(); err != nil || rows.Next() {
 		log.Fatal(err)
 	}
-		
+
 	return kp_poradi
 }
 

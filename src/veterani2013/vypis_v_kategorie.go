@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strconv"
 	"strings"
-	"veterani2013/types"
 	"veterani2013/sql"
+	"veterani2013/types"
 )
 
 type vysledky struct {
@@ -83,7 +83,7 @@ func vypis_vysledky(db sql.Db) {
 			fmt.Fprintf(f, "%2d.", i)
 		}
 		fmt.Fprintf(f, "\n")
-		
+
 		cntr := 1
 		prevporadi := 0
 		prevkatporadi := 0
@@ -133,76 +133,76 @@ func categoryFromIDAge(Kategorie, Z_id string) string {
 }
 
 func racesTable(l sql.Result, races map[int]int) *bytes.Buffer {
-  limit := 0 // max(keys in races)
-			for i, _ := range races {
-				if limit < i {
-					limit = i
+	limit := 0 // max(keys in races)
+	for i, _ := range races {
+		if limit < i {
+			limit = i
+		}
+	}
+
+	highlight := make([]bool, limit+1)
+	ss := strings.Split(l.Ap_scores, ",")
+	is := make([]int, 0)
+	for _, s := range ss {
+		convs, err := strconv.ParseInt(s, 10, 32)
+		if err != nil {
+			log.Fatal(err)
+		}
+		is = append(is, int(convs))
+	}
+	sort.Sort(sort.Reverse(sort.IntSlice(is)))
+
+	hs := HIGHLIGHT
+	if len(is) > hs {
+		is = is[:hs]
+	}
+	for i := limit; i > 0; i-- {
+		if hs > 0 {
+			v, hasrace := races[i]
+			if !hasrace {
+				continue
+			}
+			ishigh := false
+			for j, val := range is {
+				if val == v {
+					ishigh = true
+					is[j] = -1 // do not use again
+					break
 				}
 			}
-
-			highlight := make([]bool, limit+1)
-			ss := strings.Split(l.Ap_scores, ",")
-			is := make([]int, 0)
-			for _, s := range ss {
-				convs, err := strconv.ParseInt(s, 10, 32)
-				if err != nil {
-					log.Fatal(err)
-				}
-				is = append(is, int(convs))
+			if ishigh {
+				highlight[i] = true
+				hs--
 			}
-			sort.Sort(sort.Reverse(sort.IntSlice(is)))
+		}
+	}
 
-			hs := HIGHLIGHT
-			if len(is) > hs {
-				is = is[:hs]
-			}
-			for i := limit; i > 0; i-- {
-				if hs > 0 {
-					v, hasrace := races[i]
-					if !hasrace {
-						continue
-					}
-					ishigh := false
-					for j, val := range is {
-						if val == v {
-							ishigh = true
-							is[j] = -1 // do not use again
-							break
-						}
-					}
-					if ishigh {
-						highlight[i] = true
-						hs--
-					}
-				}
-			}
+	sraces := new(bytes.Buffer)
+	i := 1
+	for ; i <= limit; i++ {
+		var com string
+		if i == limit {
+			com = ""
+		} else {
+			com = ","
+		}
 
-			sraces := new(bytes.Buffer)
-			i := 1
-			for ; i <= limit; i++ {
-				var com string
-				if i == limit {
-					com = ""
-				} else {
-					com = ","
-				}
-
-				var val string
-				v, found := races[i]
-				if !found {
-					val = "  "
-				} else {
-					if highlight[i] {
-						val = fmt.Sprintf("<b>%2d</b>", v)
-					} else {
-						val = fmt.Sprintf("%2d", v)
-					}
-				}
-
-				fmt.Fprintf(sraces, "%s%s", val, com)
+		var val string
+		v, found := races[i]
+		if !found {
+			val = "  "
+		} else {
+			if highlight[i] {
+				val = fmt.Sprintf("<b>%2d</b>", v)
+			} else {
+				val = fmt.Sprintf("%2d", v)
 			}
-			for ; i <= COLS; i++ {
-				fmt.Fprintf(sraces, ",  ")
-			}
-			return sraces
+		}
+
+		fmt.Fprintf(sraces, "%s%s", val, com)
+	}
+	for ; i <= COLS; i++ {
+		fmt.Fprintf(sraces, ",  ")
+	}
+	return sraces
 }
