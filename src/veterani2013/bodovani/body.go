@@ -23,18 +23,6 @@ func max(a, b int) int {
 	return b
 }
 
-// func round(a float64) int {
-// 	whole := int(a)
-// 	fractional := a - float64(whole)
-// 	if math.Abs(fractional) >= 0.5 {
-// 		if whole < 0 {
-// 			return whole - 1
-// 		}
-// 		return whole + 1
-// 	}
-// 	return whole
-// }
-
 func Score(crank, pos, ncontestants int, veteraniada bool) int {
 	s := Ucast(crank) + Umisteni(crank, pos, ncontestants)
 	if veteraniada {
@@ -42,7 +30,6 @@ func Score(crank, pos, ncontestants int, veteraniada bool) int {
 	}
 
 	return s
-
 }
 
 func Ucast(kat int) int {
@@ -56,7 +43,6 @@ func Ucast(kat int) int {
 	default:
 		return 0
 	}
-
 }
 
 // Za účast 2 body.
@@ -119,5 +105,4 @@ func SubClassRank(cs map[types.Class]bool, c types.Class) int {
 		log.Fatal("!!!BUG: katno!!!")
 	}
 	return r
-
 }
