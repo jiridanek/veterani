@@ -11,6 +11,8 @@ The code uses SQLite. I had fun times choosing from the three available bindings
         
         for f in *; do iconv -f WINDOWS-1250 -t UTF-8 $f > $f.txt; done
 
+        awk -v FIELDWIDTHS='10 28 7' '@include "../../trim.awk"; { printf "%-10s%-25s%8-s%6s\n", $1, trim($2), $3, NR".00"}' 20\|\|\|cpv201820.txt > ../20\|\|\|cpv201820.txt
+
 Usage:
 
         export GOPATH=`pwd`
